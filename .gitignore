@@ -1,0 +1,40 @@
+# 调试 / 临时文件
+*.txt
+a.txt
+audit*.txt
+c*.txt
+debug*.py
+debug_out.txt
+g.txt
+gv.txt
+log.txt
+ls.txt
+m.txt
+m2.txt
+o*.txt
+p.txt
+pu.txt
+peek*.py
+r.txt
+st.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统 / 部署临时
+website/  # 旧子目录（已移走）
