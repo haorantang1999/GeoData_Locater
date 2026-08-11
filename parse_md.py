@@ -8,7 +8,7 @@ import re
 from pathlib import Path
 
 MD_PATH = Path("F:/Automation/国内遥感数据网站合集/国内外地理遥感数据网站合集.md")
-OUT_PATH = Path("F:/Automation/国内遥感数据网站合集/website/data.js")
+OUT_PATH = Path("F:/Automation/国内遥感数据网站合集/data.js")
 
 # 读取 markdown
 text = MD_PATH.read_text(encoding="utf-8")
@@ -248,7 +248,7 @@ OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
 js_content = "// 自动生成于 parse_md.py - 国内外遥感数据网站合集\n"
 js_content += "window.SITE_DATA = " + json.dumps({
     "title": "国内外地理遥感数据网站合集",
-    "subtitle": "165 个平台 · 1650 个数据集 · 13 个主题部分",
+    "subtitle": "170 个平台 · 1700 个数据集 · 13 个主题部分",
     "sections": sections
 }, ensure_ascii=False, indent=2) + ";\n"
 OUT_PATH.write_text(js_content, encoding="utf-8")

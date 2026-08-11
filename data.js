@@ -1,7 +1,7 @@
 // 自动生成于 parse_md.py - 国内外遥感数据网站合集
 window.SITE_DATA = {
   "title": "国内外地理遥感数据网站合集",
-  "subtitle": "165 个平台 · 1650 个数据集 · 13 个主题部分",
+  "subtitle": "170 个平台 · 1700 个数据集 · 13 个主题部分",
   "sections": [
     {
       "key": "第一部分",
@@ -471,9 +471,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "6.5",
-          "title": "Open Science Framework (OSF)  —  补充",
-          "anchor": "item-6.5",
+          "num": "6",
+          "title": "5. Open Science Framework (OSF)  —  补充",
+          "anchor": "item-6",
           "url": "https://osf.io/",
           "operator": "Center for Open Science（COS，非营利）",
           "intro": "使用特点：**综合性开放科研工作平台**——预注册 + 数据/材料/代码存储 + 多人协作 + 预印本 + 跨机构共享。每个文件都自动获得**永久 URL**。Sci Data、Nature Hum Behav、PNAS 等推荐通用库。",
@@ -2598,6 +2598,443 @@ window.SITE_DATA = {
               "label": "- **网址**"
             }
           ]
+        },
+        {
+          "num": "33",
+          "title": "香港天文台 HKO (Hong Kong Observatory)",
+          "anchor": "item-33",
+          "url": "https://www.hko.gov.hk/",
+          "operator": "香港特区政府",
+          "intro": "",
+          "features": "**1884 年至今 140 年长序列**，地表 / 高空 / 海洋 / 太阳辐射 / 紫外线 / 雷达 / 闪电定位全要素，**香港 SCI 论文 DAS 必用**。",
+          "datasets": [
+            {
+              "idx": 1,
+              "name": "香港气候月报（1884-2026）",
+              "desc": "：<https://www.hko.gov.hk/tc/cis/climat.htm>",
+              "url": "https://www.hko.gov.hk/tc/cis/climat.htm"
+            },
+            {
+              "idx": 2,
+              "name": "每日数据摘录（地表要素 / 高空探测）",
+              "desc": "：<https://www.hko.gov.hk/tc/cis/dailyExtract.htm>",
+              "url": "https://www.hko.gov.hk/tc/cis/dailyExtract.htm"
+            },
+            {
+              "idx": 3,
+              "name": "香港雨量 / 气温 / 相对湿度 / 风 / 日照时数 30 年常态值",
+              "desc": "：<https://www.hko.gov.hk/tc/cis/normal.htm>",
+              "url": "https://www.hko.gov.hk/tc/cis/normal.htm"
+            },
+            {
+              "idx": 4,
+              "name": "热带气旋路径 + 强度（1946-2026）",
+              "desc": "：<https://www.hko.gov.hk/tc/informtc/tcTrack/tcHistory.htm>",
+              "url": "https://www.hko.gov.hk/tc/informtc/tcTrack/tcHistory.htm"
+            },
+            {
+              "idx": 5,
+              "name": "香港潮汐观测 + 海面温度",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 6,
+              "name": "闪电定位网（闪电密度 + 极性）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 7,
+              "name": "香港太阳总辐射 / 直接辐射 / 散射辐射（小时值）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 8,
+              "name": "紫外线指数（UVA / UVB / UVI）实时 + 历史",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 9,
+              "name": "香港 PM2.5 / PM10 / NO2 / O3 / SO2 / CO（环保署联动）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 10,
+              "name": "官方开放数据 JSON API（机器可读）",
+              "desc": "：<https://www.hko.gov.hk/tc/abouthko/opendata_intro.htm>",
+              "url": "https://www.hko.gov.hk/tc/abouthko/opendata_intro.htm"
+            }
+          ],
+          "sub_links": [
+            {
+              "url": "https://www.hko.gov.hk/",
+              "label": "- 主页"
+            },
+            {
+              "url": "https://www.hko.gov.hk/tc/cis/climat.htm",
+              "label": "- 气候资料服务"
+            },
+            {
+              "url": "https://www.hko.gov.hk/tc/abouthko/opendata_intro.htm",
+              "label": "- 公开数据 API"
+            },
+            {
+              "url": "https://www.hko.gov.hk/tc/cis/dailyExtract.htm",
+              "label": "- 每日数据摘录"
+            }
+          ]
+        },
+        {
+          "num": "34",
+          "title": "香港 CSDI Portal - 空间数据共享平台 (Common Spatial Data Infrastructure)",
+          "anchor": "item-34",
+          "url": "https://portal.csdi.gov.hk/csdi-webpage/",
+          "operator": "香港特区政府发展局 / 地政总署",
+          "intro": "",
+          "features": "**香港特区政府跨部门空间数据共享平台**，汇聚 14 个部门 1100+ 数据集，2.05M+ 次下载，9.5B+ API 调用（2025 年数据），是**香港城市 / 地形 / 规划研究**的首选基础底图。",
+          "datasets": [
+            {
+              "idx": 1,
+              "name": "建筑物 / 建筑许可（CSDI Buildings）3D 模型",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 2,
+              "name": "地政总署 1:1000 地形图 + 矢量地籍图（iC1000）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 3,
+              "name": "香港 50cm 正射影像（DOM 50cm 全境）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 4,
+              "name": "数字高程模型（5m / 2m DEM / DSM）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 5,
+              "name": "全港 3D 步行路径网（3D Pedestrian Network）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 6,
+              "name": "城市规划委员会 法定图则（Outline Zoning Plan）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 7,
+              "name": "地下公共设施 + 雨水 / 污水管线数据",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 8,
+              "name": "环境 / 生态敏感区（红树林 / 湿地 / 海岸公园）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 9,
+              "name": "公共运输 + 道路网（GeoJSON / GML / KML）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 10,
+              "name": "CSDI API 服务（OGC WMS / WFS / WMTS）",
+              "desc": "",
+              "url": ""
+            }
+          ],
+          "sub_links": [
+            {
+              "url": "https://portal.csdi.gov.hk/csdi-webpage/",
+              "label": "- 主页"
+            },
+            {
+              "url": "https://portal.csdi.gov.hk/csdi-webpage/dataset",
+              "label": "- 数据集目录"
+            },
+            {
+              "url": "https://portal.csdi.gov.hk/csdi-webpage/api",
+              "label": "- API 服务"
+            }
+          ]
+        },
+        {
+          "num": "35",
+          "title": "澳门地球物理暨气象局 SMG (Macao Meteorological and Geophysical Bureau)",
+          "anchor": "item-35",
+          "url": "https://www.smg.gov.mo/",
+          "operator": "澳门特区政府",
+          "intro": "",
+          "features": "**1904 年至今百余年长序列**，澳门唯一官方气象机构，台风 / 风暴潮 / 雷暴 / 紫外线 / 空气质量一体化。",
+          "datasets": [
+            {
+              "idx": 1,
+              "name": "澳门气候常态值（30 年平均，气温 / 雨量 / 风 / 湿度）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 2,
+              "name": "每小时地面观测（澳门机场站 / 大潭山站 / 嘉乐庇站）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 3,
+              "name": "热带气旋路径 + 风力半径（1945-2026）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 4,
+              "name": "澳门潮汐观测表 + 海面温度",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 5,
+              "name": "空气质量监测（PM2.5 / PM10 / O3 / NO2 / SO2 / CO）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 6,
+              "name": "紫外线指数（UVI 小时值）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 7,
+              "name": "太阳总辐射 + 紫外辐射",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 8,
+              "name": "闪电定位（澳门 + 珠三角区域）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 9,
+              "name": "气象卫星云图（接收 FY-4 / Himawari-9）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 10,
+              "name": "SMG 开放数据 API（JSON / CSV）",
+              "desc": "",
+              "url": ""
+            }
+          ],
+          "sub_links": [
+            {
+              "url": "https://www.smg.gov.mo/",
+              "label": "- 主页"
+            },
+            {
+              "url": "https://www.smg.gov.mo/smg/climateTrack/climateTrack",
+              "label": "- 气象数据"
+            },
+            {
+              "url": "https://www.smg.gov.mo/smg/openData",
+              "label": "- 公开数据 API"
+            }
+          ]
+        },
+        {
+          "num": "36",
+          "title": "中国台湾省中央气象署 CWA (Central Weather Administration)",
+          "anchor": "item-36",
+          "url": "https://www.cwa.gov.tw/",
+          "operator": "中国台湾省交通部中央气象署",
+          "intro": "",
+          "features": "**中国台湾省全省 700+ 自动站 + 30+ 雷达 + 卫星接收**，长时序（1896-2026）日 / 月 / 年值全套，台风 / 地震 / 海啸 / 潮汐一体。",
+          "datasets": [
+            {
+              "idx": 1,
+              "name": "CWA 自动站逐时观测（气温 / 雨量 / 风 / 气压 / 湿度 / 日照，全省 700+ 站）",
+              "desc": "：<https://opendata.cwa.gov.tw/dataset/observation/O-A0001-001>",
+              "url": "https://opendata.cwa.gov.tw/dataset/observation/O-A0001-001"
+            },
+            {
+              "idx": 2,
+              "name": "台风警报 + 路径（1958-2026，最佳路径 + 警报发布）",
+              "desc": "：<https://www.cwa.gov.tw/V8/C/K/typhoon.html>",
+              "url": "https://www.cwa.gov.tw/V8/C/K/typhoon.html"
+            },
+            {
+              "idx": 3,
+              "name": "雷达回波（3D + 双偏振，5 分钟）",
+              "desc": "：<https://www.cwa.gov.tw/V8/C/O/R/RAD_Map.html>",
+              "url": "https://www.cwa.gov.tw/V8/C/O/R/RAD_Map.html"
+            },
+            {
+              "idx": 4,
+              "name": "福卫系列卫星接收（FS-7 / FS-8 真实色 / 红外）",
+              "desc": "：<https://www.cwa.gov.tw/V8/C/S/satellite.html>",
+              "url": "https://www.cwa.gov.tw/V8/C/S/satellite.html"
+            },
+            {
+              "idx": 5,
+              "name": "地震观测（中国台湾省宽频网 + 自由场强震）",
+              "desc": "：<https://www.cwa.gov.tw/V8/C/K/seismic.html>",
+              "url": "https://www.cwa.gov.tw/V8/C/K/seismic.html"
+            },
+            {
+              "idx": 6,
+              "name": "海啸浮标 + 沿岸潮位站（实时 + 历史）",
+              "desc": "：<https://www.cwa.gov.tw/V8/C/K/tsunami.html>",
+              "url": "https://www.cwa.gov.tw/V8/C/K/tsunami.html"
+            },
+            {
+              "idx": 7,
+              "name": "气候月报 / 年报（1896-2026 长序列）",
+              "desc": "：<https://www.cwa.gov.tw/V8/C/C/Statistics.html>",
+              "url": "https://www.cwa.gov.tw/V8/C/C/Statistics.html"
+            },
+            {
+              "idx": 8,
+              "name": "空气品质监测（76 站 PM2.5 / O3 等）",
+              "desc": "：<https://www.cwa.gov.tw/V8/C/K/aqi.html>",
+              "url": "https://www.cwa.gov.tw/V8/C/K/aqi.html"
+            },
+            {
+              "idx": 9,
+              "name": "CWA 开放数据 API（需注册免费 token，JSON / XML）",
+              "desc": "：<https://opendata.cwa.gov.tw/>",
+              "url": "https://opendata.cwa.gov.tw/"
+            },
+            {
+              "idx": 10,
+              "name": "福卫七号掩星 GNSS-RO 资料（与 NOAA 合作，公开）",
+              "desc": "：<https://www.cwa.gov.tw/V8/C/K/FS7.html>",
+              "url": "https://www.cwa.gov.tw/V8/C/K/FS7.html"
+            }
+          ],
+          "sub_links": [
+            {
+              "url": "https://www.cwa.gov.tw/",
+              "label": "- 主页"
+            },
+            {
+              "url": "https://www.cwa.gov.tw/V8/C/OBS.html",
+              "label": "- 观测资料查询"
+            },
+            {
+              "url": "https://opendata.cwa.gov.tw/",
+              "label": "- 开放数据平台"
+            },
+            {
+              "url": "https://www.cwa.gov.tw/V8/C/C/Statistics.html",
+              "label": "- 气候观测资料"
+            }
+          ]
+        },
+        {
+          "num": "37",
+          "title": "中国科学院数据云 (CASDC / 人地系统主题数据库)",
+          "anchor": "item-37",
+          "url": "https://www.casdc.cn/",
+          "operator": "中国科学院计算机网络信息中心 + 地理科学与资源研究所",
+          "intro": "",
+          "features": "**中科院\"科学数据库 (CSData)\"核心入口**,覆盖物理 / 化学 / 生物 / 地学 / 天文 / 空间 6 大类 600+ 子库;**人地系统主题数据库**由中国科学院地理科学与资源研究所承建,聚焦\"人口-资源-环境-发展\"耦合数据 (1:100 万地貌/土壤/植被/土地利用/人口/灾害等系列图件),与\"国家地球系统科学数据中心 (geodata.cn)\"形成中科院双数据入口;**DOI 注册 + CiteSpace 引用**.",
+          "datasets": [
+            {
+              "idx": 1,
+              "name": "1:100 万中国地貌类型图 (人地系统)",
+              "desc": "。",
+              "url": ""
+            },
+            {
+              "idx": 2,
+              "name": "1:100 万中国土壤类型图 (人地系统)",
+              "desc": "。",
+              "url": ""
+            },
+            {
+              "idx": 3,
+              "name": "1:100 万中国植被类型图 (人地系统)",
+              "desc": "。",
+              "url": ""
+            },
+            {
+              "idx": 4,
+              "name": "1:100 万中国土地利用现状图 (人地系统)",
+              "desc": "。",
+              "url": ""
+            },
+            {
+              "idx": 5,
+              "name": "中国人口 / 就业 / 居住空间 (1985-至今)",
+              "desc": "。",
+              "url": ""
+            },
+            {
+              "idx": 6,
+              "name": "中国县域社会经济综合数据库",
+              "desc": "。",
+              "url": ""
+            },
+            {
+              "idx": 7,
+              "name": "中国历史自然灾害数据集 (2000-至今)",
+              "desc": "。",
+              "url": ""
+            },
+            {
+              "idx": 8,
+              "name": "中国城镇化 / 城市群监测数据",
+              "desc": "。",
+              "url": ""
+            },
+            {
+              "idx": 9,
+              "name": "一带一路沿线资源环境数据集",
+              "desc": "。",
+              "url": ""
+            },
+            {
+              "idx": 10,
+              "name": "中国重大工程 (三峡/南水北调/西气东输) 遥感动态监测",
+              "desc": "。",
+              "url": ""
+            }
+          ],
+          "sub_links": [
+            {
+              "url": "https://www.casdc.cn/",
+              "label": "- 主站"
+            },
+            {
+              "url": "http://www.data.ac.cn/",
+              "label": "- 中科院数据云 (data.ac.cn)"
+            },
+            {
+              "url": "http://www.data.ac.cn/Loess/",
+              "label": "- 人地系统主题数据库"
+            },
+            {
+              "url": "https://www.scidb.cn/",
+              "label": "- 科学数据库总门户"
+            }
+          ]
         }
       ]
     },
@@ -2607,9 +3044,9 @@ window.SITE_DATA = {
       "anchor": "section-第四部分",
       "items": [
         {
-          "num": "33",
+          "num": "38",
           "title": "中国资源卫星应用中心（CRESDA / data.cresda.cn）",
-          "anchor": "item-33",
+          "anchor": "item-38",
           "url": "https://data.cresda.cn/",
           "operator": "中国资源卫星应用中心",
           "intro": "",
@@ -2692,9 +3129,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "34",
+          "num": "39",
           "title": "国家综合地球观测数据共享平台（ChinaGEOSS）",
-          "anchor": "item-34",
+          "anchor": "item-39",
           "url": "http://www.chinageoss.cn/",
           "operator": "国家遥感中心（NRSCC）",
           "intro": "",
@@ -2773,9 +3210,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "35",
+          "num": "40",
           "title": "科学数据银行（ScienceDB）",
-          "anchor": "item-35",
+          "anchor": "item-40",
           "url": "https://www.scidb.cn/",
           "operator": "中科院计算机网络信息中心",
           "intro": "",
@@ -2850,9 +3287,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "36",
+          "num": "41",
           "title": "CNSA-GEO 高分 16m 数据共享平台",
-          "anchor": "item-36",
+          "anchor": "item-41",
           "url": "http://www.cnsageo.com/",
           "operator": "中国国家航天局对地观测与数据中心",
           "intro": "",
@@ -2927,9 +3364,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "37",
+          "num": "42",
           "title": "国家遥感数据与应用服务平台（国际版）",
-          "anchor": "item-37",
+          "anchor": "item-42",
           "url": "https://www.cpeos.org.cn/",
           "operator": "",
           "intro": "",
@@ -3004,9 +3441,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "38",
+          "num": "43",
           "title": "地理空间数据云（GSCloud）",
-          "anchor": "item-38",
+          "anchor": "item-43",
           "url": "http://www.gscloud.cn/",
           "operator": "中科院计算机网络信息中心（2008 创立）",
           "intro": "",
@@ -3081,9 +3518,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "39",
+          "num": "44",
           "title": "中科院资源环境科学与数据中心（RESDC）",
-          "anchor": "item-39",
+          "anchor": "item-44",
           "url": "https://www.resdc.cn/",
           "operator": "中科院地理所（2005 成立）",
           "intro": "DOI 注册入口：<https://www.resdc.cn/DOI/>",
@@ -3158,9 +3595,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "40",
+          "num": "45",
           "title": "数字地球开放平台（GeoVis Open Platform）",
-          "anchor": "item-40",
+          "anchor": "item-45",
           "url": "https://open.geovisearth.com/",
           "operator": "中科院空天信息创新研究院（空天院）",
           "intro": "",
@@ -3235,9 +3672,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "41",
+          "num": "46",
           "title": "地质云 / 全国地质资料馆",
-          "anchor": "item-41",
+          "anchor": "item-46",
           "url": "http://geocloud.cgs.gov.cn/",
           "operator": "中国地质调查局 / 自然资源部",
           "intro": "",
@@ -3320,9 +3757,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "42",
+          "num": "47",
           "title": "国家标本资源平台（NSII）",
-          "anchor": "item-42",
+          "anchor": "item-47",
           "url": "http://www.nsii.org.cn/",
           "operator": "中科院植物所 / 动物所 / 微生物所",
           "intro": "",
@@ -3404,9 +3841,9 @@ window.SITE_DATA = {
       "anchor": "section-第五部分",
       "items": [
         {
-          "num": "43",
+          "num": "48",
           "title": "武汉大学 Hi-GLASS 全球定量遥感数据集",
-          "anchor": "item-43",
+          "anchor": "item-48",
           "url": "https://www.higlass.net.cn/",
           "operator": "",
           "intro": "发布方：武汉大学陆表与大气定量遥感湖北省重点实验室（梁顺林院士团队）",
@@ -3481,9 +3918,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "44",
+          "num": "49",
           "title": "武汉大学 DOTA 目标检测数据集",
-          "anchor": "item-44",
+          "anchor": "item-49",
           "url": "https://captain-whu.github.io/DOTA/",
           "operator": "",
           "intro": "发布方：武汉大学遥感信息工程学院（夏桂松教授团队）",
@@ -3558,9 +3995,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "45",
+          "num": "50",
           "title": "清华大学 1km / 10m 中国土地利用数据",
-          "anchor": "item-45",
+          "anchor": "item-50",
           "url": "https://www.ess.tsinghua.edu.cn/",
           "operator": "",
           "intro": "发布方：清华大学地球系统科学系 (宫鹏/陶福禄/白玉琪等)",
@@ -3635,9 +4072,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "46",
+          "num": "51",
           "title": "北京师范大学祁连山天空地一体化综合监测网数据",
-          "anchor": "item-46",
+          "anchor": "item-51",
           "url": "https://data.tpdc.ac.cn/",
           "operator": "",
           "intro": "发布方：北师大地理科学学部 (刘绍民教授团队)",
@@ -3712,9 +4149,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "47",
+          "num": "52",
           "title": "西北工业大学 NWPU 系列遥感数据集",
-          "anchor": "item-47",
+          "anchor": "item-52",
           "url": "https://www.marswhu.cn/",
           "operator": "",
           "intro": "发布方：西工大 (程塨 / 韩军伟 / 兰旭光等)",
@@ -3789,9 +4226,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "48",
+          "num": "53",
           "title": "国家航空遥感中心 40 周年数据成果",
-          "anchor": "item-48",
+          "anchor": "item-53",
           "url": "https://www.aircas.ac.cn/",
           "operator": "",
           "intro": "发布方：中科院航空遥感中心 (依托空天院)",
@@ -3866,9 +4303,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "49",
+          "num": "54",
           "title": "中国地质调查局全球生态环境遥感监测报告数据",
-          "anchor": "item-49",
+          "anchor": "item-54",
           "url": "http://www.cgs.gov.cn/",
           "operator": "",
           "intro": "发布方：中国地质调查局 / 国家遥感中心",
@@ -3943,9 +4380,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "50",
+          "num": "55",
           "title": "中科院植物所 / 标本馆数据",
-          "anchor": "item-50",
+          "anchor": "item-55",
           "url": "https://www.scib.ac.cn/",
           "operator": "",
           "intro": "发布方：中科院植物所 (PE 标本馆)",
@@ -4027,9 +4464,9 @@ window.SITE_DATA = {
       "anchor": "section-第六部分",
       "items": [
         {
-          "num": "51",
+          "num": "56",
           "title": "JAXA G-Portal（全球数据门户）",
-          "anchor": "item-51",
+          "anchor": "item-56",
           "url": "https://gportal.jaxa.jp/",
           "operator": "JAXA（Japan Aerospace Exploration Agency，日本宇宙航空研究开发机构）",
           "intro": "英文版：<https://gportal.jaxa.jp/gpr/?lang=en>",
@@ -4104,9 +4541,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "52",
+          "num": "57",
           "title": "JAXA EORC（地球观测研究中心）",
-          "anchor": "item-52",
+          "anchor": "item-57",
           "url": "https://www.eorc.jaxa.jp/",
           "operator": "",
           "intro": "EORC 产品页：<https://www.eorc.jaxa.jp/ALOS/en/dataset/dataset_index.htm>、<https://sharaku.eorc.jaxa.jp/>",
@@ -4181,9 +4618,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "53",
+          "num": "58",
           "title": "JMA 日本气象厅 / 气象业务支援センター",
-          "anchor": "item-53",
+          "anchor": "item-58",
           "url": "https://www.jma.go.jp/jma/indexe.html",
           "operator": "",
           "intro": "数据入口：<https://www.data.jma.go.jp/>",
@@ -4258,9 +4695,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "54",
+          "num": "59",
           "title": "NIES 日本国立环境研究所 / GOSAT 地面验证",
-          "anchor": "item-54",
+          "anchor": "item-59",
           "url": "https://www.nies.go.jp/",
           "operator": "",
           "intro": "GOSAT 数据：<https://www.gosat.nies.go.jp/en/>",
@@ -4335,9 +4772,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "55",
+          "num": "60",
           "title": "AIST 日本产业技术综合研究所 / GSJ 地调",
-          "anchor": "item-55",
+          "anchor": "item-60",
           "url": "https://www.gsj.jp/en/",
           "operator": "",
           "intro": "地质图数据库：<https://gbank.gsj.jp/>",
@@ -4412,9 +4849,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "56",
+          "num": "61",
           "title": "NICT 日本情报通信研究机构",
-          "anchor": "item-56",
+          "anchor": "item-61",
           "url": "https://www.nict.go.jp/en/",
           "operator": "",
           "intro": "",
@@ -4489,9 +4926,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "57",
+          "num": "62",
           "title": "JAXA Himawari 实时应用平台",
-          "anchor": "item-57",
+          "anchor": "item-62",
           "url": "https://www.eorc.jaxa.jp/ptree/index.html",
           "operator": "",
           "intro": "JMA 实时图：<https://www.jma.go.jp/bosai/himawari/>",
@@ -4566,9 +5003,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "58",
+          "num": "63",
           "title": "JAXA 卫星应用 / Kibo-ISS 平台",
-          "anchor": "item-58",
+          "anchor": "item-63",
           "url": "https://iss.jaxa.jp/en/",
           "operator": "",
           "intro": "",
@@ -4650,9 +5087,9 @@ window.SITE_DATA = {
       "anchor": "section-第七部分",
       "items": [
         {
-          "num": "59",
+          "num": "64",
           "title": "KARI 韩国航空宇宙研究院 / KOMPSAT 系列",
-          "anchor": "item-59",
+          "anchor": "item-64",
           "url": "https://www.kari.re.kr/eng/",
           "operator": "",
           "intro": "数据入口：<https://ksat.kari.re.kr/>（KOMPSAT 数据订购平台）",
@@ -4727,9 +5164,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "60",
+          "num": "65",
           "title": "KMA 韩国气象厅 / KOSC 韩国海洋卫星中心",
-          "anchor": "item-60",
+          "anchor": "item-65",
           "url": "https://www.kma.go.kr/eng/",
           "operator": "",
           "intro": "",
@@ -4808,9 +5245,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "61",
+          "num": "66",
           "title": "ISRO 印度空间研究组织 / MOSDAC 卫星数据",
-          "anchor": "item-61",
+          "anchor": "item-66",
           "url": "https://www.mosdac.gov.in/",
           "operator": "",
           "intro": "ISRO 官网：<https://www.isro.gov.in/>",
@@ -4885,9 +5322,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "62",
+          "num": "67",
           "title": "ISRO Bhuvan 印度地理空间门户",
-          "anchor": "item-62",
+          "anchor": "item-67",
           "url": "https://bhuvan.nrsc.gov.in/",
           "operator": "",
           "intro": "注册：免费",
@@ -4962,9 +5399,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "63",
+          "num": "68",
           "title": "CSA 加拿大航天局 + NRCan 地球科学",
-          "anchor": "item-63",
+          "anchor": "item-68",
           "url": "https://www.asc-csa.gc.ca/eng/",
           "operator": "",
           "intro": "",
@@ -5047,9 +5484,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "64",
+          "num": "69",
           "title": "CCRS 加拿大遥感中心 + NCEO",
-          "anchor": "item-64",
+          "anchor": "item-69",
           "url": "https://www.nrcan.gc.ca/earth-sciences/geomatics",
           "operator": "",
           "intro": "NCEO 北方遥感：<https://www.nceo.ca/>",
@@ -5124,9 +5561,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "65",
+          "num": "70",
           "title": "INPE 巴西国家空间研究所",
-          "anchor": "item-65",
+          "anchor": "item-70",
           "url": "http://www.inpe.br/",
           "operator": "",
           "intro": "",
@@ -5201,9 +5638,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "66",
+          "num": "71",
           "title": "GA 澳大利亚地球科学局 (Geoscience Australia)",
-          "anchor": "item-66",
+          "anchor": "item-71",
           "url": "https://www.ga.gov.au/",
           "operator": "",
           "intro": "数据入口：<https://www.ga.gov.au/scientific-topics/national-location-information/dimensions/3d-data>",
@@ -5278,9 +5715,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "67",
+          "num": "72",
           "title": "DLR 德国航空航天中心",
-          "anchor": "item-67",
+          "anchor": "item-72",
           "url": "https://www.dlr.de/",
           "operator": "",
           "intro": "数据入口：<https://geoservice.dlr.de/>、<https://eoweb.dlr.de/>",
@@ -5355,9 +5792,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "68",
+          "num": "73",
           "title": "CNES 法国国家空间研究中心 / PEPS 平台",
-          "anchor": "item-68",
+          "anchor": "item-73",
           "url": "https://cnes.fr/en",
           "operator": "",
           "intro": "PEPS（Plateforme d'Exploitation des Produits Sentinel）：<https://peps.cnes.fr/rocket/>",
@@ -5432,9 +5869,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "69",
+          "num": "74",
           "title": "Theia 法国地球环境数据公共服务中心",
-          "anchor": "item-69",
+          "anchor": "item-74",
           "url": "https://www.theia-land.fr/",
           "operator": "",
           "intro": "重点：多光谱地表反射率、生物物理参量、积雪、水体、土壤水分、城市、不透水面。",
@@ -5509,9 +5946,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "70",
+          "num": "75",
           "title": "NERC / NEODC / CEDA 英国自然环境研究理事会",
-          "anchor": "item-70",
+          "anchor": "item-75",
           "url": "https://nerc.ukri.org/",
           "operator": "",
           "intro": "",
@@ -5602,9 +6039,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "71",
+          "num": "76",
           "title": "UK Met Office + UKSA",
-          "anchor": "item-71",
+          "anchor": "item-76",
           "url": "https://www.metoffice.gov.uk/",
           "operator": "",
           "intro": "",
@@ -5683,9 +6120,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "72",
+          "num": "77",
           "title": "ASI 意大利航天局 / COSMO-SkyMed",
-          "anchor": "item-72",
+          "anchor": "item-77",
           "url": "https://www.asi.it/",
           "operator": "",
           "intro": "数据入口：<https://www.cosmo-skymed.it/>",
@@ -5760,9 +6197,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "73",
+          "num": "78",
           "title": "ROSHYDROMET / Roscosmos 俄罗斯",
-          "anchor": "item-73",
+          "anchor": "item-78",
           "url": "https://www.meteorf.gov.ru/",
           "operator": "",
           "intro": "",
@@ -5845,9 +6282,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "74",
+          "num": "79",
           "title": "ESA Earth Online + Third Party Missions (EOGW)",
-          "anchor": "item-74",
+          "anchor": "item-79",
           "url": "https://earth.esa.int/eogateway",
           "operator": "",
           "intro": "EOGW 目录：<https://earth.esa.int/eogateway/catalog>",
@@ -5922,9 +6359,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "75",
+          "num": "80",
           "title": "ESA EarthCODE 编程平台 (2024 新)",
-          "anchor": "item-75",
+          "anchor": "item-80",
           "url": "https://earthcode.esa.int/",
           "operator": "",
           "intro": "生态：与 GitHub / JupyterHub 联动。",
@@ -5999,9 +6436,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "76",
+          "num": "81",
           "title": "WEkEO (Copernicus 4 大云平台之一)",
-          "anchor": "item-76",
+          "anchor": "item-81",
           "url": "https://www.wekeo.eu/",
           "operator": "",
           "intro": "",
@@ -6076,9 +6513,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "77",
+          "num": "82",
           "title": "Copernicus DIAS + CDSE (Copernicus 数据空间)",
-          "anchor": "item-77",
+          "anchor": "item-82",
           "url": "https://dataspace.copernicus.eu/",
           "operator": "",
           "intro": "",
@@ -6169,9 +6606,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "78",
+          "num": "83",
           "title": "ECMWF / CAMS / C3S (Copernicus 服务子)",
-          "anchor": "item-78",
+          "anchor": "item-83",
           "url": "https://www.ecmwf.int/",
           "operator": "",
           "intro": "",
@@ -6254,9 +6691,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "79",
+          "num": "84",
           "title": "EUMETSAT + CMEMS (海洋)",
-          "anchor": "item-79",
+          "anchor": "item-84",
           "url": "https://www.eumetsat.int/",
           "operator": "",
           "intro": "",
@@ -6335,9 +6772,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "80",
+          "num": "85",
           "title": "SERVIR 全球 (NASA + USAID)",
-          "anchor": "item-80",
+          "anchor": "item-85",
           "url": "https://servirglobal.net/",
           "operator": "",
           "intro": "",
@@ -6412,9 +6849,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "81",
+          "num": "86",
           "title": "WMO 全球 + 区域气象",
-          "anchor": "item-81",
+          "anchor": "item-86",
           "url": "https://public.wmo.int/",
           "operator": "",
           "intro": "",
@@ -6493,9 +6930,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "82",
+          "num": "87",
           "title": "GEO / GEOSS 全球对地观测协调",
-          "anchor": "item-82",
+          "anchor": "item-87",
           "url": "https://www.earthobservations.org/",
           "operator": "",
           "intro": "",
@@ -6574,9 +7011,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "83",
+          "num": "88",
           "title": "SGDS / OGC 标准化组织",
-          "anchor": "item-83",
+          "anchor": "item-88",
           "url": "https://www.ogc.org/",
           "operator": "",
           "intro": "",
@@ -6663,9 +7100,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "84",
+          "num": "89",
           "title": "区域综合 GEO 平台",
-          "anchor": "item-84",
+          "anchor": "item-89",
           "url": "https://www.digitalearthafrica.org/",
           "operator": "",
           "intro": "",
@@ -6748,9 +7185,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "85",
+          "num": "90",
           "title": "IAGOS / NDACC / TOLNet / TCCON 探空网",
-          "anchor": "item-85",
+          "anchor": "item-90",
           "url": "https://www.iagos.org/",
           "operator": "",
           "intro": "",
@@ -6837,9 +7274,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "86",
+          "num": "91",
           "title": "ICOS / ACTRIS / Lifewatch 欧洲研究基础设施",
-          "anchor": "item-86",
+          "anchor": "item-91",
           "url": "https://www.icos-cp.eu/",
           "operator": "",
           "intro": "",
@@ -6922,9 +7359,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "87",
+          "num": "92",
           "title": "国际 / 区域地球科学数据中心（散在补充）",
-          "anchor": "item-87",
+          "anchor": "item-92",
           "url": "https://www.gbif.org/",
           "operator": "",
           "intro": "",
@@ -7011,9 +7448,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "88",
+          "num": "93",
           "title": "UN / OECD / World Bank 全球统计+遥感耦合",
-          "anchor": "item-88",
+          "anchor": "item-93",
           "url": "https://unstats.un.org/",
           "operator": "",
           "intro": "",
@@ -7104,9 +7541,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "89",
+          "num": "94",
           "title": "ARSET / EOS Education NASA 培训 + 数据",
-          "anchor": "item-89",
+          "anchor": "item-94",
           "url": "https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset",
           "operator": "",
           "intro": "",
@@ -7189,9 +7626,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "90",
+          "num": "95",
           "title": "其他国际 / 区域专题数据（散在补充）",
-          "anchor": "item-90",
+          "anchor": "item-95",
           "url": "https://www.wri.org/aqueduct/",
           "operator": "",
           "intro": "",
@@ -7309,9 +7746,9 @@ window.SITE_DATA = {
       "anchor": "section-第八部分",
       "items": [
         {
-          "num": "91",
+          "num": "96",
           "title": "Springer Nature 推荐通用数据存储库",
-          "anchor": "item-91",
+          "anchor": "item-96",
           "url": "https://www.springernature.com/gp/authors/research-data-policy/recommended-repositories",
           "operator": "",
           "intro": "",
@@ -7386,9 +7823,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "92",
+          "num": "97",
           "title": "Nature 子刊系列 / Scientific Data 推荐库",
-          "anchor": "item-92",
+          "anchor": "item-97",
           "url": "https://www.nature.com/sdata/policies/repositories",
           "operator": "",
           "intro": "",
@@ -7463,9 +7900,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "93",
+          "num": "98",
           "title": "Elsevier 推荐库 (Mendeley Data 已停运)",
-          "anchor": "item-93",
+          "anchor": "item-98",
           "url": "https://www.elsevier.com/authors/tools-and-resources/data-availability",
           "operator": "",
           "intro": "Mendeley Data 入口：<https://data.mendeley.com/>（2023 起停运，原数据由 Data Select 接管）",
@@ -7540,9 +7977,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "94",
+          "num": "99",
           "title": "IEEE DataPort",
-          "anchor": "item-94",
+          "anchor": "item-99",
           "url": "https://ieee-dataport.org/",
           "operator": "",
           "intro": "数据集规模：9000+ 数据集",
@@ -7617,9 +8054,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "95",
+          "num": "100",
           "title": "AGU 推荐库 / ESSD 数据论文",
-          "anchor": "item-95",
+          "anchor": "item-100",
           "url": "https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-for-Authors",
           "operator": "",
           "intro": "",
@@ -7698,9 +8135,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "96",
+          "num": "101",
           "title": "Copernicus Publications 旗下数据论文",
-          "anchor": "item-96",
+          "anchor": "item-101",
           "url": "https://publications.copernicus.org/ - ESSD: <https://essd.copernicus.org/",
           "operator": "",
           "intro": "",
@@ -7791,9 +8228,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "97",
+          "num": "102",
           "title": "PLOS / BMC / Cell Press 推荐库",
-          "anchor": "item-97",
+          "anchor": "item-102",
           "url": "https://plos.org/data-availability/",
           "operator": "",
           "intro": "",
@@ -7876,9 +8313,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "98",
+          "num": "103",
           "title": "MDPI 推荐库 / Data 系列期刊",
-          "anchor": "item-98",
+          "anchor": "item-103",
           "url": "https://www.mdpi.com/ethics#_bookmark18",
           "operator": "",
           "intro": "",
@@ -7961,9 +8398,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "99",
+          "num": "104",
           "title": "Frontiers 推荐库",
-          "anchor": "item-99",
+          "anchor": "item-104",
           "url": "https://www.frontiersin.org/guidelines/policies-and-publication-ethics",
           "operator": "",
           "intro": "",
@@ -8038,9 +8475,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "100",
+          "num": "105",
           "title": "AAAS / Science 系列数据政策",
-          "anchor": "item-100",
+          "anchor": "item-105",
           "url": "https://www.science.org/page/science-data-deposition",
           "operator": "",
           "intro": "",
@@ -8115,9 +8552,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "101",
+          "num": "106",
           "title": "中国 SCI 期刊与国内推荐库",
-          "anchor": "item-101",
+          "anchor": "item-106",
           "url": "https://www.csdata.org/",
           "operator": "",
           "intro": "",
@@ -8192,9 +8629,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "102",
+          "num": "107",
           "title": "AAS / arXiv / EarthArXiv 预印本+数据",
-          "anchor": "item-102",
+          "anchor": "item-107",
           "url": "https://arxiv.org/",
           "operator": "",
           "intro": "",
@@ -8273,9 +8710,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "103",
+          "num": "108",
           "title": "Wiley 推荐库",
-          "anchor": "item-103",
+          "anchor": "item-108",
           "url": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/data-sharing-citation.html",
           "operator": "",
           "intro": "",
@@ -8350,9 +8787,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "104",
+          "num": "109",
           "title": "数据论文期刊 (Data Paper) 集合",
-          "anchor": "item-104",
+          "anchor": "item-109",
           "url": "https://essd.copernicus.org/",
           "operator": "",
           "intro": "",
@@ -8446,9 +8883,9 @@ window.SITE_DATA = {
       "anchor": "section-第九部分",
       "items": [
         {
-          "num": "105",
+          "num": "110",
           "title": "re3data.org（全球研究数据仓储注册中心）",
-          "anchor": "item-105",
+          "anchor": "item-110",
           "url": "https://www.re3data.org/",
           "operator": "DataCite + GFZ 德国地球科学中心",
           "intro": "功能：检索、对比、推荐、DOI 链接。",
@@ -8523,9 +8960,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "106",
+          "num": "111",
           "title": "FAIRsharing（FAIR 数据标准 + 仓储 + 政策）",
-          "anchor": "item-106",
+          "anchor": "item-111",
           "url": "https://fairsharing.org/",
           "operator": "Oxford e-Research Centre / FAIRsharing 团队",
           "intro": "",
@@ -8600,9 +9037,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "107",
+          "num": "112",
           "title": "DataCite（数据 DOI 中央注册）",
-          "anchor": "item-107",
+          "anchor": "item-112",
           "url": "https://datacite.org/",
           "operator": "",
           "intro": "搜索入口：<https://search.datacite.org/>",
@@ -8677,9 +9114,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "108",
+          "num": "113",
           "title": "Google Dataset Search",
-          "anchor": "item-108",
+          "anchor": "item-113",
           "url": "https://datasetsearch.research.google.com/",
           "operator": "",
           "intro": "与项目耦合：与 schema.org Dataset 联动。",
@@ -8754,9 +9191,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "109",
+          "num": "114",
           "title": "OpenAIRE / EUDAT",
-          "anchor": "item-109",
+          "anchor": "item-114",
           "url": "https://www.openaire.eu/",
           "operator": "",
           "intro": "",
@@ -8839,9 +9276,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "110",
+          "num": "115",
           "title": "WorldFAIR / GO FAIR / F-UJI FAIR 度量",
-          "anchor": "item-110",
+          "anchor": "item-115",
           "url": "https://www.go-fair.org/",
           "operator": "",
           "intro": "",
@@ -8924,9 +9361,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "111",
+          "num": "116",
           "title": "EOSC + NII (日) + DataONE (美)",
-          "anchor": "item-111",
+          "anchor": "item-116",
           "url": "https://eosc.eu/",
           "operator": "",
           "intro": "",
@@ -9013,9 +9450,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "112",
+          "num": "117",
           "title": "OAIster / BASE / WorldCat",
-          "anchor": "item-112",
+          "anchor": "item-117",
           "url": "https://www.oclc.org/en/oaister.html",
           "operator": "",
           "intro": "",
@@ -9105,9 +9542,9 @@ window.SITE_DATA = {
       "anchor": "section-第十部分",
       "items": [
         {
-          "num": "113",
+          "num": "118",
           "title": "Hugging Face Datasets",
-          "anchor": "item-113",
+          "anchor": "item-118",
           "url": "https://huggingface.co/datasets",
           "operator": "",
           "intro": "DOI：部分通过 Zenodo 集成。",
@@ -9182,9 +9619,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "114",
+          "num": "119",
           "title": "Kaggle Datasets + Competitions",
-          "anchor": "item-114",
+          "anchor": "item-119",
           "url": "https://www.kaggle.com/datasets",
           "operator": "",
           "intro": "",
@@ -9267,9 +9704,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "115",
+          "num": "120",
           "title": "Roboflow Universe",
-          "anchor": "item-115",
+          "anchor": "item-120",
           "url": "https://universe.roboflow.com/",
           "operator": "",
           "intro": "",
@@ -9344,9 +9781,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "116",
+          "num": "121",
           "title": "Open Data Hub / AI4MARS / OpenSpaceNet",
-          "anchor": "item-116",
+          "anchor": "item-121",
           "url": "https://opendatahub.io/",
           "operator": "",
           "intro": "",
@@ -9429,9 +9866,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "117",
+          "num": "122",
           "title": "paperswithcode + Connected Papers",
-          "anchor": "item-117",
+          "anchor": "item-122",
           "url": "https://paperswithcode.com/",
           "operator": "",
           "intro": "",
@@ -9510,9 +9947,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "118",
+          "num": "123",
           "title": "GitHub Datasets / Awesome 系列",
-          "anchor": "item-118",
+          "anchor": "item-123",
           "url": "https://github.com/search?q=dataset&type=repositories",
           "operator": "",
           "intro": "",
@@ -9591,9 +10028,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "119",
+          "num": "124",
           "title": "Radiant Earth (ML4EO 平台)",
-          "anchor": "item-119",
+          "anchor": "item-124",
           "url": "https://www.radiant.earth/",
           "operator": "",
           "intro": "",
@@ -9668,13 +10105,13 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "120",
+          "num": "125",
           "title": "AI for Earth 基础模型",
-          "anchor": "item-120",
-          "url": "https://github.com/google-deepmind/alphaearth-foundations",
+          "anchor": "item-125",
+          "url": "https://huggingface.co/ibm-nasa-geospatial",
           "operator": "",
           "intro": "",
-          "features": "**大模型时代的\"基础模型\"**。",
+          "features": "**大模型时代的\"基础模型\"**；核心权威入口是 NASA + IBM 联合的 Prithvi 系列（HuggingFace `ibm-nasa-geospatial` 组织），其它代表性 FM 包括 DeepMind AlphaEarth Foundations、Microsoft SatCLIP、Meta SatMAE++、Microsoft Aurora、Nvidia Earth-2、Google ClimaX 等。",
           "datasets": [
             {
               "idx": 1,
@@ -9739,6 +10176,14 @@ window.SITE_DATA = {
           ],
           "sub_links": [
             {
+              "url": "https://huggingface.co/ibm-nasa-geospatial",
+              "label": "- 主入口 (NASA + IBM Prithvi)"
+            },
+            {
+              "url": "https://github.com/NASA-IMPACT/Prithvi-100M",
+              "label": "- Prithvi 论文/代码"
+            },
+            {
               "url": "https://github.com/google-deepmind/alphaearth-foundations",
               "label": "- AlphaEarth Foundations"
             },
@@ -9747,8 +10192,182 @@ window.SITE_DATA = {
               "label": "- SatCLIP"
             },
             {
-              "url": "https://huggingface.co/ibm-nasa-geospatial",
-              "label": "- Prithvi"
+              "url": "https://huggingface.co/collections/ibm-nasa-geospatial/prithvi-collection",
+              "label": "- Hugging Face 遥感 FM 集合"
+            }
+          ]
+        },
+        {
+          "num": "126",
+          "title": "Google Earth Engine (GEE)",
+          "anchor": "item-126",
+          "url": "https://earthengine.google.com/",
+          "operator": "Google",
+          "intro": "",
+          "features": "**全球最主流的云原生地球观测平台**;内置 1000+ PB 数据目录(Landsat/Sentinel/MODIS/ERA5/DEM/夜间灯光/SAR 等),无需下载即可在云端调用 + 算力处理;**免费注册**(非商用),提供 JavaScript / Python API;支持 `ee.Image`、`ee.ImageCollection`、`ee.Reducer` 等高级数据立方体操作;**与 TensorFlow / Vertex AI 集成**,可直接训练遥感深度学习模型。",
+          "datasets": [
+            {
+              "idx": 1,
+              "name": "Landsat 全系列 (1972-至今, L1-L9)",
+              "desc": "。",
+              "url": ""
+            },
+            {
+              "idx": 2,
+              "name": "Sentinel-1 SAR / Sentinel-2 MSI / Sentinel-3 OLCI/SLSTR",
+              "desc": "。",
+              "url": ""
+            },
+            {
+              "idx": 3,
+              "name": "MODIS Terra+Aqua 全部 L1/L2/L3/L4 产品 (NDVI/EVI/LST/LAI/Snow 等)",
+              "desc": "。",
+              "url": ""
+            },
+            {
+              "idx": 4,
+              "name": "ERA5 气候再分析 (小时级, 1940-至今)",
+              "desc": "。",
+              "url": ""
+            },
+            {
+              "idx": 5,
+              "name": "SRTM 30m / ASTER GDEM / NASADEM / COP-30/90 高程",
+              "desc": "。",
+              "url": ""
+            },
+            {
+              "idx": 6,
+              "name": "NASA NLDAS / GLDAS / FLDAS 陆面同化",
+              "desc": "。",
+              "url": ""
+            },
+            {
+              "idx": 7,
+              "name": "NOAA NCEP-DOE Reanalysis 2 / CPC / CHIRPS 降水",
+              "desc": "。",
+              "url": ""
+            },
+            {
+              "idx": 8,
+              "name": "JAXA ALOS PALSAR / ALOS-2 全球 SAR",
+              "desc": "。",
+              "url": ""
+            },
+            {
+              "idx": 9,
+              "name": "夜间灯光 VIIRS / DMSP-OLS",
+              "desc": "。",
+              "url": ""
+            },
+            {
+              "idx": 10,
+              "name": "全球水体 / 土地覆被 / 灾情 / 火灾 / 雪盖 / 海冰 等派生数据集 (EE 社区发布)",
+              "desc": "。",
+              "url": ""
+            }
+          ],
+          "sub_links": [
+            {
+              "url": "https://earthengine.google.com/",
+              "label": "- 主页"
+            },
+            {
+              "url": "https://code.earthengine.google.com/",
+              "label": "- Code Editor"
+            },
+            {
+              "url": "https://developers.google.com/earth-engine/datasets",
+              "label": "- Data Catalog"
+            },
+            {
+              "url": "https://developers.google.com/earth-engine/guides",
+              "label": "- 文档"
+            }
+          ]
+        },
+        {
+          "num": "127",
+          "title": "Awesome GEE Data Community (GEE 社区数据集索引)",
+          "anchor": "item-127",
+          "url": "https://gee-community-catalog.org/",
+          "operator": "Samapriya Roy 等开源社区维护者",
+          "intro": "",
+          "features": "**GEE 平台上最大的\"非官方\"社区数据集目录**,由全球用户贡献 `ee.ImageCollection` 形式的资产(已托管为 GEE Asset);**避开数据下载 + 预处理**,在 GEE 中一行代码即可调用;包含 OpenStreetMap、Microsoft Building Footprints、Google Open Buildings、WorldPop、JRC Global Surface Water、ESA WorldCover 等 200+ 数据集;**与 EE Data Catalog 互补**(官方主目录 + 社区衍生目录)。",
+          "datasets": [
+            {
+              "idx": 1,
+              "name": "OpenStreetMap 全要素矢量化 (roads/buildings/landuse)",
+              "desc": "。",
+              "url": ""
+            },
+            {
+              "idx": 2,
+              "name": "Microsoft Building Footprints (全球 9 亿+ 建筑)",
+              "desc": "。",
+              "url": ""
+            },
+            {
+              "idx": 3,
+              "name": "Google Open Buildings v3 (16 亿+ 建筑)",
+              "desc": "。",
+              "url": ""
+            },
+            {
+              "idx": 4,
+              "name": "WorldPop 人口 1km / 100m 全球",
+              "desc": "。",
+              "url": ""
+            },
+            {
+              "idx": 5,
+              "name": "JRC Global Surface Water 30m 时序 (1984-至今)",
+              "desc": "。",
+              "url": ""
+            },
+            {
+              "idx": 6,
+              "name": "ESA WorldCover 10m 全球土地覆被 (2020/2021)",
+              "desc": "。",
+              "url": ""
+            },
+            {
+              "idx": 7,
+              "name": "GLAD 全球耕地 / 草原 / 树冠变化告警",
+              "desc": "。",
+              "url": ""
+            },
+            {
+              "idx": 8,
+              "name": "NOAA Coral Reef Watch 珊瑚白化 / 海水表面温度",
+              "desc": "。",
+              "url": ""
+            },
+            {
+              "idx": 9,
+              "name": "Global Forest Watch (GFW) 森林覆盖 / 损失",
+              "desc": "。",
+              "url": ""
+            },
+            {
+              "idx": 10,
+              "name": "NASA Black Marble VIIRS 夜间灯光高质量月度合成",
+              "desc": "。",
+              "url": ""
+            }
+          ],
+          "sub_links": [
+            {
+              "url": "https://gee-community-catalog.org/",
+              "label": "- Awesome GEE Community Catalog"
+            },
+            {
+              "url": "https://github.com/gee-community/awesome-gee-community-datasets",
+              "label": "- GitHub"
+            },
+            {
+              "url": "https://gee-community-catalog.org/datasets",
+              "label": "- 数据集浏览"
             }
           ]
         }
@@ -9760,9 +10379,9 @@ window.SITE_DATA = {
       "anchor": "section-第十一部分",
       "items": [
         {
-          "num": "121",
+          "num": "128",
           "title": "中科院空天信息创新研究院（空天院）",
-          "anchor": "item-121",
+          "anchor": "item-128",
           "url": "https://www.aircas.ac.cn/",
           "operator": "",
           "intro": "数据入口：<https://www.openatcs.org/>、<https://data.casearth.cn/>（CASEarth）",
@@ -9837,9 +10456,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "122",
+          "num": "129",
           "title": "中科院地理科学与资源研究所",
-          "anchor": "item-122",
+          "anchor": "item-129",
           "url": "https://www.igsnrr.cas.cn/",
           "operator": "",
           "intro": "数据入口：<https://www.resdc.cn/>（已部分收录在第 39 节）+ <https://www.geodata.cn/>（已部分在第 22 节）",
@@ -9914,9 +10533,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "123",
+          "num": "130",
           "title": "中科院青藏高原研究所",
-          "anchor": "item-123",
+          "anchor": "item-130",
           "url": "https://www.itpcas.cas.cn/",
           "operator": "",
           "intro": "重点数据：TPDC 已收录大部分（见 21 节）",
@@ -9991,9 +10610,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "124",
+          "num": "131",
           "title": "中科院南京地理与湖泊研究所",
-          "anchor": "item-124",
+          "anchor": "item-131",
           "url": "http://www.niglas.cas.cn/",
           "operator": "",
           "intro": "重点数据：**湖泊 + 流域 + 城市化** 三位一体。",
@@ -10068,9 +10687,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "125",
+          "num": "132",
           "title": "中科院东北地理与农业生态研究所",
-          "anchor": "item-125",
+          "anchor": "item-132",
           "url": "http://www.iga.ac.cn/",
           "operator": "",
           "intro": "重点数据：东北黑土地 + 湿地 + 农业。",
@@ -10145,9 +10764,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "126",
+          "num": "133",
           "title": "中科院西北高原生物研究所 / 西北生态环境资源研究院",
-          "anchor": "item-126",
+          "anchor": "item-133",
           "url": "http://www.nieer.cas.cn/",
           "operator": "",
           "intro": "重点数据：青藏 + 西北 + 高山。",
@@ -10222,9 +10841,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "127",
+          "num": "134",
           "title": "中科院华南植物园 / 仙湖植物园",
-          "anchor": "item-127",
+          "anchor": "item-134",
           "url": "https://www.scib.ac.cn/",
           "operator": "",
           "intro": "重点数据：南亚热带 + 热带 植被。",
@@ -10299,9 +10918,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "128",
+          "num": "135",
           "title": "中科院大气物理研究所",
-          "anchor": "item-128",
+          "anchor": "item-135",
           "url": "http://www.iap.cas.cn/",
           "operator": "",
           "intro": "数据入口：<https://www.iap.cas.cn/kyjyyj/>",
@@ -10376,9 +10995,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "129",
+          "num": "136",
           "title": "武汉大学 / 测绘遥感信息工程国家重点实验室",
-          "anchor": "item-129",
+          "anchor": "item-136",
           "url": "https://www.lmars.whu.edu.cn/",
           "operator": "",
           "intro": "数据入口：<https://www.scholat.com/lmars>、<https://github.com/whu-luojun>",
@@ -10453,9 +11072,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "130",
+          "num": "137",
           "title": "清华大学地球系统科学系",
-          "anchor": "item-130",
+          "anchor": "item-137",
           "url": "https://www.ess.tsinghua.edu.cn/",
           "operator": "",
           "intro": "重点数据：地球系统 + 土地利用 + 碳循环。",
@@ -10530,9 +11149,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "131",
+          "num": "138",
           "title": "北京师范大学地理科学学部",
-          "anchor": "item-131",
+          "anchor": "item-138",
           "url": "https://geo.bnu.edu.cn/",
           "operator": "",
           "intro": "重点数据：地表通量 + 黑河 + 祁连山 + 灾害。",
@@ -10607,9 +11226,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "132",
+          "num": "139",
           "title": "同济大学测绘与地理信息学院",
-          "anchor": "item-132",
+          "anchor": "item-139",
           "url": "https://celiang.tongji.edu.cn/",
           "operator": "",
           "intro": "重点数据：导航定位 + 极地 + 城市。",
@@ -10684,9 +11303,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "133",
+          "num": "140",
           "title": "中山大学地球与环境学院",
-          "anchor": "item-133",
+          "anchor": "item-140",
           "url": "https://ese.sysu.edu.cn/",
           "operator": "",
           "intro": "重点数据：热带亚热带 + 海岸带 + 城市化。",
@@ -10761,9 +11380,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "134",
+          "num": "141",
           "title": "中国地质大学（武汉 / 北京）",
-          "anchor": "item-134",
+          "anchor": "item-141",
           "url": "https://www.cug.edu.cn/",
           "operator": "",
           "intro": "重点数据：地质遥感 + 灾害 + 资源。",
@@ -10838,9 +11457,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "135",
+          "num": "142",
           "title": "华东师范大学地理科学学院",
-          "anchor": "item-135",
+          "anchor": "item-142",
           "url": "https://geo.ecnu.edu.cn/",
           "operator": "",
           "intro": "重点数据：河口海岸 + 长江 + 城市 + 全球变化。",
@@ -10915,9 +11534,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "136",
+          "num": "143",
           "title": "南京大学 / 南京信息工程大学",
-          "anchor": "item-136",
+          "anchor": "item-143",
           "url": "https://geography.nju.edu.cn/",
           "operator": "",
           "intro": "重点数据：气候 + 气象 + GIS。",
@@ -10996,9 +11615,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "137",
+          "num": "144",
           "title": "西北大学 / 长安大学 / 西安测绘研究所",
-          "anchor": "item-137",
+          "anchor": "item-144",
           "url": "https://geo.nwu.edu.cn/",
           "operator": "",
           "intro": "重点数据：丝绸之路 + 西部 + 测绘。",
@@ -11081,9 +11700,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "138",
+          "num": "145",
           "title": "中国矿业大学 / 中国农业大学 / 中国海洋大学",
-          "anchor": "item-138",
+          "anchor": "item-145",
           "url": "https://www.cumt.edu.cn/",
           "operator": "",
           "intro": "重点数据：矿山 + 农业 + 海洋。",
@@ -11166,9 +11785,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "139",
+          "num": "146",
           "title": "哈尔滨工业大学 / 国防科技大学 / 解放军信息工程大学",
-          "anchor": "item-139",
+          "anchor": "item-146",
           "url": "https://www.hit.edu.cn/",
           "operator": "",
           "intro": "重点数据：极地 + 微波 + SAR + 军事。",
@@ -11251,9 +11870,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "140",
+          "num": "147",
           "title": "北京大学 / 北京林业大学 / 中国地质大学（北京）",
-          "anchor": "item-140",
+          "anchor": "item-147",
           "url": "https://urban.pku.edu.cn/",
           "operator": "",
           "intro": "重点数据：城市 + 生态 + 地质。",
@@ -11343,9 +11962,9 @@ window.SITE_DATA = {
       "anchor": "section-第十二部分",
       "items": [
         {
-          "num": "141",
+          "num": "148",
           "title": "水利部 / 全国水利一张图",
-          "anchor": "item-141",
+          "anchor": "item-148",
           "url": "http://www.mwr.gov.cn/",
           "operator": "",
           "intro": "",
@@ -11428,9 +12047,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "142",
+          "num": "149",
           "title": "自然资源部 / 国家海洋环境监测中心 / 海洋一所",
-          "anchor": "item-142",
+          "anchor": "item-149",
           "url": "http://www.mnr.gov.cn/",
           "operator": "",
           "intro": "",
@@ -11525,9 +12144,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "143",
+          "num": "150",
           "title": "生态环境部 / 中国环境监测总站 / 环境规划院",
-          "anchor": "item-143",
+          "anchor": "item-150",
           "url": "https://www.mee.gov.cn/",
           "operator": "",
           "intro": "",
@@ -11618,9 +12237,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "144",
+          "num": "151",
           "title": "农业农村部 / 中国农科院 / 全国土壤普查办公室",
-          "anchor": "item-144",
+          "anchor": "item-151",
           "url": "http://www.moa.gov.cn/",
           "operator": "",
           "intro": "",
@@ -11707,9 +12326,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "145",
+          "num": "152",
           "title": "中国气象局 / 国家气象中心 / 各省气象台",
-          "anchor": "item-145",
+          "anchor": "item-152",
           "url": "http://www.cma.gov.cn/",
           "operator": "",
           "intro": "",
@@ -11796,9 +12415,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "146",
+          "num": "153",
           "title": "中国地震局 / 中国地震台网中心 / 各所",
-          "anchor": "item-146",
+          "anchor": "item-153",
           "url": "https://www.cea.gov.cn/",
           "operator": "",
           "intro": "",
@@ -11889,9 +12508,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "147",
+          "num": "154",
           "title": "中国地质调查局 / 全国地质资料馆 / 局属中心",
-          "anchor": "item-147",
+          "anchor": "item-154",
           "url": "https://www.cgs.gov.cn/",
           "operator": "",
           "intro": "",
@@ -11986,9 +12605,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "148",
+          "num": "155",
           "title": "国家林业和草原局 / 国家公园管理局",
-          "anchor": "item-148",
+          "anchor": "item-155",
           "url": "http://www.forestry.gov.cn/",
           "operator": "",
           "intro": "",
@@ -12071,9 +12690,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "149",
+          "num": "156",
           "title": "中国煤炭 / 石油 / 电力 / 钢铁 / 核工业行业数据",
-          "anchor": "item-149",
+          "anchor": "item-156",
           "url": "http://www.nea.gov.cn/",
           "operator": "",
           "intro": "",
@@ -12156,9 +12775,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "150",
+          "num": "157",
           "title": "中国 / 区域城市群 (京津冀 / 长三角 / 粤港澳 / 成渝 / 长江经济带)",
-          "anchor": "item-150",
+          "anchor": "item-157",
           "url": "https://www.resdc.cn/",
           "operator": "",
           "intro": "",
@@ -12240,9 +12859,9 @@ window.SITE_DATA = {
       "anchor": "section-第十三部分",
       "items": [
         {
-          "num": "151",
+          "num": "158",
           "title": "Planet Labs (PlanetScope, SkySat)",
-          "anchor": "item-151",
+          "anchor": "item-158",
           "url": "https://www.planet.com/",
           "operator": "",
           "intro": "学术计划 (Education & Research)：<https://www.planet.com/markets/education-and-research/>",
@@ -12317,9 +12936,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "152",
+          "num": "159",
           "title": "Maxar (WorldView, GeoEye)",
-          "anchor": "item-152",
+          "anchor": "item-159",
           "url": "https://www.maxar.com/",
           "operator": "",
           "intro": "学术计划 (Open Data Program)：<https://www.maxar.com/open-data>",
@@ -12394,9 +13013,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "153",
+          "num": "160",
           "title": "ICEYE",
-          "anchor": "item-153",
+          "anchor": "item-160",
           "url": "https://www.iceye.com/",
           "operator": "",
           "intro": "数据入口：<https://www.iceye.com/data/datasets>",
@@ -12471,9 +13090,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "154",
+          "num": "161",
           "title": "Capella Space",
-          "anchor": "item-154",
+          "anchor": "item-161",
           "url": "https://www.capellaspace.com/",
           "operator": "",
           "intro": "学术计划：<https://www.capellaspace.com/community/>",
@@ -12548,9 +13167,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "155",
+          "num": "162",
           "title": "BlackSky",
-          "anchor": "item-155",
+          "anchor": "item-162",
           "url": "https://www.blacksky.com/",
           "operator": "",
           "intro": "",
@@ -12625,9 +13244,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "156",
+          "num": "163",
           "title": "Satellogic",
-          "anchor": "item-156",
+          "anchor": "item-163",
           "url": "https://satellogic.com/",
           "operator": "",
           "intro": "学术计划：<https://satellogic.com/news-events/news/>",
@@ -12702,9 +13321,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "157",
+          "num": "164",
           "title": "中国商业卫星 / 长光卫星（吉林一号）",
-          "anchor": "item-157",
+          "anchor": "item-164",
           "url": "http://www.charmingglobe.com/",
           "operator": "",
           "intro": "数据入口：<https://www.jl1mall.com/>",
@@ -12779,9 +13398,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "158",
+          "num": "165",
           "title": "中国商业卫星 / 欧比特（珠海一号）",
-          "anchor": "item-158",
+          "anchor": "item-165",
           "url": "http://www.myorbita.net/",
           "operator": "",
           "intro": "",
@@ -12856,9 +13475,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "159",
+          "num": "166",
           "title": "中国商业卫星 / 二十一世纪空间技术（世纪一号 / 自主星）",
-          "anchor": "item-159",
+          "anchor": "item-166",
           "url": "http://www.c21st.com.cn/",
           "operator": "",
           "intro": "",
@@ -12933,9 +13552,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "160",
+          "num": "167",
           "title": "中国商业卫星 / 商业航天微纳星空 + 国星宇航",
-          "anchor": "item-160",
+          "anchor": "item-167",
           "url": "https://www.minospace.cn/",
           "operator": "",
           "intro": "",
@@ -13022,9 +13641,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "161",
+          "num": "168",
           "title": "中国商业 SAR 卫星 / 海丝一号 / 巢湖一号",
-          "anchor": "item-161",
+          "anchor": "item-168",
           "url": "http://www.haistarsat.com.cn/",
           "operator": "",
           "intro": "",
@@ -13107,9 +13726,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "162",
+          "num": "169",
           "title": "其他商业卫星 / Mapbox / Here / TomTom / OSM",
-          "anchor": "item-162",
+          "anchor": "item-169",
           "url": "https://www.mapbox.com/",
           "operator": "",
           "intro": "",
@@ -13196,9 +13815,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "163",
+          "num": "170",
           "title": "商业卫星 / 国外 / Airbus (Pleiades, SPOT)",
-          "anchor": "item-163",
+          "anchor": "item-170",
           "url": "https://www.airbus.com/en/products-services/space",
           "operator": "",
           "intro": "学术计划 (OneAtlas)：<https://oneatlas.airbus.com/>",
@@ -13273,9 +13892,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "164",
+          "num": "171",
           "title": "商业卫星 / 国外 / Umbra / Synspective / iQPS",
-          "anchor": "item-164",
+          "anchor": "item-171",
           "url": "https://umbra.space/",
           "operator": "",
           "intro": "",
@@ -13358,9 +13977,9 @@ window.SITE_DATA = {
           ]
         },
         {
-          "num": "165",
+          "num": "172",
           "title": "商业卫星 / 国外 / Satellogic / GHGSat / Pixxel",
-          "anchor": "item-165",
+          "anchor": "item-172",
           "url": "https://www.ghgsat.com/",
           "operator": "",
           "intro": "",
