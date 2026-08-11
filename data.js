@@ -10420,67 +10420,67 @@ window.SITE_DATA = {
           "url": "https://gee-community-catalog.org/",
           "operator": "Samapriya Roy 等开源社区维护者",
           "intro": "",
-          "features": "**GEE 平台上最大的\"非官方\"社区数据集目录**,由全球用户贡献 `ee.ImageCollection` 形式的资产(已托管为 GEE Asset);**避开数据下载 + 预处理**,在 GEE 中一行代码即可调用;包含 OpenStreetMap、Microsoft Building Footprints、Google Open Buildings、WorldPop、JRC Global Surface Water、ESA WorldCover 等 200+ 数据集;**与 EE Data Catalog 互补**(官方主目录 + 社区衍生目录)。",
-          "landmark": "**OpenStreetMap 全要素矢量化 (roads/buildings/landuse)**：社区衍生 OSM 矢量化集；**Microsoft Building Footprints (全球 9 亿+ 建筑)**：GEE Asset 形式直接调用；**ESA WorldCover 10m 全球土地覆被 (2020/2021)**：10m 分辨率全球土地覆被基准",
+          "features": "**GEE 平台上最大的\"非官方\"社区数据集目录**,由 Samapriya Roy 等社区维护者汇编,全部已托管为 GEE Asset,在 GEE 中一行 `ee.ImageCollection` 即可调用,**避开数据下载 + 预处理**;**最大特色是官方 EE Data Catalog 几乎不覆盖的人文社科 / 社会经济指标**——设有 \"Population & Socioeconomic\"、\"Global Utilities, Assets and Amenities\"、\"Global Events\" 等专题分区,把贫困、财富、社会网络、可达性、GDP、人口性别年龄结构、冲突与灾害暴露等社科变量栅格化后搬进 GEE,可与遥感影像做**像元级人地耦合分析**,是社会经济遥感 (socioeconomic remote sensing) 研究最省事的数据入口;同时也收录 OpenStreetMap、Microsoft Building Footprints、Google Open Buildings、ESA WorldCover 等 200+ 自然地理数据集;**与 EE Data Catalog 互补**(官方重自然地理,社区重人地关系)。",
+          "landmark": "**Relative Wealth Index (RWI,相对财富指数)**（Meta Data for Good + CIESIN,2.4km,92 个中低收入国家）：融合 DHS 家户调查、卫星影像、移动网络与去标识化社交连接数据预测国家内部相对生活水平,是**大数据微观贫困制图的代表作**;**Global Human Settlement Layer 2023 (GHSL)**（欧盟 JRC + ESA,10m/100m,1975-2030 每 5 年）：同时刻画建成区面积、高度、体积、人口与\"城市化程度\",欧盟政策与 SDG 2030 议程的官方底图;**Gridded Global GDP per capita (1990-2022)**（Kummu 等,30 弧秒,覆盖 43501 个市级单元）：PPP 人均 GDP 下推至 ADM0-ADM2 的栅格化经济发展指标,与 OECD 区域数据相关 R=0.88;**Social Connectedness Index (SCI,社会连接指数)**（Meta + CIESIN）：用人口归一化的社交好友关系衡量地区间社会联系强度,**首个国际尺度综合社会网络度量**,广泛用于经济机会与社会流动研究;**WorldPop Age-Sex 人口 (2015-2030)**（南安普顿大学,100m,242 国）：按男女 + 婴儿至 90+ 岁分组的高分辨率人口分母,卫生/教育/灾害暴露研究标配;**LandScan Annual Ambient Population (1975-2024)**（美国橡树岭国家实验室,~90m）：24 小时平均\"环境人口\",以统一 2024 年建筑级基准回推近 50 年,专治旧版逐年换方法导致的不可比问题;**Rural Access Index (RAI,农村可达性指数)**（联合国 SDSN）：**SDG 9.1.1 官方指标**,衡量农村人口能否到达全天候道路;**Harmonized Global Night Time Lights (1992-2021)**（Xuecao Li 等,~1km）：DMSP-OLS 与 VIIRS 跨传感器接续的一致夜光序列,城市化/电力消费/经济活动的经典代理指标",
           "datasets": [
             {
               "idx": 1,
-              "name": "OpenStreetMap 全要素矢量化 (roads/buildings/landuse)",
-              "desc": "。",
-              "url": ""
+              "name": "Relative Wealth Index (RWI 相对财富指数)",
+              "desc": "— <https://gee-community-catalog.org/projects/rwi/>,Meta Data for Good + CIESIN,2.4km,92 个中低收入国家的国家内部相对生活水平。",
+              "url": "https://gee-community-catalog.org/projects/rwi/"
             },
             {
               "idx": 2,
-              "name": "Microsoft Building Footprints (全球 9 亿+ 建筑)",
-              "desc": "。",
-              "url": ""
+              "name": "Global Human Settlement Layer 2023 (GHSL)",
+              "desc": "— <https://gee-community-catalog.org/projects/ghsl/>,欧盟 JRC + ESA,10m/100m,1975-2030,建成区面积/高度/体积/人口/城市化程度。",
+              "url": "https://gee-community-catalog.org/projects/ghsl/"
             },
             {
               "idx": 3,
-              "name": "Google Open Buildings v3 (16 亿+ 建筑)",
-              "desc": "。",
-              "url": ""
+              "name": "Gridded Global GDP per capita (1990-2022)",
+              "desc": "— <https://gee-community-catalog.org/projects/gridded_gdp_hdi/>,30 弧秒,43501 个市级单元的栅格化人均 GDP。",
+              "url": "https://gee-community-catalog.org/projects/gridded_gdp_hdi/"
             },
             {
               "idx": 4,
-              "name": "WorldPop 人口 1km / 100m 全球",
-              "desc": "。",
-              "url": ""
+              "name": "Social Connectedness Index (SCI 社会连接指数)",
+              "desc": "— <https://gee-community-catalog.org/projects/sci/>,Meta + CIESIN,首个国际尺度综合社会网络度量。",
+              "url": "https://gee-community-catalog.org/projects/sci/"
             },
             {
               "idx": 5,
-              "name": "JRC Global Surface Water 30m 时序 (1984-至今)",
-              "desc": "。",
-              "url": ""
+              "name": "WorldPop Age-Sex 人口 (2015-2030)",
+              "desc": "— <https://gee-community-catalog.org/projects/worldpop/>,100m,242 国,按性别 + 婴儿至 90+ 岁分组。",
+              "url": "https://gee-community-catalog.org/projects/worldpop/"
             },
             {
               "idx": 6,
-              "name": "ESA WorldCover 10m 全球土地覆被 (2020/2021)",
-              "desc": "。",
-              "url": ""
+              "name": "LandScan Annual Ambient Population (1975-2024)",
+              "desc": "— <https://gee-community-catalog.org/projects/landcast/>,美国橡树岭国家实验室,~90m,24 小时平均环境人口时序。",
+              "url": "https://gee-community-catalog.org/projects/landcast/"
             },
             {
               "idx": 7,
-              "name": "GLAD 全球耕地 / 草原 / 树冠变化告警",
-              "desc": "。",
-              "url": ""
+              "name": "Rural Access Index (RAI 农村可达性指数)",
+              "desc": "— <https://gee-community-catalog.org/projects/rai/>,联合国 SDSN,SDG 9.1.1 官方指标。",
+              "url": "https://gee-community-catalog.org/projects/rai/"
             },
             {
               "idx": 8,
-              "name": "NOAA Coral Reef Watch 珊瑚白化 / 海水表面温度",
-              "desc": "。",
-              "url": ""
+              "name": "Harmonized Global Night Time Lights (1992-2021)",
+              "desc": "— <https://gee-community-catalog.org/projects/hntl/>,DMSP-OLS 与 VIIRS 跨传感器接续的一致夜光序列。",
+              "url": "https://gee-community-catalog.org/projects/hntl/"
             },
             {
               "idx": 9,
-              "name": "Global Forest Watch (GFW) 森林覆盖 / 损失",
-              "desc": "。",
+              "name": "Microsoft Building Footprints / Google Open Buildings v3",
+              "desc": "— 全球 9 亿+ / 16 亿+ 建筑轮廓,GEE Asset 形式直接调用。",
               "url": ""
             },
             {
               "idx": 10,
-              "name": "NASA Black Marble VIIRS 夜间灯光高质量月度合成",
-              "desc": "。",
+              "name": "ESA WorldCover 10m + JRC Global Surface Water 30m + Global Forest Watch",
+              "desc": "— 社区镜像的自然地理基准图层。",
               "url": ""
             }
           ],
