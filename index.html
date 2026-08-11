@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>GeoData Locater · 国内外遥感数据网站合集</title>
+<meta name="description" content="SCI 论文常用数据存储库、国内国家级科学数据中心、中科院各所与高校遥感团队、日本/韩国/印度/欧洲等国家官方遥感数据、AI/ML 平台、商业卫星公司开放数据 — 166 个平台，1650 个代表数据集。" />
+<link rel="stylesheet" href="style.css" />
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='80' font-size='80'%3E🌐%3C/text%3E%3C/svg%3E" />
+</head>
+<body>
+
+<!-- ========== 顶部导航 ========== -->
+<header class="nav">
+  <div class="nav-inner">
+    <a href="#top" class="nav-logo">
+      <span class="logo-mark">◉</span>
+      <span>GeoData Locater</span>
+    </a>
+    <nav class="nav-links">
+      <a href="#overview">概览</a>
+      <a href="#sections">分类</a>
+      <a href="#explore">浏览全部</a>
+      <a href="#about">关于</a>
+    </nav>
+    <a class="nav-cta" href="https://github.com/" target="_blank" rel="noopener">GitHub</a>
+  </div>
+</header>
+
+<!-- ========== Hero ========== -->
+<section class="hero" id="top">
+  <div class="hero-inner">
+    <h1 class="hero-title">
+      国内外遥感数据<br/>
+      <span class="hero-accent">网站合集</span>
+    </h1>
+    <p class="hero-sub">收录 SCI 论文高频数据存储库、国内国家级数据中心、中科院各所与高校遥感团队、日本及其他国家官方数据、AI/ML 平台、商业卫星公司开放数据 —<br/>一站式覆盖遥感科研数据全谱系。</p>
+    <p class="hero-stats">166 平台 · 1660 数据集 · 13 部分</p>
+      收录 SCI 论文高频数据存储库、国内国家级数据中心、中科院各所与高校遥感团队、日本及其他国家官方数据、AI/ML 平台、商业卫星公司开放数据 —
+      <br/>一站式覆盖遥感科研数据全谱系。
+    </p>
+    <div class="hero-cta">
+      <a href="#explore" class="btn btn-primary">开始浏览</a>
+      <a href="#about" class="btn btn-ghost">了解维护</a>
+    </div>
+  </div>
+</section>
+
+<!-- ========== 统计区 ========== -->
+<section class="stats" id="overview">
+  <div class="container">
+    <div class="stat">
+      <div class="stat-num">166</div>
+      <div class="stat-label">个数据平台</div>
+      <div class="stat-sub">覆盖 13 个主题方向</div>
+    </div>
+    <div class="stat">
+      <div class="stat-num">1,650</div>
+      <div class="stat-label">个代表数据集</div>
+      <div class="stat-sub">按访问量 / 引用数筛选</div>
+    </div>
+    <div class="stat">
+      <div class="stat-num">13</div>
+      <div class="stat-label">个主题部分</div>
+      <div class="stat-sub">SCI 通用 / 国家官方 / 行业 / 商业</div>
+    </div>
+    <div class="stat">
+      <div class="stat-num">2026</div>
+      <div class="stat-label">年 8 月版</div>
+      <div class="stat-sub">每月持续更新</div>
+    </div>
+  </div>
+</section>
+
+<!-- ========== 分类导航 ========== -->
+<section class="sections" id="sections">
+  <div class="container">
+    <h2 class="section-title">按主题浏览</h2>
+    <p class="section-sub">13 个主题，从通用 SCI 库到具体商业卫星，<br/>从中国国家平台到日本 / 欧洲官方数据，<br/>全谱系覆盖。</p>
+    <div class="section-grid" id="section-grid">
+      <!-- 由 JS 渲染 -->
+    </div>
+  </div>
+</section>
+
+<!-- ========== 主浏览区 ========== -->
+<section class="explore" id="explore">
+  <div class="container">
+    <h2 class="section-title">全部 166 个平台</h2>
+    <p class="section-sub">点击任意平台卡片展开 10 个代表数据集。搜索框支持按名称、运营方、数据集搜索。</p>
+
+    <!-- 搜索 + 过滤 -->
+    <div class="search-bar">
+      <div class="search-input-wrap">
+        <span class="search-icon">⌕</span>
+        <input id="search-input" type="text" placeholder="搜索平台名 / 数据集 / 运营方 / 网址…" autocomplete="off" />
+        <button id="search-clear" class="search-clear" type="button">×</button>
+      </div>
+      <div class="filter-pills" id="filter-pills">
+        <!-- 由 JS 渲染 -->
+      </div>
+    </div>
+
+    <!-- 列表 -->
+    <div class="site-list" id="site-list">
+      <div class="loading">加载中…</div>
+    </div>
+
+    <div class="empty" id="empty" hidden>
+      <p>没有找到匹配的平台。</p>
+      <button class="btn btn-ghost" id="reset-btn">重置搜索</button>
+    </div>
+  </div>
+</section>
+
+<!-- ========== 关于 ========== -->
+<section class="about" id="about">
+  <div class="container">
+    <h2 class="section-title">关于本合集</h2>
+    <p class="about-text">
+      本合集由 <strong>Mavis (Mavis Code Agent)</strong> 整理与维护，
+      面向 <strong>SCI 遥感论文作者、研究生、行业应用工程师</strong>，覆盖数据采集全链路：
+    </p>
+    <div class="about-grid">
+      <div class="about-card">
+        <div class="about-icon">①</div>
+        <h3>通用 SCI 库</h3>
+        <p>Figshare / Zenodo / Dryad / PANGAEA / OSF / Dataverse / Mendeley / IEEE DataPort / ESSD / GMD —<br/>论文 DAS 必填。</p>
+      </div>
+      <div class="about-card">
+        <div class="about-icon">②</div>
+        <h3>国家官方数据</h3>
+        <p>NASA / USGS / ESA / EUMETSAT / NSIDC / NOAA / CEOS / JAXA / JMA / KARI / ISRO / INPE / DLR / CNES / ASI / ROSHYDROMET —<br/>全球主要对地观测机构。</p>
+      </div>
+      <div class="about-card">
+        <div class="about-icon">③</div>
+        <h3>中国国家 + 行业</h3>
+        <p>12 个国家科学数据中心 + CRESDA / ChinaGEOSS / ScienceDB / 风云 / 水利部 / 海洋局 / 生态环境部 / 农业农村部 / 地震局 / 气象局 / 林草局 —<br/>中国全行业覆盖。</p>
+      </div>
+      <div class="about-card">
+        <div class="about-icon">④</div>
+        <h3>科研院所 + 高校</h3>
+        <p>中科院空天院 / 地理所 / 青藏所 / 南湖所 / 东北地理所 / 武大 / 清华 / 北师大 / 同济 / 中大 / 中国地大 / 华东师大 / 南大 / 中农大 —<br/>国产 SCI 高被引数据集主要来源。</p>
+      </div>
+      <div class="about-card">
+        <div class="about-icon">⑤</div>
+        <h3>AI/ML + 商业</h3>
+        <p>HuggingFace / Kaggle / Roboflow / paperswithcode / Planet / Maxar / ICEYE / Capella / 吉林一号 / 珠海一号 / 海丝一号 —<br/>AI 时代主流数据集平台。</p>
+      </div>
+      <div class="about-card">
+        <div class="about-icon">⑥</div>
+        <h3>跨库检索 + 工具</h3>
+        <p>re3data / FAIRsharing / DataCite / Google Dataset Search / OpenAIRE / EOSC —<br/>统一检索 + 工具链（GDAL / GEE / Planetary Computer / STAC / earthaccess / geemap）。</p>
+      </div>
+    </div>
+
+    <h3 class="sub-title">维护与更新</h3>
+    <p class="about-text">
+      本合集每月更新一次；新增平台、新发射卫星、新政策会同步在 <strong>附录 G</strong> 中。
+      如需引用，请按 <strong>网址 + DOI</strong> 双重验证最新可用性。
+    </p>
+
+    <h3 class="sub-title">使用建议</h3>
+    <ul class="about-list">
+      <li><strong>找某类数据</strong>：看左侧目录定位到对应部分（13 个主题）</li>
+      <li><strong>投稿时 DAS 引用</strong>：看 <a href="#docs">附录 D</a> 模板</li>
+      <li><strong>跨库检索</strong>：第九部分 re3data / FAIRsharing / Google Dataset Search</li>
+      <li><strong>自动化下载</strong>：<a href="#docs">附录 F</a> 工具链</li>
+      <li><strong>国外官方</strong>：第六 (日本) / 第七 (其他国家) 部分</li>
+      <li><strong>国内研究机构</strong>：第三 / 第五 / 第十一部分</li>
+      <li><strong>AI 论文数据集</strong>：第十部分</li>
+    </ul>
+
+    <h3 class="sub-title">附录 A-G</h3>
+    <div class="docs" id="docs">
+      <div class="doc-item"><span class="doc-tag">A</span> 数据平台快速对比表</div>
+      <div class="doc-item"><span class="doc-tag">B</span> 常见 DOI 前缀 / 镜像地址</div>
+      <div class="doc-item"><span class="doc-tag">C</span> 必装的遥感数据下载 / 处理工具</div>
+      <div class="doc-item"><span class="doc-tag">D</span> 典型 SCI 论文 Data Availability 模板</div>
+      <div class="doc-item"><span class="doc-tag">E</span> 检索小贴士</div>
+      <div class="doc-item"><span class="doc-tag">F</span> AI 工具 / STAC / 云平台 / 数据预处理工具 / 自动化下载脚本</div>
+      <div class="doc-item"><span class="doc-tag">G</span> 2025-2026 最新动态</div>
+    </div>
+  </div>
+</section>
+
+<!-- ========== 页脚 ========== -->
+<footer class="footer">
+  <div class="container">
+    <div class="footer-top">
+      <div>
+        <div class="footer-logo"><span class="logo-mark">◉</span> GeoData Locater</div>
+        <p class="footer-tag">国内外遥感数据网站合集 · 166 平台 · 1650 数据集</p>
+      </div>
+      <div class="footer-links">
+        <a href="#top">回到顶部</a>
+        <a href="https://github.com/" target="_blank" rel="noopener">GitHub</a>
+        <a href="#about">关于</a>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>整理人：Mavis (Mavis Code Agent) · 最后更新 2026-08-08</p>
+      <p>本合集为非正式整理版本，使用前请按"网址 + DOI"双重验证最新可用性。</p>
+    </div>
+  </div>
+</footer>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+
+</body>
+</html>
