@@ -33,6 +33,19 @@
       .replace(/'/g, "&#039;");
   }
 
+  // 极简 markdown 内联渲染：先转义，再还原 **加粗** / *斜体* 与 <链接>
+  function mdInline(s) {
+    if (s == null) return "";
+    return escapeHtml(s)
+      .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
+      .replace(/(^|[^*])\*([^*\n]+?)\*(?!\*)/g, "$1<em>$2</em>")
+      .replace(
+        /&lt;(https?:\/\/[^\s&]+)&gt;/g,
+        '<a href="$1" target="_blank" rel="noopener">$1</a>'
+      )
+      .replace(/\n/g, "<br>");
+  }
+
   function totalDatasets() {
     return state.data.sections.reduce(
       (sum, s) => sum + s.items.reduce((n, it) => n + it.datasets.length, 0),
@@ -50,6 +63,7 @@
         it.operator,
         it.features,
         it.intro,
+        it.landmark,
         ...(it.datasets || []).map((d) => `${d.name} ${d.desc}`),
       ]
         .filter(Boolean)
@@ -154,9 +168,15 @@
   }
 
   function renderSite(it, secKey, expanded) {
-    const featuresHtml = it.features
-      ? `<div class="site-features"><div class="site-features-label">特点</div>${escapeHtml(it.features)}</div>`
-      : (it.intro ? `<div class="site-features"><div class="site-features-label">简介</div>${escapeHtml(it.intro)}</div>` : "");
+    const block = (label, text, cls) =>
+      text
+        ? `<div class="site-features${cls ? " " + cls : ""}"><div class="site-features-label">${label}</div>${mdInline(text)}</div>`
+        : "";
+
+    const featuresHtml =
+      block("简介", it.intro) +
+      block("特点", it.features) +
+      block("标志性数据集", it.landmark, "site-landmark");
 
     let dsHtml = "";
     if (it.datasets && it.datasets.length) {
@@ -166,7 +186,7 @@
         const name = d.name
           ? `<span class="ds-name">${escapeHtml(d.name)}</span>`
           : "";
-        const desc = d.desc ? `<div class="ds-desc">${escapeHtml(d.desc)}</div>` : "";
+        const desc = d.desc ? `<div class="ds-desc">${mdInline(d.desc)}</div>` : "";
         const link = d.url
           ? `<a class="ds-link" href="${escapeHtml(d.url)}" target="_blank" rel="noopener">${escapeHtml(d.url)}</a>`
           : "";

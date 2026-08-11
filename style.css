@@ -527,6 +527,19 @@ section.about { background: var(--bg-soft); border-top: 1px solid var(--line-sof
   text-transform: uppercase;
   margin-bottom: 6px;
 }
+.site-features strong {
+  color: var(--text-1);
+  font-weight: 600;
+}
+.site-landmark {
+  background: var(--accent-soft);
+  border-left: 3px solid var(--accent);
+  border-radius: 0 8px 8px 0;
+  padding: 12px 14px;
+}
+.site-landmark .site-features-label {
+  color: var(--accent);
+}
 .site-ds-label {
   font-size: 11px;
   color: var(--text-4);

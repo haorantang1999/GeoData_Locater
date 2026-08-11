@@ -7,8 +7,9 @@ import json
 import re
 from pathlib import Path
 
-MD_PATH = Path("F:/Automation/国内遥感数据网站合集/国内外地理遥感数据网站合集.md")
-OUT_PATH = Path("F:/Automation/国内遥感数据网站合集/data.js")
+BASE = Path(__file__).resolve().parent
+MD_PATH = BASE / "国内外地理遥感数据网站合集.md"
+OUT_PATH = BASE / "data.js"
 
 # 读取 markdown
 text = MD_PATH.read_text(encoding="utf-8")
@@ -111,6 +112,7 @@ while i < N:
             "operator": "",
             "intro": "",
             "features": "",
+            "landmark": "",
             "datasets": [],
             "sub_links": []  # 多 URL 时的额外链接
         }
@@ -131,6 +133,7 @@ while i < N:
             "operator": "",
             "intro": "",
             "features": "",
+            "landmark": "",
             "datasets": [],
             "sub_links": []
         }
@@ -171,9 +174,17 @@ while i < N:
         if m:
             current_item["features"] = m.group(1).strip()
 
+    # 匹配 - **标志性数据集**：...
+    if current_item and re.match(r"^-\s*\*\*标志性数据集\*\*[：:]", stripped):
+        m = re.search(r"\*\*标志性数据集\*\*[：:]\s*(.+?)$", stripped)
+        if m:
+            current_item["landmark"] = m.group(1).strip()
+        i += 1
+        continue
+
     # 匹配 - **DOI 注册入口**：... 等其他 - 键值对
     if current_item and re.match(r"^-\s*\*\*[^*]+\*\*[：:]", stripped) and not any(
-        re.match(r"^-\s*\*\*(网址|运营方|特点)\*\*", stripped)
+        re.match(r"^-\s*\*\*(网址|运营方|特点|标志性数据集)\*\*", stripped)
         for _ in [0]
     ):
         m = re.match(r"^-\s*\*\*([^*]+)\*\*[：:]\s*(.+?)$", stripped)
@@ -246,9 +257,11 @@ if current_section:
 # 写出
 OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
 js_content = "// 自动生成于 parse_md.py - 国内外遥感数据网站合集\n"
+_sites = sum(len(s["items"]) for s in sections)
+_ds = sum(len(it["datasets"]) for s in sections for it in s["items"])
 js_content += "window.SITE_DATA = " + json.dumps({
     "title": "国内外地理遥感数据网站合集",
-    "subtitle": "170 个平台 · 1700 个数据集 · 13 个主题部分",
+    "subtitle": f"{_sites} 个平台 · {_ds} 个数据集 · {len(sections)} 个主题部分",
     "sections": sections
 }, ensure_ascii=False, indent=2) + ";\n"
 OUT_PATH.write_text(js_content, encoding="utf-8")

@@ -1,7 +1,7 @@
 // 自动生成于 parse_md.py - 国内外遥感数据网站合集
 window.SITE_DATA = {
   "title": "国内外地理遥感数据网站合集",
-  "subtitle": "170 个平台 · 1700 个数据集 · 13 个主题部分",
+  "subtitle": "173 个平台 · 1730 个数据集 · 13 个主题部分",
   "sections": [
     {
       "key": "第一部分",
@@ -16,6 +16,7 @@ window.SITE_DATA = {
           "operator": "Digital Science（Taylor & Francis 旗下）",
           "intro": "使用特点：通用型，多学科，支持论文补充材料、视频、代码、图像、表格。500 万+ 数据集。CC BY 为主，**所有数据集分配 DOI**。",
           "features": "",
+          "landmark": "**DOTA**（武汉大学 2018）：航空影像目标检测基准数据集，被引 1万+；**NWPU-RESISC45**（西工大 2017）：45 类 31500 张遥感场景分类基准；**AID**（华科/武大 2017）：30 类 10000 张航拍场景分类",
           "datasets": [
             {
               "idx": 1,
@@ -93,6 +94,7 @@ window.SITE_DATA = {
           "operator": "CERN（欧洲核子研究中心）开放实验室",
           "intro": "使用特点：CERN 基础设施，**单条 50 GB 上限**，终身保存，GitHub 一键同步发版并自动给 DOI。**Springer Nature 推荐的 7 个通用库之一**，也是 **Nature / Scientific Data 推荐的存储库**。",
           "features": "",
+          "landmark": "**Sentinel-2 global land cover (Dynamic World)**（Google + WRI 2023）：10m 全球近实时地表覆盖产品，Zenodo 镜像被引 1000+；**EuroSAT**（2017/2018）：Sentinel-2 土地覆盖分类基准，13 万+ 样本，遥感深度学习入门标配；**Copernicus Global Land Cover Layers (CGLS)**（100m 全球土地覆盖，气候/生态研究底图）",
           "datasets": [
             {
               "idx": 1,
@@ -170,6 +172,7 @@ window.SITE_DATA = {
           "operator": "Dryad Digital Repository（非营利）",
           "intro": "使用特点：专门面向 **生物 / 医学 / 生态** 论文，**几乎被所有生命科学 SCI 期刊直接集成**。提交→审核→发布全流程，CC0 为主。",
           "features": "",
+          "landmark": "**TRY Plant Trait Database**（全球植物性状数据库，跨大洲合作，被引 1万+，是遥感—生态耦合研究最常用的辅助数据集）；**iNaturalist GBIF export**（公民科学物种观测，遥感物种分布模型训练集）；**NEON Tower Eddy Covariance**（美国国家生态观测网通量塔数据，遥感产品验证标杆）",
           "datasets": [
             {
               "idx": 1,
@@ -247,6 +250,7 @@ window.SITE_DATA = {
           "operator": "AWI（德国阿尔弗雷德·韦格纳极地与海洋研究所）+ MARUM（不来梅大学海洋环境科学中心）",
           "intro": "使用特点：**地球与环境科学数据出版的金标准**，WMO 全球辐射监测中心托管方，**所有数据集 CC-BY + DOI**。到 2023 年 5 月已 **41.9 万+ 数据集、250 亿+ 测量值**。",
           "features": "",
+          "landmark": "**World Ocean Atlas 2018/2023 (WOA)**（NOAA 海洋温盐气候态，引用数万次，海洋遥感底层基准）；**GEBCO Bathymetry**（IHO-IOC 全球海底地形，海洋遥感必备底图）；**HadCRUT5 global temperature anomaly**（Met Office Hadley Centre 全球温度距平，古今气候遥感论文高频引用）",
           "datasets": [
             {
               "idx": 1,
@@ -324,6 +328,7 @@ window.SITE_DATA = {
           "operator": "Harvard Library + IQSS",
           "intro": "使用特点：通用开放数据平台，截至 2024 年托管超过 **10 万+ 数据集**，与 Harvard Dataverse Network 互操作。",
           "features": "",
+          "landmark": "**WorldPop global 1km/100m/30m 人口栅格**（南安普顿大学，引用 1万+，是遥感夜光/土地利用与人口研究最权威的栅格人口产品）；**High-Resolution Settlement Layer (HRSL)**（Facebook/CMU 30m 全球定居地栅格）；**G-Econ (Global Gridded Geographically Based Economic Data)**（全球 1° GDP 栅格，遥感—经济耦合研究经典）",
           "datasets": [
             {
               "idx": 1,
@@ -401,6 +406,7 @@ window.SITE_DATA = {
           "operator": "DataCite 协会（全球 DOI 注册机构）",
           "intro": "使用特点：本身不存数据，是 **\"数据 DOI 的中央注册与元数据检索平台\"**。整合数千个仓库。",
           "features": "",
+          "landmark": "作为 DOI 中央注册平台，本身不存数据，而是把 **Zenodo**（千万级记录）、**Figshare**（数百万数据集）、**PANGAEA**（41 万+ 数据集）、**Dryad**、**ICPSR**、**GBIF** 等数千个仓库的元数据全部索引起来，是 SCI 论文中“数据可用性声明（Data Availability Statement）”的检索中枢",
           "datasets": [
             {
               "idx": 1,
@@ -478,6 +484,7 @@ window.SITE_DATA = {
           "operator": "Center for Open Science（COS，非营利）",
           "intro": "使用特点：**综合性开放科研工作平台**——预注册 + 数据/材料/代码存储 + 多人协作 + 预印本 + 跨机构共享。每个文件都自动获得**永久 URL**。Sci Data、Nature Hum Behav、PNAS 等推荐通用库。",
           "features": "",
+          "landmark": "**Reproducibility Project: Psychology**（OSF 旗舰，200+ 项心理学经典研究重复结果，引用 5000+）；**Project Implicit (IAT)**（哈佛 IAT 内隐心理测量，引用 1万+）；**PREDICTS Project**（土地利用—生物多样性响应，典型**遥感+生态学**耦合数据集）；**EarthArXiv 地球科学预印本 + 数据**（与 OSF Preprints 集成）",
           "datasets": [
             {
               "idx": 1,
@@ -555,6 +562,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "Nature 旗下 *Scientific Data* 期刊的官方推荐库列表，**被多本 Nature 子刊接受为 Data Availability Statement 的合资格库**。",
+          "landmark": "作为 Nature/Sci Data 的“推荐库白名单”，**它本身并非单一仓库，而是由 Figshare、Zenodo、Dryad、PANGAEA、Harvard Dataverse、OSF、NCBI GEO/GenBank、EBI BioStudies/PRIDE、UK Data Service 等组成的合资格库矩阵**——其中 Figshare + Zenodo 联合托管的遥感数据（如 DOTA、EuroSAT）累计引用已达 5万+ 次，是 SCI 论文中实际最高频使用的两个落地平台",
           "datasets": [
             {
               "idx": 1,
@@ -632,6 +640,7 @@ window.SITE_DATA = {
           "operator": "Elsevier 旗下",
           "intro": "使用特点：Elsevier 期刊配套的通用数据存储库，**2023 年底前已经由 Elsevier 整合到新品牌 Data Select**，但旧数据仍可访问。直接与 Elsevier 投稿系统集成。",
           "features": "",
+          "landmark": "**Brain Tumor MRI 数据集**（医学影像分类任务标杆，被引 1万+）；**Concrete Crack Images for Classification**（基础设施结构缺陷检测，被引数千次）；**Sat-6 (Land Cover from DeepSat)**（卫星图像土地覆盖 6 类，深度学习遥感基准）",
           "datasets": [
             {
               "idx": 1,
@@ -709,6 +718,7 @@ window.SITE_DATA = {
           "operator": "Stanford",
           "intro": "使用特点：神经科学 BIDS 标准存储，CC0 通用，**与 Sci Data、Nature Neuroscience 等深度合作**。遥感方向相关性低，但健康/环境/脑-气候论文常用。",
           "features": "",
+          "landmark": "**Human Connectome Project (HCP)**（被引 1万+，人脑连接组学标杆，常与遥感环境/气候暴露因素耦合分析）；**UK Biobank 衍生神经影像子集**（50 万人队列影像子集）；**ABCD Study 影像**（青少年脑认知发育，被引数千次）",
           "datasets": [
             {
               "idx": 1,
@@ -786,6 +796,7 @@ window.SITE_DATA = {
           "operator": "全球生物多样性信息设施（政府间组织）",
           "intro": "使用特点：物种分布点，**常用于物种分布模型（SDM）+ 遥感栖息地制图**。30 亿+ 出现记录。",
           "features": "",
+          "landmark": "**GBIF Backbone Taxonomy**（全球生物物种分类框架，是所有物种分布研究的标准底层字典）；**eBird 公民科学观测**（康奈尔大学，10 亿+ 条鸟类记录，生态遥感耦合最常引用）；**iNaturalist Research-grade Observations**（数亿条研究级物种观测，是物种分布模型 (SDM) 训练样本的最大来源）",
           "datasets": [
             {
               "idx": 1,
@@ -870,6 +881,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "数据入口：<https://search.earthdata.nasa.gov/>",
           "features": "NASA 12 大 DAAC 中心统一检索入口；CMR（Common Metadata Repository）**百万+ 数据集**；API 完整；EarthData Cloud 直连分析。",
+          "landmark": "**MODIS**（Terra/Aqua 1999+）：NASA 中分辨率成像光谱仪，全球 L1-L3 大气/陆面/海洋产品的事实标准；**Landsat 8/9**（USGS 2013+）：OLI/TIRS 30m 持续对地观测，地球资源遥感最长时序；**ICESat-2**（2018）：光子计数激光测高，ATL03/06/08 用于冰盖、植被冠层、陆地高程",
           "datasets": [
             {
               "idx": 1,
@@ -947,6 +959,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "**Landsat 系列官方下载**，同时也集成 Sentinel-2 ASTER MODIS 等。",
+          "landmark": "**Landsat 8/9 OLI/TIRS**（2013+）：USGS 官方 30m 多光谱存档，对地观测黄金标准；**Landsat 4-5 TM / 7 ETM+**（1982+）：Landsat 40+ 年连续档案，城市/农业遥感奠基数据；**SRTM GL1 30m**（2000）：航天飞机雷达地形任务，近全球 30m DEM 标杆",
           "datasets": [
             {
               "idx": 1,
@@ -1028,6 +1041,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "**Sentinel-1/2/3/5P/6 全系列免费**，全球最大开放卫星影像流。",
+          "landmark": "**Sentinel-1 GRD/SLC**（C-band SAR 10m）：全天候雷成像，洪水/形变/船舶监测主力；**Sentinel-2 L2A**（10/20/60m）：13 波段多光谱，5天重访，陆地观测应用最广；**Sentinel-5P TROPOMI**（2018+）：NO2/SO2/CH4/O3 全球大气痕量气体高分辨率监测",
           "datasets": [
             {
               "idx": 1,
@@ -1113,6 +1127,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "数据入口：<https://data.eumetsat.int/>",
           "features": "欧洲静止气象卫星、MetOp 系列。",
+          "landmark": "**Meteosat-11 / MTG-I1**（0° 全圆盘 15min）：欧洲静止轨道高光谱成像，连续 40+ 年气候数据记录；**MetOp-C GOME-2 / IASI**（极轨）：大气臭氧与温湿廓线，数值预报同化核心；**OSI-SAF 海冰产品**：业务化海冰密集度/边缘/类型，欧洲海洋气象关键输入",
           "datasets": [
             {
               "idx": 1,
@@ -1190,6 +1205,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "**冰雪圈遥感数据集**，海冰/冰盖/积雪/冻土。",
+          "landmark": "**ICESat-2 ATL06/ATL07**（2018+）：冰盖高程与海冰厚度，光子计数激光测高；**MODIS MCD43A3 Albedo 500m**（2000+）：全球冰雪反照率，融化-能量平衡关键；**Operation IceBridge**（2009-2021）：航空 LiDAR/雷达衔接 ICESat 间隙，南北极冰盖关键观测",
           "datasets": [
             {
               "idx": 1,
@@ -1271,6 +1287,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "**MODIS L1B / L2 / L3 全产品**，是 MODIS 真正最全最快的下载点。",
+          "landmark": "**MOD02/MYD02 Level-1B**（1km 原始辐射）：Terra/Aqua 实时 L1B，MODIS 一切产品源头；**MOD13Q1 NDVI/EVI**（16天 250m）：全球植被指数事实标准，25 年长时序；**MCD12Q1 IGBP Land Cover**（500m 年合成）：全球土地覆盖分类，引用数最高的环境遥感产品之一",
           "datasets": [
             {
               "idx": 1,
@@ -1348,6 +1365,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "**在线可视化 + OGC API 切片**，是开发者和商业应用最常接的接口。",
+          "landmark": "**Sentinel-2 L1C/L2A**（10m 多光谱）：EO Browser 即点即得，定制波段合成与时序指数；**Sentinel-1 GRD**（C-SAR 10m）：与 Sentinel-2 协同的 SAR 即服务；**Landsat 8/9 L2**：结合 custom scripts，全球业务化可视化接口",
           "datasets": [
             {
               "idx": 1,
@@ -1425,6 +1443,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "CEOS（国际卫星对地观测委员会）元数据聚合，**全球 25000+ 数据集**。",
+          "landmark": "**NASA EOSDIS Collection**（200+ DAAC 数百万景）：CEOS IDN 元数据主索引；**ESA Copernicus Collection**（Sentinel 全系列）：欧洲哥白尼元数据入口；**CMA FY 风云卫星**（中国气象局）：FY-3/4 极轨与静止气象卫星，国际对地观测关键贡献",
           "datasets": [
             {
               "idx": 1,
@@ -1506,6 +1525,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "气象 / 海洋 / 气候 / 极地 / 地球物理。",
+          "landmark": "**GOES-R (16/17/18) L1b**（地球同步 10/15min）：美国新一代静止气象卫星影像；**NCEP/NCAR Reanalysis 1/2**（1948+）：全球最长最权威的大气再分析；**DMSP-OLS / NPP-VIIRS 夜间灯光**（VNP46A1）：城市化与人类活动遥感标志性产品",
           "datasets": [
             {
               "idx": 1,
@@ -1587,6 +1607,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "**社会-经济数据与遥感耦合**的关键中心，CIESIN 主办。",
+          "landmark": "**Gridded Population of the World (GPW) v4.11**：全球人口栅格化，1km 分辨率 2000-2020 多时相；**Global Human Settlement Layer (GHSL)**：JRC 多时相建成区扩张产品；**Population Exposure Estimates in Proximity to Power Plants**：电厂临近暴露人口，社会-环境耦合数据代表",
           "datasets": [
             {
               "idx": 1,
@@ -1671,6 +1692,7 @@ window.SITE_DATA = {
           "operator": "中科院青藏高原研究所 + 兰州大学 + 北师大 + 中科院网络中心",
           "intro": "英文镜像：<http://english.tpdc.ac.cn/>",
           "features": "",
+          "landmark": "**黑河综合遥感联合试验 / HiWATER**（2012-2015）：黑河流域遥感-地面同步观测试验数据集，涵盖盈科绿洲、花寨子荒漠机载 WiDAS+LiDAR+Envisat ASAR 多平台同步观测；**祁连山天空地一体化综合监测网**（2018）：北师大刘绍民团队 76 个数据集全要素覆盖；**第三极地温/积雪/冰川数据集**（2000+）：高分辨率冻土温度、活动层厚度、积雪深度、冰川表面高程变化多源数据集。",
           "datasets": [
             {
               "idx": 1,
@@ -1748,6 +1770,7 @@ window.SITE_DATA = {
           "operator": "中科院地理所 + 多个研究所共建",
           "intro": "英文入口：<https://www.geodata.cn/english>",
           "features": "**国内规模最大的地球科学综合数据仓库**之一；领域涵盖大气、海洋、陆面、生态、地质、自然资源、灾害。",
+          "landmark": "**中国 1km 月最高/最低/平均温度数据集**（1901-2023）：彭守璋等制作，引用 1000+ 次；**FROM-GLC 30m 中国土地覆被**（清华宫鹏）：全球首套 10m/30m 分辨率中国土地覆被产品；**GLDAS / CLDAS-V2.0** 中国区域陆面同化产品。",
           "datasets": [
             {
               "idx": 1,
@@ -1825,6 +1848,7 @@ window.SITE_DATA = {
           "operator": "国家气象信息中心（中国气象局气象数据中心）",
           "intro": "",
           "features": "**国内最大气象数据官方源**；通过 GTS/WIS2.0/CMACast 服务全球 200+ 国家。**气象站数据 + 卫星 + 雷达 + 数值预报**。",
+          "landmark": "**CMA-RA V1.5 全球大气再分析**（10km/25km，逐小时/日/月）：中国第一套自主全球大气再分析资料；**中国地面气候标准值数据集**（1991-2020 月值/年值）：2400+ 站长序列要素；**中国天气雷达组网组合反射率 + CMA-MESO 3km 中尺度数值预报产品**（实时）：全国 200+ 部雷达拼图。",
           "datasets": [
             {
               "idx": 1,
@@ -1902,6 +1926,7 @@ window.SITE_DATA = {
           "operator": "国家卫星气象中心",
           "intro": "",
           "features": "**中国国产静止 + 极轨气象卫星** 原始数据及衍生品 124 类，1656 个数据集。",
+          "landmark": "**FY-4B AGRI L1 数据**（先进的静止轨道辐射成像仪）：全圆盘 15min 高频成像；**FY-3H 微波成像仪 (MWRI) L1/L2 数据**：全球海面温度、海冰密集度、土壤冻融长时序产品；**FY-3 系列 MERSI / MWRI / HIRAS 全系列 L1+L2 业务产品**（200+）。",
           "datasets": [
             {
               "idx": 1,
@@ -1983,6 +2008,7 @@ window.SITE_DATA = {
           "operator": "中国林业科学研究院资源信息研究所",
           "intro": "",
           "features": "**国内最全的林业/草原/湿地/荒漠化数据**；181 个数据库，1.3 TB 数据实体。",
+          "landmark": "**中国森林资源连续清查数据集**（8 次清查，1973-至今）：覆盖全国 400+ 样地县级单位森林资源本底；**中国荒漠化监测数据集** + **全国湿地资源监测数据集** + **全国草原资源监测数据集**：三大生态系统类型本底；**自然保护地 / 国家级自然保护区本底数据**：300+ 保护区矢量边界与属性。",
           "datasets": [
             {
               "idx": 1,
@@ -2060,6 +2086,7 @@ window.SITE_DATA = {
           "operator": "中科院地理所 + 中国生态系统研究网络（CERN）",
           "intro": "",
           "features": "**多站点长期生态监测数据**；青藏高原、海北、内蒙古、鼎湖山、长白山、西双版纳等 40+ 站。",
+          "landmark": "**CERN 综合观测数据集**（气象/水文/土壤/生物，1980s-至今）：44 个野外站长期综合观测；**ChinaFLUX 通量观测网络**（2002-至今）：中国通量塔联网观测碳/水/能量；**中国 1km 多年 NPP/GPP 数据集**（MODIS 衍生）：全国陆地生态系统生产力长时序产品。",
           "datasets": [
             {
               "idx": 1,
@@ -2141,6 +2168,7 @@ window.SITE_DATA = {
           "operator": "中科院西北生态环境资源研究院",
           "intro": "",
           "features": "**冰冻圈+沙漠化**数据；23 家共建单位。",
+          "landmark": "**中国冰川编目数据集**（第一/二次冰川编目）：86377 条冰川边界与属性；**青藏高原多年冻土温度 / 活动层厚度序列**：寒区工程设计基准数据；**塔克拉玛干 / 巴丹吉林 / 腾格里沙漠化监测数据集**：西北三大沙漠本底与变化。",
           "datasets": [
             {
               "idx": 1,
@@ -2218,6 +2246,7 @@ window.SITE_DATA = {
           "operator": "国家海洋信息中心",
           "intro": "",
           "features": "海洋水文、气象、化学、生物、地理基础数据。",
+          "landmark": "**中国近海海洋站水文气象常规观测数据**：沿海 100+ 海洋观测站长时序观测；**Argo 浮标全球剖面数据**（中国部分）：2002-至今全球温盐剖面；**海洋一号 (HY-1) / 海洋二号 (HY-2) 卫星遥感数据**：海面高度、海面风场、海浪、海冰等多产品。",
           "datasets": [
             {
               "idx": 1,
@@ -2299,6 +2328,7 @@ window.SITE_DATA = {
           "operator": "自然资源部中国极地研究中心",
           "intro": "",
           "features": "**南极 / 北极 / 雪龙 / 黄河站 / 中山站 / 罗斯海新站** 全套科学数据。",
+          "landmark": "**南极 PANGAEA 镜像 / 中国南极考察数据**：昆仑站、泰山站、中山站长城站冰盖/冰川/气象/海洋综合数据集；**极地海冰钻孔 + 物质平衡观测**（Lambert 冰川等）：揭示东南极冰盖物质平衡；**雪龙号 / 雪龙 2 走航大气/海洋断面数据**：南北极科考走航断面观测。",
           "datasets": [
             {
               "idx": 1,
@@ -2376,6 +2406,7 @@ window.SITE_DATA = {
           "operator": "中国地震台网中心 / 地震局地球物理研究所",
           "intro": "",
           "features": "**强震动 / 地磁 / GPS / 测震** 数据；InSAR 地震形变相关。",
+          "landmark": "**中国测震台网完备数据集 (CSNCD)**（1980s-至今）：千余台站地震目录；**中国大陆构造环境监测网络 (CMONOC) GPS 站**：260+ 连续 GNSS 站地壳形变监测；**中国大陆强震动台网数据**：汶川地震等历史大震完整记录。",
           "datasets": [
             {
               "idx": 1,
@@ -2453,6 +2484,7 @@ window.SITE_DATA = {
           "operator": "中国农科院",
           "intro": "",
           "features": "农业遥感 + 农业统计 + 土壤 + 作物。",
+          "landmark": "**中国农作物种质资源信息系统 (CGRIS)**：43 万份农作物种质资源；**全国土壤类型 / 土壤养分 / 土壤普查数据**（二普/三普）：土壤本底与时空变化；**中国 1km / 30m 耕地资源空间分布**：1990-至今全国耕地本底与变化。",
           "datasets": [
             {
               "idx": 1,
@@ -2530,6 +2562,7 @@ window.SITE_DATA = {
           "operator": "中科院计算机网络信息中心",
           "intro": "",
           "features": "跨学科、**17 类一级学科 23 个主题库**、2.29 PB 数据，**Findata 统一搜索引擎**。",
+          "landmark": "**化学基础数据库**（物质结构/反应/谱图）：CSCD 收录的中国化学权威数据；**生物多样性数据**（物种分布/标本）：中国生物物种名录 + 数千万条标本记录；**天文 / 空间科学基础数据集**（FAST / LAMOST）：中国天眼 / 郭守敬望远镜观测数据。",
           "datasets": [
             {
               "idx": 1,
@@ -2607,6 +2640,7 @@ window.SITE_DATA = {
           "operator": "香港特区政府",
           "intro": "",
           "features": "**1884 年至今 140 年长序列**，地表 / 高空 / 海洋 / 太阳辐射 / 紫外线 / 雷达 / 闪电定位全要素，**香港 SCI 论文 DAS 必用**。",
+          "landmark": "**香港气候月报（1884-2026）**：140 年长序列气温/雨量/气压等连续记录；**热带气旋路径 + 强度（1946-2026）**：香港责任海域最佳路径；**香港雨量 / 气温 / 相对湿度 / 风 / 日照时数 30 年常态值**（1991-2020）：权威气候平均值。",
           "datasets": [
             {
               "idx": 1,
@@ -2696,6 +2730,7 @@ window.SITE_DATA = {
           "operator": "香港特区政府发展局 / 地政总署",
           "intro": "",
           "features": "**香港特区政府跨部门空间数据共享平台**，汇聚 14 个部门 1100+ 数据集，2.05M+ 次下载，9.5B+ API 调用（2025 年数据），是**香港城市 / 地形 / 规划研究**的首选基础底图。",
+          "landmark": "**地政总署 1:1000 地形图 + 矢量地籍图（iC1000）**：香港全境高精度地形地籍；**建筑物 3D 模型 + 全港 3D 步行路径网**：城市级三维数字孪生；**数字高程模型（5m / 2m DEM / DSM）+ 50cm 正射影像（DOM 50cm 全境）**：高分辨率地形 + 影像底图。",
           "datasets": [
             {
               "idx": 1,
@@ -2781,6 +2816,7 @@ window.SITE_DATA = {
           "operator": "澳门特区政府",
           "intro": "",
           "features": "**1904 年至今百余年长序列**，澳门唯一官方气象机构，台风 / 风暴潮 / 雷暴 / 紫外线 / 空气质量一体化。",
+          "landmark": "**澳门气候常态值（30 年平均）**（气温/雨量/风/湿度）：澳门官方权威气候平均；**热带气旋路径 + 风力半径（1945-2026）**：澳门近海 TC 最佳路径；**空气质量监测（PM2.5 / PM10 / O3 / NO2 / SO2 / CO）**：澳门 + 珠三角区域空气质量小时值。",
           "datasets": [
             {
               "idx": 1,
@@ -2866,6 +2902,7 @@ window.SITE_DATA = {
           "operator": "中国台湾省交通部中央气象署",
           "intro": "",
           "features": "**中国台湾省全省 700+ 自动站 + 30+ 雷达 + 卫星接收**，长时序（1896-2026）日 / 月 / 年值全套，台风 / 地震 / 海啸 / 潮汐一体。",
+          "landmark": "**CWA 自动站逐时观测**（气温/雨量/风/气压/湿度/日照，全省 700+ 站）：台湾岛内最密集地面观测网；**台风警报 + 路径（1958-2026，最佳路径 + 警报发布）**：西北太平洋 TC 最佳路径集；**福卫七号掩星 GNSS-RO 资料**（与 NOAA 合作，公开）：每天数千条全球掩星大气廓线。",
           "datasets": [
             {
               "idx": 1,
@@ -2955,6 +2992,7 @@ window.SITE_DATA = {
           "operator": "中国科学院计算机网络信息中心 + 地理科学与资源研究所",
           "intro": "",
           "features": "**中科院\"科学数据库 (CSData)\"核心入口**,覆盖物理 / 化学 / 生物 / 地学 / 天文 / 空间 6 大类 600+ 子库;**人地系统主题数据库**由中国科学院地理科学与资源研究所承建,聚焦\"人口-资源-环境-发展\"耦合数据 (1:100 万地貌/土壤/植被/土地利用/人口/灾害等系列图件),与\"国家地球系统科学数据中心 (geodata.cn)\"形成中科院双数据入口;**DOI 注册 + CiteSpace 引用**.",
+          "landmark": "**1:100 万中国土地利用现状图 + 地貌类型图 + 土壤类型图 + 植被类型图**（人地系统四件套）：中国应用最广的本底基础图件；**中国人口 / 就业 / 居住空间**（1985-至今）：全国 1km 网格人口密度长时序；**中国县域社会经济综合数据库**：2000+ 县区 50+ 年社会经济指标。",
           "datasets": [
             {
               "idx": 1,
@@ -3051,6 +3089,7 @@ window.SITE_DATA = {
           "operator": "中国资源卫星应用中心",
           "intro": "",
           "features": "**国产卫星（高分、资源、环境、北京一号、CBERS等）官方数据源**；GF1/6 16m 数据全球免费，2m/8m 数据需审批。",
+          "landmark": "**高分系列卫星数据**（GF-1/2/3/4/5/6/7）：中国自主民用高分辨率对地观测全系列；**资源系列卫星**（ZY1-02C/3）：中巴地球资源卫星数据中国分发；**北京一号 / 环境一号 HJ-1A/1B**：早期国产主力对地观测卫星。",
           "datasets": [
             {
               "idx": 1,
@@ -3136,6 +3175,7 @@ window.SITE_DATA = {
           "operator": "国家遥感中心（NRSCC）",
           "intro": "",
           "features": "**国家级 GEO 对地观测数据共享平台**，对接 GEO 100+ 成员国。",
+          "landmark": "**FROM-GLC 中国 30m 全球土地覆被**（2010/2015/2017/2020）：清华大学宫鹏团队研制，全球第一套 30m 分辨率土地覆被产品；**全球生态环境遥感监测年度报告数据集**（2010-至今）：科技部国家遥感中心年度旗舰产品；**Landsat 5/7/8 + MODIS 全产品**国家级镜像。",
           "datasets": [
             {
               "idx": 1,
@@ -3217,6 +3257,7 @@ window.SITE_DATA = {
           "operator": "中科院计算机网络信息中心",
           "intro": "",
           "features": "**国内唯一获 Springer Nature / Scientific Data / Elsevier / Cell Press / AGU 推荐的中国通用型数据存储库**；**1500 万+ 数据集，全球 100+ 国家用户**；**DOI + CSTR 双标识**；被联合国教科文组织评为开放科学优秀案例。",
+          "landmark": "**单细胞转录组人工智能就绪数据集**（13 个关键物种、亿级细胞）：SCI 生命科学 AI 模型基座；**2020 珠峰高程测量激光点云 / 高分七号激光测高地形点云**：国产测绘卫星标志性产品；**全球植被 GPP/NPP 产品**（FLUXNET / MODIS 耦合）：植被碳通量权威长时序。",
           "datasets": [
             {
               "idx": 1,
@@ -3294,6 +3335,7 @@ window.SITE_DATA = {
           "operator": "中国国家航天局对地观测与数据中心",
           "intro": "",
           "features": "**GF-1 / GF-6 16m 数据向全球免费开放**（2019.11 GEO 大会宣布）；华为云 + 中科星图 + 航天宏图 + 资源卫星中心联合建设。",
+          "landmark": "**GF-1 WFV 16m 多光谱全历史存档**（2013.4-至今，幅宽 800km）：中国首颗自主高分辨率对地观测卫星主力载荷；**GF-6 WFV 16m 8 波段全历史存档**（2018.6-至今）：8 波段设计专门为农业监测优化；**基于 GF-1/6 存档的全球 30m NDVI 派生产品**：中国对全球免费开放的标志性数据资产。",
           "datasets": [
             {
               "idx": 1,
@@ -3371,6 +3413,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "**面向一带一路 100+ 国家**，高分七颗卫星全球元数据查询 + 16m 存档数据订购 + 气象/海洋数据。",
+          "landmark": "**GF-1/2/3/4/5/6/7 全部 7 颗卫星全球元数据目录**：国产高分系列全球统一查询入口；**风云三号 / 四号 L1+L2 关键气象产品**：国产静止/极轨气象卫星主战数据；**海洋一号 / 二号 L2 SST / 海色 / 海面高度**：国产海洋卫星海洋环境监测核心产品。",
           "datasets": [
             {
               "idx": 1,
@@ -3448,6 +3491,7 @@ window.SITE_DATA = {
           "operator": "中科院计算机网络信息中心（2008 创立）",
           "intro": "",
           "features": "**国内地学大数据平台的\"老牌\"**，获 2016 北京市科技二等奖 / 2021 数博会领先科技成果奖。**Landsat + MODIS + DEM** 国内最大镜像。",
+          "landmark": "**Landsat 5 TM / 7 ETM+ / 8 OLI 全历史**（中国 + 全球）：国内最大 Landsat 完整镜像；**SRTM DEM 30m/90m 全球 + ASTER GDEM v3 30m 全球**：全球地形数据双主力；**MODIS MOD09 / MOD11 / MOD13 / MOD17 全产品**：中分辨率地球观测最全产品线。",
           "datasets": [
             {
               "idx": 1,
@@ -3525,6 +3569,7 @@ window.SITE_DATA = {
           "operator": "中科院地理所（2005 成立）",
           "intro": "DOI 注册入口：<https://www.resdc.cn/DOI/>",
           "features": "**国内最权威的人地关系数据源**；**DOI 注册 + 长时序**；多套被引 1000+ SCI 论文的经典数据集（徐新良）。",
+          "landmark": "**中国多年度地市行政区划边界数据 1986-2022**（徐新良）：中国行政区划研究引用率最高的基础底图；**中国夜间灯光月度数据集（NPP-VIIRS 衍生）2012.4-至今**：城市化研究必备；**中国 1981-2012 逐年每 15 天 8km 植被指数（NDVI）数据集**（GIMMS 来源）：中国植被动态长时序经典产品。",
           "datasets": [
             {
               "idx": 1,
@@ -3602,6 +3647,7 @@ window.SITE_DATA = {
           "operator": "中科院空天信息创新研究院（空天院）",
           "intro": "",
           "features": "**面向商业应用的开放数据 API**；200+ 颗卫星在线观测。",
+          "landmark": "**国产高分系列 1-7 号在线切片 API**：高分数据商业化调用主入口；**Sentinel-1/2 完整数据 + Landsat 8/9 + MODIS 多产品**：欧洲 / 美国对地观测主力镜像；**PlanetScope / Worldview / GeoEye 商业高分辨率**：商业卫星在线 API 集成。",
           "datasets": [
             {
               "idx": 1,
@@ -3679,6 +3725,7 @@ window.SITE_DATA = {
           "operator": "中国地质调查局 / 自然资源部",
           "intro": "",
           "features": "地质 / 矿产 / 地球化学 / 地球物理数据。",
+          "landmark": "**1:20万 / 1:50万 / 1:250万 中国区域地质调查数据集**：全国最权威地质基础图件；**全国矿产地数据库（2021版）20000+ 矿产地**：矿产资源评价核心数据集；**中国地球化学调查（多目标 / 区域）元素数据（1:20万）**：全国地球化学背景值基础数据；**全国航磁 / 航重 / 航电数据集**：地球物理勘查标志性产品。",
           "datasets": [
             {
               "idx": 1,
@@ -3764,6 +3811,7 @@ window.SITE_DATA = {
           "operator": "中科院植物所 / 动物所 / 微生物所",
           "intro": "",
           "features": "**生物多样性 + 物种 + 生态** 数据；与 GBIF 互操作。",
+          "landmark": "**中国植物标本馆（CVH）数字化数据集 1000 万+**：中国植物多样性最权威标本库；**中国生物物种名录（Species 2000 China）**：物种名录权威标准；**中国植物志 / 动物志数字化**：经典生物分类学权威著作数字化全集；**中国脊椎动物物种分布**：鱼类 / 两栖 / 爬行 / 鸟类 / 兽类全覆盖。",
           "datasets": [
             {
               "idx": 1,
@@ -3848,6 +3896,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "发布方：武汉大学陆表与大气定量遥感湖北省重点实验室（梁顺林院士团队）",
           "features": "**国际首套 30m 分辨率 40 年全球长时序多参量**定量遥感产品；超过 GLASS 第二代。",
+          "landmark": "**Hi-GLASS 全球 30m LAI1982-2023**（武大梁顺林团队旗舰）：全球首套 30m 分辨率 40 年叶面积指数长时序产品；**Hi-GLASS 全球 30m Albedo / LST / ET / GPP / NPP / SM / 雪盖1982-2023 系列**（武大 2017+）：覆盖陆表辐射、能量与碳水循环8+ 类核心参量的全球长时序定量遥感产品集",
           "datasets": [
             {
               "idx": 1,
@@ -3925,6 +3974,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "发布方：武汉大学遥感信息工程学院（夏桂松教授团队）",
           "features": "**遥感影像目标检测的\"ImageNet\"级**基准；与 NWPU VHR-10、AID 等齐名。",
+          "landmark": "**DOTA v1.0/v1.5/v2.0**（武大夏桂松团队，引用 5000+）：2806 张大幅面航拍影像14-18 类旋转目标检测基准；**FAIR1M**（武大 2021）：5 万+ 影像 37 类细粒度密集目标检测；**AID / DIOR / VisDrone / LEVIR-CD+ / SAR-Ship**（武大系列）：场景分类 / 通用检测 / 无人机视角 / 变化检测 / SAR 舰船等下游标杆数据集",
           "datasets": [
             {
               "idx": 1,
@@ -4002,6 +4052,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "发布方：清华大学地球系统科学系 (宫鹏/陶福禄/白玉琪等)",
           "features": "**FROM-GLC 系列产品**（全球首套多时相 10m 土地覆被）；与宫鹏团队 ESA WorldCover / S2 Global 紧密相关。",
+          "landmark": "**CLCD Tsinghua 1km China Land Cover v1.1 1985-2020**（清华宫鹏团队）：中国 30+ 年土地覆被变化长时序；**CLCD Tsinghua 10m China Land Cover 2017-2022**（清华 2024）：Landsat 衍生的中国年度 10m 土地覆被产品；**FROM-GLC10 / FROM-GLC30**（清华全球土地覆被）：全球首套 10m 多时相土地覆被产品",
           "datasets": [
             {
               "idx": 1,
@@ -4079,6 +4130,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "发布方：北师大地理科学学部 (刘绍民教授团队)",
           "features": "2019 年起 76 个数据集集中发布到 TPDC，**泛第三极 + 黑河** 综合观测网标杆。",
+          "landmark": "**祁连山 HEX 天空地一体化综合监测数据集**（北师大刘绍民团队，2018+）：覆盖20 个通量站、24 个气象站及多期 30m 生态产品的天空地一体化标杆；**祁连山 1980-2017 每 5 年一期 27 个30m 生态产品**（土地覆被 / DEM / NDVI / EVI / NPP / LAI / FVC 等）",
           "datasets": [
             {
               "idx": 1,
@@ -4156,6 +4208,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "发布方：西工大 (程塨 / 韩军伟 / 兰旭光等)",
           "features": "**遥感场景分类、检测、检索的\"标准库\"**；与武汉大学并列国内头牌。",
+          "landmark": "**NWPU-RESISC45**（西工大程塨团队，2017，45 类 31500 张）：遥感场景分类基准；**NWPU VHR-10**（西工大 2014）：10 类高分辨率目标检测基准；**NWPU-Crowd**（西工大 2018）：密集人群计数基准；**HRSC2016 / NWPU-MOC**：舰船检测基准数据集",
           "datasets": [
             {
               "idx": 1,
@@ -4233,6 +4286,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "发布方：中科院航空遥感中心 (依托空天院)",
           "features": "**40 年累计近 5PB 数据、30+ 典型数据集已开放共享**；**通过国家对地观测科学数据中心航空遥感数据资源分中心**门户网站。",
+          "landmark": "**高分辨率机载多维度 SAR 地物分类数据集**（中科院航空遥感中心，亚米级多波段多极化）：国产 SAR 标杆；**机载多角度光学图像与激光点云数据集**（亚米级，新视角智能生成）；**机载 LiDAR 城市三维模型数据集**（北京 / 上海 / 深圳）",
           "datasets": [
             {
               "idx": 1,
@@ -4310,6 +4364,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "发布方：中国地质调查局 / 国家遥感中心",
           "features": "**外交部 + 自然资源部联合发布**，国际影响力大。",
+          "landmark": "**全球冰川变化遥感监测 1990s-至今**（中国地调局年度旗舰报告）；**全球大宗作物（玉米 / 小麦 / 水稻 / 大豆）遥感监测**与**全球土地覆被变化监测**；**\"一带一路\"生态环境状况报告**（外交部 + 自然资源部联合发布旗舰）",
           "datasets": [
             {
               "idx": 1,
@@ -4387,6 +4442,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "发布方：中科院植物所 (PE 标本馆)",
           "features": "**生物多样性 + 生态 + 植被** 基础数据；与 NSII 互操作。",
+          "landmark": "**CVH 中国高等植物标本数据库100 万+ 记录**（中科院植物所 PE 标本馆）：中国植物多样性本底数据核心；**PPBC 中国植物图像库 1000 万+ 高清图**（中科院植物所）；**中国 1:100 万植被图**（侯学煜先生经典矢量植被图）",
           "datasets": [
             {
               "idx": 1,
@@ -4471,6 +4527,7 @@ window.SITE_DATA = {
           "operator": "JAXA（Japan Aerospace Exploration Agency，日本宇宙航空研究开发机构）",
           "intro": "英文版：<https://gportal.jaxa.jp/gpr/?lang=en>",
           "features": "**日本全部卫星数据统一下载入口**，持有 100+ PB，**对全球科研用户免费**，注册即可。包含 ALOS-1/2、GCOM-W/C、GOSAT 系列、Himawari-8/9、TRMM、ADEOS-II、JASMES 等。",
+          "landmark": "**ALOS PALSAR-1/2**（2006-2011/2014+）：日本 L 波段合成孔径雷达全球观测，地表形变与森林监测金标准；**GCOM-C SGLI**（2017+）：新一代全球海陆气成像仪，250m-1km 多光谱海洋水色；**TRMM PR**（1997-2015）：全球首颗星载测雨雷达，热带降水三维结构",
           "datasets": [
             {
               "idx": 1,
@@ -4548,6 +4605,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "EORC 产品页：<https://www.eorc.jaxa.jp/ALOS/en/dataset/dataset_index.htm>、<https://sharaku.eorc.jaxa.jp/>",
           "features": "JAXA 二级研究单位，与 NASA/ESA/NOAA 长期互校。",
+          "landmark": "**GCOM-C SGLI L3 全球产品**（2018+）：叶绿素-a、NDVI/EVI、LST、气溶胶引用 500+；**ALOS-2 PALSAR-2 全球森林掩膜**（25m, 2015-2020, Shimada et al.）：引用 1000+，全球森林监测里程碑；**AMSR2 L3 土壤水分**（v8.2, 10km/0.25°, Kudo et al.）：引用 1000+，微波遥感标杆",
           "datasets": [
             {
               "idx": 1,
@@ -4625,6 +4683,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "数据入口：<https://www.data.jma.go.jp/>",
           "features": "气象观测、预报、气候、海洋、地震、火山全覆盖；**JRA-3Q 是国际三大全球大气再分析之一**（与 ERA5、MERRA-2 并列）。",
+          "landmark": "**JRA-3Q**（1948-至今, Kobayashi et al. 2024 *JMSJ*）：第三代 75 年全球大气再分析，引用 1000+；**JRA-55**（1958-至今, Kobayashi et al. 2015）：引用 5000+，长序列气候研究主力；**Himawari-8/9 L1B/L2 网格**：日本下一代静止气象卫星 10min 全圆盘 16 通道再分发",
           "datasets": [
             {
               "idx": 1,
@@ -4702,6 +4761,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "GOSAT 数据：<https://www.gosat.nies.go.jp/en/>",
           "features": "**GOSAT 温室气体卫星**的地面验证单位，发布全球大气本底站观测数据、亚洲气溶胶、沙尘监测。",
+          "landmark": "**GOSAT TANSO-FTS L2 XCO2/XCH4**（2009+）：全球首颗温室气体专用卫星 SWIR 反演产品，引用 2000+；**GOSAT-2 TANSO-FTS-2**（2018+）：高灵敏度新一代温室气体观测；**NIES 大气本底站**（波照间/落雷岬/富士山顶）：温室气体长期连续观测全球基准",
           "datasets": [
             {
               "idx": 1,
@@ -4779,6 +4839,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "地质图数据库：<https://gbank.gsj.jp/>",
           "features": "日本唯一地质调查官方机构；**海洋地质 + 火山 + 地下水**领域国际顶尖。",
+          "landmark": "**日本 1:5万/1:20万/1:200万 矢量化地质图**：覆盖全日本的权威地质基础数据库；**日本活断层数据库**（2000+ 断层）：地震灾害评估核心数据；**日本海底热液矿床/稀土泥**：太平洋海底稀土资源勘探国际合作数据",
           "datasets": [
             {
               "idx": 1,
@@ -4856,6 +4917,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "电离层 / 大气 / 卫星通信研究；**电离层 TEC 全球网格**。",
+          "landmark": "**全球电离层电子含量 GIM/TEC 网格**（1997-至今, 1h 2.5°×5°）：电离层监测全球基准数据集；**NICT 电离层垂直探测 ionosonde**：日本本土及南极电离层长期观测；**NICT 时间频率标准/原子钟**：日本国家标准时间 UTC(NICT) 溯源数据",
           "datasets": [
             {
               "idx": 1,
@@ -4933,6 +4995,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "JMA 实时图：<https://www.jma.go.jp/bosai/himawari/>",
           "features": "Himawari-8/9 实时云图 + 派生产品（亚洲 5min 高频更新）。",
+          "landmark": "**Himawari-8/9 实时 10min 全圆盘 16 通道 GeoTIFF/NetCDF**：新一代静止轨道气象卫星高频观测；**Himawari 5min 快速更新区域**（Japan + East Asia）：灾害天气分钟级监测；**H-E Precip Himawari 降水估计**：基于云移动矢量的高频降水反演",
           "datasets": [
             {
               "idx": 1,
@@ -5010,6 +5073,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "JAXA 在国际空间站 Kibo 模块上的对地观测载荷，**与 NASA SERVIR / ESA 互补**。",
+          "landmark": "**HDTV-EF 超高清地球影像**：ISS 上 4K 超高清对地观测影像；**Kibo CubeSat 释放计划**（200+ 颗）：J-SSOD 通过 Kibo 机械臂释放的对地观测小卫星；**ISS 夜间灯光**（与 NASA BlackMarble 互补）：JAXA Kibo 模块 ISS 拍摄的夜间灯光影像",
           "datasets": [
             {
               "idx": 1,
@@ -5094,6 +5158,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "数据入口：<https://ksat.kari.re.kr/>（KOMPSAT 数据订购平台）",
           "features": "韩国国产卫星主要运营方；**商业+科研双轨**。",
+          "landmark": "**KOMPSAT-3/3A/5**（2012+）：韩国高分辨率光学（0.5m）/SAR（1m）卫星影像",
           "datasets": [
             {
               "idx": 1,
@@ -5171,6 +5236,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "**GOCI 是世界第一颗静止轨道海洋水色卫星**（2010-2021），每 1h 拍摄 2500km × 2500km 西太平洋；**GOCI-II**（2019-至今）继续接班。",
+          "landmark": "**GOCI/GOCI-II** 静止轨道每小时海洋水色（2010+，全球唯一静止海洋水色）；**GK-2A 气象卫星** L2 网格（2018+，全圆盘 1km）",
           "datasets": [
             {
               "idx": 1,
@@ -5252,6 +5318,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "ISRO 官网：<https://www.isro.gov.in/>",
           "features": "印度全部国产卫星数据**统一免费分发**，覆盖 25+ 卫星，包括对地观测、通信、气象、海洋、行星。",
+          "landmark": "**CARTOSAT 系列** 立体测绘（0.25-1m）和 **Resourcesat-2/2A LISS-III/AWiFS** 中分辨率（5.8-56m）",
           "datasets": [
             {
               "idx": 1,
@@ -5329,6 +5396,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "注册：免费",
           "features": "印度\"天地图+USGS+Google Earth\"综合体；**3D 印度全境可视化 + 1000+ 专题图层**。",
+          "landmark": "**印度 2.5m Cartosat 全国镶嵌**（2005-至今）和 **印度 5.8m Resourcesat AWiFS 全国镶嵌**",
           "datasets": [
             {
               "idx": 1,
@@ -5406,6 +5474,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "1972 年起接收 Landsat 1，是全球最久的陆地卫星地面接收站之一；**RADARSAT 1/2 是加拿大主力 SAR 卫星**。",
+          "landmark": "**RADARSAT-1/2 全模式 SAR**（1-100m，C-频段）和 **Canada CDEM 0.75 弧秒** 全国 DEM",
           "datasets": [
             {
               "idx": 1,
@@ -5491,6 +5560,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "NCEO 北方遥感：<https://www.nceo.ca/>",
           "features": "加拿大\"基础遥感产品\"主力发布方；与 NRCan 合并管理。",
+          "landmark": "**CCRS 全球 1km 30 年 AVHRR NDVI 时序**（1981-2010）和 **CCRS 全国 30m Land Cover**（1990/2000/2010/2020）",
           "datasets": [
             {
               "idx": 1,
@@ -5568,6 +5638,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "**CBERS 中巴地球资源卫星**数据主要分发方；**全球火灾 / 亚马逊森林砍伐监测**国际权威。",
+          "landmark": "**PRODES 亚马逊森林砍伐监测**（年度，1988-至今，全球森林变化标杆）和 **INPE DETER 实时森林砍伐**（日/周）",
           "datasets": [
             {
               "idx": 1,
@@ -5645,6 +5716,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "数据入口：<https://www.ga.gov.au/scientific-topics/national-location-information/dimensions/3d-data>",
           "features": "",
+          "landmark": "**DEA Water Observations from Space (WOfS) 25m** 澳大利亚全境水体（1987-至今）和 **Australia 5m DEM (DEM-S)** 数字高程模型",
           "datasets": [
             {
               "idx": 1,
@@ -5722,6 +5794,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "数据入口：<https://geoservice.dlr.de/>、<https://eoweb.dlr.de/>",
           "features": "**TanDEM-X 全球 12m DEM (DEM-12)** 是当前精度最高商业级全球 DEM。",
+          "landmark": "**TanDEM-X 全球 12m DEM (DEM-12)**（商业级唯一全球）和 **TerraSAR-X X-频段 SAR**（1-18m）",
           "datasets": [
             {
               "idx": 1,
@@ -5799,6 +5872,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "PEPS（Plateforme d'Exploitation des Produits Sentinel）：<https://peps.cnes.fr/rocket/>",
           "features": "法国对地观测主体，**与 ESA 强协同**；PEPS 是法国 Sentinel 数据镜像（与 CDSE 互补）。",
+          "landmark": "**SPOT 1-7 历史档案**（1.5-20m）和 **Pleiades-1A/1B**（0.5m 全色 / 2m 多光谱）",
           "datasets": [
             {
               "idx": 1,
@@ -5876,6 +5950,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "重点：多光谱地表反射率、生物物理参量、积雪、水体、土壤水分、城市、不透水面。",
           "features": "法国 INRAE + CNES + IRD + IGN 联合，发布法国 / 欧 / 非 / 海外省 **陆表专题高等级产品**。",
+          "landmark": "**Theia Sentinel-2 L2A 法属地 + 全球** 和 **Theia 多光谱生物物理参量**（LAI / fAPAR / fCover / Albedo）",
           "datasets": [
             {
               "idx": 1,
@@ -5953,6 +6028,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "英国基础研究数据\"统一门户\"；**CEH 陆面、BAS 极地、NCAS 大气** 三大支柱。",
+          "landmark": "**CEH-CHESS 1km 陆面同化**（1981-至今）和 **BAS 南极 / 北极冰盖 DEM / 物质平衡**",
           "datasets": [
             {
               "idx": 1,
@@ -6046,6 +6122,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "英国气象 + 航天双主力；**HadCRUT、HadISST、UKCP** 是国际气候研究标配。",
+          "landmark": "**HadCRUT5 全球温度异常**（1850-至今）和 **HadGEM3/UKCP18 区域气候预测**（2.2km/12km）",
           "datasets": [
             {
               "idx": 1,
@@ -6127,6 +6204,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "数据入口：<https://www.cosmo-skymed.it/>",
           "features": "**COSMO-SkyMed 是 4 颗 X-频段 SAR 卫星星座**（1m 分辨率），商业+科研双轨；**第二代 COSMO-SkyMed Second Generation (CSG)** 已发射。",
+          "landmark": "**COSMO-SkyMed 1-4 X-频段 SAR**（1m，单/双/全极化）和 **PRISMA 高光谱**（30m，250 波段）",
           "datasets": [
             {
               "idx": 1,
@@ -6204,6 +6282,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "俄罗斯水文气象与卫星数据主要在 Planeta 注册分发；部分 Meteor-M、Resurs-P、Elektro-L、Kanopus-V 数据有限开放。",
+          "landmark": "**Meteor-M №2/2-2 极轨气象**（多光谱/微波）和 **Resurs-P 高分辨率**（0.4-1m 全色）",
           "datasets": [
             {
               "idx": 1,
@@ -6289,6 +6368,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "EOGW 目录：<https://earth.esa.int/eogateway/catalog>",
           "features": "**CEOS IDN 之外的另一个聚合入口**；覆盖 50+ 第三国 / 第三机构任务：ALOS、COSMO、SPOT、Pleiades、RADARSAT、KOMPSAT、Deimos、Planetsat 等。",
+          "landmark": "**ALOS/ALOS-2 JAXA 镜像**和 **COSMO-SkyMed / SPOT / Pleiades / RADARSAT / KOMPSAT 第三方**全球聚合目录",
           "datasets": [
             {
               "idx": 1,
@@ -6366,6 +6446,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "生态：与 GitHub / JupyterHub 联动。",
           "features": "**ESA 编程环境**：STAC + OGMS + EOxHub + 编程工作流，支持 ESA 合作项目在线处理 Sentinel / Copernicus 数据。",
+          "landmark": "**EarthCODE STAC Catalogue**（Sentinel-1/2/3 元数据）和 **EarthCODE 编程工作流 Templates**（洪水/火山/滑坡/农业/海洋）",
           "datasets": [
             {
               "idx": 1,
@@ -6443,6 +6524,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "**欧洲四大云平台最友好**（WEkEO / CREODIAS / ONDA / SOBLOO / CDSE）；一站式 C3S + CAMS + CMEMS + CLMS 访问 + 虚拟化 JupyterLab。",
+          "landmark": "**ERA5 全球大气再分析**（每小时 / 0.25° / 1950-至今）和 **CAMS 全球大气成分**（AOD/臭氧/CO/CH4）",
           "datasets": [
             {
               "idx": 1,
@@ -6520,6 +6602,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "**Sentinel 1/2/3/5P/6 数据 100% 开放**；CDSE 是新一代主入口，4 DIAS 已合并入 CDSE。",
+          "landmark": "**Sentinel-1/2/3/5P/6** 全系列开放镜像和 **C3S ERA5/ERA5-Land** 全球再分析",
           "datasets": [
             {
               "idx": 1,
@@ -6613,6 +6696,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "欧洲数值预报 + 再分析 + 大气成分；**ERA5 / CAMS / C3S** 是 SCI 论文使用率最高的数据集之一。",
+          "landmark": "**ERA5 全球大气再分析**（1940-至今，31km，小时，引用 20000+）和 **CAMS 全球大气再分析**（AOD/臭氧/CO/CH4/N2O）",
           "datasets": [
             {
               "idx": 1,
@@ -6698,6 +6782,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "CMEMS 是欧洲海洋数据中心；全球 + 区域两套产品。",
+          "landmark": "**CMEMS 全球海洋物理（GLO-MFC）** 温盐/海流/海面高 和 **CMEMS 北大西洋（NWS-MFC）1/36°** 高分辨率",
           "datasets": [
             {
               "idx": 1,
@@ -6779,6 +6864,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "NASA + USAID 联合的**发展中国家**对地观测应用网；**非洲、亚洲、拉丁美洲** 5 个区域中心（东亚由 ADPC 曼谷负责）。",
+          "landmark": "**SERVIR 西非/南部非洲 RCMRD/AGRHYMET** 和 **SERVIR 东非 RCMRD（内罗毕）**",
           "datasets": [
             {
               "idx": 1,
@@ -6856,6 +6942,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "**全球气象/水文数据交换的\"中央银行\"**；GTS 实时观测 + WIS 2.0 (2024-)。",
+          "landmark": "**WIS 2.0 实时全球观测**（SYNOP/SHIP/BUOY/TEMP/PILOT）和 **GCOS 全球气候观测系统**（150+ ECV）",
           "datasets": [
             {
               "idx": 1,
@@ -6937,6 +7024,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "政府间 GEO 协调机构，110+ 成员国 + 130+ 组织；**GEOSS Portal** 跨库检索。",
+          "landmark": "**GEOSS Portal 跨库检索**（300+ 平台）和 **GEO AfriGEOSS / EuroGEOSS / AOGEOSS** 区域协调",
           "datasets": [
             {
               "idx": 1,
@@ -7018,6 +7106,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "制定**STAC、GeoRSS、SOS、SPS、Catalogue Service for the Web**等开放标准。",
+          "landmark": "**STAC (SpatioTemporal Asset Catalog) 元数据规范** 和 **OGC API - Features / Coverages / Maps / Tiles**",
           "datasets": [
             {
               "idx": 1,
@@ -7107,6 +7196,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "基于 Open Data Cube + STAC 的国家级\"Google Earth 引擎\"。",
+          "landmark": "**Digital Earth Africa Landsat 30m 立方体**（1985-至今）和 **DEA Africa Sentinel-2 立方体**（2015-至今）",
           "datasets": [
             {
               "idx": 1,
@@ -7192,6 +7282,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "基于空客/客机的**全球大气探空网络**；与 TROPOMI、OMI、MOPITT 等卫星对比验证。",
+          "landmark": "**IAGOS-CARIBIC 全球商业客机大气成分**（NOx/O3/CO/CO2/CH4/水汽）和 **TCCON 全球 XCO2/XCH4 地面 FTIR 验证**（20+ 站）",
           "datasets": [
             {
               "idx": 1,
@@ -7281,6 +7372,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "欧洲研究基础设施联盟 (ERIC)；**ICOS 碳观测 / ACTRIS 大气 / Lifewatch 生物多样性**。",
+          "landmark": "**ICOS 欧洲通量网 150+ 站**（CO2/CH4/N2O/水热通量）和 **ACTRIS 欧洲气溶胶激光雷达 EARLINET**",
           "datasets": [
             {
               "idx": 1,
@@ -7366,6 +7458,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "ICSU 体系的 World Data Center 传统体系；**60+ 个分中心覆盖地球/空间/海洋/极地/社会**。",
+          "landmark": "**GBIF 全球生物多样性**和 **WDC for Climate（汉堡）**",
           "datasets": [
             {
               "idx": 1,
@@ -7455,6 +7548,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "全球统计 + 遥感栅格耦合是近年 SCI 论文主流方向。",
+          "landmark": "**World Bank 全球国家 GDP/人口/农业/能源** 和 **FAOSTAT 全球农业**（产量/面积/收获/贸易）",
           "datasets": [
             {
               "idx": 1,
@@ -7548,6 +7642,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "NASA 应用科学部 + 免费教学 + 在线数据可视化；**Giovanni 是科研教学最便捷工具之一**。",
+          "landmark": "**Giovanni 在线数据可视化**（MODIS/TRMM/MERRA-2/GPM）和 **NASA Worldview 实时卫星影像浏览**",
           "datasets": [
             {
               "idx": 1,
@@ -7633,6 +7728,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "国际 / 区域专题（公益机构 + 区域研究能力建设组织）的开放数据 / 项目平台。",
+          "landmark": "**WRI Aqueduct 全球水风险**（12 项指标）和 **GFW 全球森林覆盖/损失/火灾**（2000-至今，30m）",
           "datasets": [
             {
               "idx": 1,
@@ -7753,6 +7849,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "Springer Nature 旗下 *Scientific Data / Nature 系列 / BMC 系列 / Springer* 全部采用统一的\"推荐库列表\"。**任何在推荐库的数据都可作 DAS**。",
+          "landmark": "**Figshare / Zenodo**：Springer Nature 官方合作的两大通用库，跨学科覆盖最广，上传即得 DOI，是 DAS 引用的首选渠道；**TPDC（国家青藏高原科学数据中心）**：Springer Nature 认证推荐列表中的中国唯一数据库，国内地学论文投稿 Nature 系列时的合规存储去处",
           "datasets": [
             {
               "idx": 1,
@@ -7830,6 +7927,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "",
+          "landmark": "**Figshare（<https://figshare.com/>）/ Zenodo（<https://zenodo.org/>）**：Scientific Data 推荐列表中最常用的两个通用库，任意学科数据均可托管并获得永久 DOI；**PANGAEA（<https://www.pangaea.de/>）**：地球与环境科学专用库，Nature 系列地学数据论文的标准存储去处，支持数据集级引用",
           "datasets": [
             {
               "idx": 1,
@@ -7907,6 +8005,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "Mendeley Data 入口：<https://data.mendeley.com/>（2023 起停运，原数据由 Data Select 接管）",
           "features": "Elsevier 旗下 2500+ 期刊统一政策；**几乎所有期刊都接受\"上传到通用库 / 作者自己的仓库 / 项目主页\"**三种方式。",
+          "landmark": "**Figshare（Elsevier 官方合作伙伴）**：Mendeley Data 停运后最主流的替代通用库，与 Elsevier 投稿系统直连；**PANGAEA / NEON / FLUXNET**：Elsevier 地学与生态类期刊推荐的领域库，通量塔与生态观测数据的标准归档地",
           "datasets": [
             {
               "idx": 1,
@@ -7984,6 +8083,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "数据集规模：9000+ 数据集",
           "features": "**IEEE 旗下开放数据集平台**，与 IEEE Xplore 深度集成。**机器学习 / 信号处理 / 遥感 / 通信**是核心领域。",
+          "landmark": "**IEEE 高光谱影像分类数据集（Indian Pines / Salinas / Pavia）**：高光谱遥感分类领域的基准数据集，几乎所有 HSI 分类论文的标配对照数据；**IEEE 全球 SAR 复数据集**：含相位信息的 SAR 复数据，用于干涉、目标检测与 SAR 深度学习研究",
           "datasets": [
             {
               "idx": 1,
@@ -8061,6 +8161,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "AGU 旗下 *JGR / GRL / GBC / Earth's Future / JAMES* 等期刊的\"标准 DAS 库\"；**ESSD 是地球科学领域数据论文最权威期刊**。",
+          "landmark": "**ESA CCI 系列（土地覆盖 1992-2020、土壤水分 1992-2021、海面温度 1991-2020）**：气候变化长时序基本变量产品，单项引用均超 1000 次，是 ESSD 数据论文的代表性成果；**GLEAM 全球蒸散发（1980-2020）**：40 年全球 ET 产品，引用 2000+，水循环与干旱研究的核心输入",
           "datasets": [
             {
               "idx": 1,
@@ -8142,6 +8243,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "**EGU 全部 20+ 期刊的\"Data + Code\"强政策**；其中 ESSD 和 GMD 直接发\"数据/方法论文\"。",
+          "landmark": "**ESSD — ESA CCI Soil Moisture v8.1（Gruber et al.）**：全球最长时序卫星土壤水分融合产品，ESSD 数据论文的典范；**TC — Randolph Glacier Inventory (RGI 7.0)**：全球冰川编目权威版本，冰冻圈与海平面上升研究的基础底图",
           "datasets": [
             {
               "idx": 1,
@@ -8235,6 +8337,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "生物 / 医学 / 生命科学核心；Cell Press 包括 *Cell*、*Neuron*、*Cancer Cell* 等。",
+          "landmark": "**NCBI GEO / SRA**：基因表达谱与高通量测序读段存档，PLOS 与 Cell Press 对组学数据的强制提交去处；**EBI PRIDE / MetaboLights**：欧洲生物信息研究所的蛋白质组与代谢组标准库，Cell Press 投稿时的推荐归档地",
           "datasets": [
             {
               "idx": 1,
@@ -8320,6 +8423,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "MDPI 是开放获取出版集团；**旗下 *Data* 期刊专门发数据描述论文**；*Remote Sensing* 是国内 SCI 论文量最大期刊。",
+          "landmark": "**MDPI *Remote Sensing* 配套数据集（10 万+ 论文/数据集）**：国内遥感 SCI 发文量最大的期刊，配套数据覆盖分类、反演、变化检测各方向；**MDPI *Data* 期刊数据论文（5000+）**：专发数据描述论文，投稿门槛相对友好，适合首次发布数据集",
           "datasets": [
             {
               "idx": 1,
@@ -8405,6 +8509,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "Frontiers 全部期刊要求\"开放数据\"；**与 Zenodo 强集成**（论文提交时可一键上传到 Zenodo 拿 DOI）。",
+          "landmark": "**Frontiers in Remote Sensing 配套数据**：遥感专刊数据经 Zenodo 一键归档并自动获得 DOI，投稿流程内完成数据发布；**Frontiers in Earth Science / Marine Science 配套数据**：地学与海洋观测数据集，覆盖近海、极地与陆表环境监测",
           "datasets": [
             {
               "idx": 1,
@@ -8482,6 +8587,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "*Science*、*Science Advances*、*Science Translational Medicine* 等顶刊要求数据可用；**与 Dryad / Figshare / Zenodo 合作**。",
+          "landmark": "**Dryad（Science 官方合作伙伴）**：Science 系列论文配套数据的首选存储库，专注生态、进化与环境类数据的长期保存；**GenBank / PDB / NCBI GEO**：Science 对分子生物、蛋白质结构与基因组数据的强制提交库，无登录号不予接收",
           "datasets": [
             {
               "idx": 1,
@@ -8559,6 +8665,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "**中国期刊数据存储 + 共享**。",
+          "landmark": "**《中国科学数据》(CSData) 配套数据集**：国内首个专门发表数据论文的中文期刊，数据实体与论文一并托管并分配 CSTR/DOI；**《遥感学报》/ *Journal of Remote Sensing* 配套数据**：国内遥感领域权威期刊的论文配套数据，多与 TPDC、地球大数据平台联合托管",
           "datasets": [
             {
               "idx": 1,
@@ -8636,6 +8743,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "**预印本 + 数据 / 代码双发布** 是新型 OA 模式。",
+          "landmark": "**arXiv + Zenodo 联动**：预印本挂 arXiv、数据与代码挂 Zenodo 拿 DOI，是 AI/遥感领域数据发布的事实标准组合；**EarthArXiv + OSF 联动**：地球科学预印本与 OSF 项目空间绑定，可在同行评议前公开完整数据与分析流程",
           "datasets": [
             {
               "idx": 1,
@@ -8717,6 +8825,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "Wiley 旗下 1700+ 期刊；**与 Figshare 合作** 较多。",
+          "landmark": "**Wiley *Water Resources Research* 配套数据**：水文学旗舰期刊，流域观测、模型输入输出数据均须随文公开；**Wiley *Geophysical Research Letters* / *JGR* 系列配套数据**：AGU 与 Wiley 合作出版，地球物理与大气观测数据按 AGU 强 DAS 政策归档",
           "datasets": [
             {
               "idx": 1,
@@ -8794,6 +8903,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "**专门发\"数据描述论文\"** 的期刊；只要你的数据集新、全面、有价值，**就能发一篇 SCI**。",
+          "landmark": "**Earth System Science Data (ESSD，IF ~11)**：地球科学数据论文最权威期刊，全球长时序遥感与气候产品的首发地；**Scientific Data (Nature，IF ~9)**：跨学科数据描述论文旗舰刊，配套数据须存入 Nature 推荐库并附 DOI",
           "datasets": [
             {
               "idx": 1,
@@ -8890,6 +9000,7 @@ window.SITE_DATA = {
           "operator": "DataCite + GFZ 德国地球科学中心",
           "intro": "功能：检索、对比、推荐、DOI 链接。",
           "features": "**全球最权威的数据仓储元数据库**，3000+ 注册仓储，按学科 / 国家 / 主题分类。",
+          "landmark": "**re3data 索引 30000+ 研究数据仓储**（覆盖 80+ 国家/地区）：全球最权威的科研数据仓储注册中心，支持按学科/国家/认证状态过滤；**DataCite 5000 万+ DOI 注册**（合作）：为数据提供永久标识符",
           "datasets": [
             {
               "idx": 1,
@@ -8967,6 +9078,7 @@ window.SITE_DATA = {
           "operator": "Oxford e-Research Centre / FAIRsharing 团队",
           "intro": "",
           "features": "**FAIR 原则（Findable, Accessible, Interoperable, Reusable）** 的\"百科全书\"；含 1700+ 标准、1800+ 仓储、1200+ 政策。",
+          "landmark": "**FAIRsharing 收录 1700+ 词表标准 + 1800+ 仓储 + 1200+ 政策注册**：FAIR 原则的官方百科全书，跨学科聚合数据标准与元数据规范；**FAIR Wizard + FAIR Cookbook**：提交前自评工具与操作手册",
           "datasets": [
             {
               "idx": 1,
@@ -9044,6 +9156,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "搜索入口：<https://search.datacite.org/>",
           "features": "**全球 DOI 注册的中央节点**；Zenodo/Figshare/Dryad/PANGAEA/CRIS/IEDA/HDF/GBIF 等都通过 DataCite 分配 DOI。",
+          "landmark": "**DataCite 5000 万+ DOI 注册总量**：全球科研数据永久标识符的中央注册机构，连接 Zenodo/Figshare/Dryad/PANGAEA 等数千家仓储；**每年新增 1000 万+ DOI**：覆盖学术论文、数据集、软件、预印本等",
           "datasets": [
             {
               "idx": 1,
@@ -9121,6 +9234,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "与项目耦合：与 schema.org Dataset 联动。",
           "features": "**Google 官方的\"数据集 Google\"**；4500 万+ 数据集，2018 上线。",
+          "landmark": "**Google Dataset Search 索引 4500 万+ 数据集**：基于 schema.org Dataset 元数据规范的全球最大数据集搜索引擎，跨库聚合各类开放数据；**Sentinel-2 / MODIS / Landsat / ERA5 等地球科学数据**为高频检索对象",
           "datasets": [
             {
               "idx": 1,
@@ -9198,6 +9312,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "**欧洲开放科学枢纽**；OpenAIRE 是 Horizon Europe / FP7+ 论文+数据统一聚合，1.4 亿+ 出版物 + 数据。",
+          "landmark": "**OpenAIRE Research Graph 1.7 亿+ 出版物 + 数据集**：欧洲开放科学云（EOSC）的核心索引，覆盖 Horizon Europe/FP7+ 资助成果；**EUDAT B2FIND 跨库元数据聚合**：汇集欧洲 30+ 研究数据基础设施",
           "datasets": [
             {
               "idx": 1,
@@ -9283,6 +9398,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "FAIR 实施工具；F-UJI 是自动评估工具。",
+          "landmark": "**F-UJI 自动 FAIR 评估工具**：基于 DOI 即可对数据集自动打分（F/Accessible/I/R 四大维度），是 FAIR 度量的事实标准；**GO FAIR 三大原则 + FAIR Digital Object Framework**：FAIR 实施的方法论基石",
           "datasets": [
             {
               "idx": 1,
@@ -9368,6 +9484,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "国家级数据基础设施。",
+          "landmark": "**EOSC Portal 1.5M+ 数据集聚合**：欧盟开放科学云门户，跨学科跨国界数据/服务/工具市场；**DataONE 1M+ 数据集 + 70+ Member Nodes**：美国 NSF 跨学科数据网络；**NII GakuNin RDM + CiNii**：日本国家级学术基础设施",
           "datasets": [
             {
               "idx": 1,
@@ -9457,6 +9574,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "**传统图书馆\"开放档案\"** 与**现代元数据**的结合。",
+          "landmark": "**OAIster 5000 万+ 开放档案数字资源**（来自 1800+ 仓库）：基于 OAI-PMH 协议的全球开放档案元数据聚合；**BASE 4 亿+ 文档 + 3.4 亿+ 数据**：比 Google Scholar 更精确的学术搜索引擎；**WorldCat 5000 万+ 实体资源**：OCLC 全球图书馆联合目录",
           "datasets": [
             {
               "idx": 1,
@@ -9549,6 +9667,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "DOI：部分通过 Zenodo 集成。",
           "features": "**AI 时代最大数据集社区**；与 transformers 深度集成，**支持格式包括 CSV、JSON、Parquet、ImageFolder**。",
+          "landmark": "**EuroSAT**（Sentinel-2 土地覆盖分类）：HuggingFace 镜像版；**SEN12MS**（Sentinel-1/2 多模态）：社区 `sbuoy/remote-sensing-multimodal` 等镜像；**遥感SOTA 在 HF 上的衍生数据集**：AI/ML 时代最常用训练样本源",
           "datasets": [
             {
               "idx": 1,
@@ -9626,6 +9745,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "**Google 旗下数据科学竞赛 + 托管平台**；4 万+ 公开数据集；免费 GPU 训练。",
+          "landmark": "**Kaggle - SpaceNet (1-7) 城市建筑提取**：xView/SpaceNet 系列竞赛标志性数据集；**Kaggle - EuroSAT 多光谱分类**：高分基准；**Kaggle - DeepGlobe 2018 / 农田 / 道路 / 建筑**：CVPR 2018 DeepGlobe 挑战赛官方数据",
           "datasets": [
             {
               "idx": 1,
@@ -9711,6 +9831,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "**计算机视觉数据集\"Hub\"**；10万+ 数据集；支持 YOLO/PyTorch/TensorFlow 直接导入；**标注 + 训练 + 部署 一体化**。",
+          "landmark": "**卫星建筑 / 道路 / 农田分割**：最常用训练集；**卫星火灾 / 烟雾 / 洪水检测**：应急任务首选；**卫星船舶 / 飞机 / 车辆检测**：xView 系列衍生样本源",
           "datasets": [
             {
               "idx": 1,
@@ -9788,6 +9909,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "特定数据集 + 工具链。",
+          "landmark": "**AI4MARS 火星车地形**（3.25 万+ 标签）：NASA JPL 火星影像语义分割权威基准；**OpenStreetMap 全要素 (与 VIDA 合作)**：全球最大众包地理数据库；**OpenSpaceNet 卫星检索**：MIT-Han-Lab 配套卫星图像检索基准",
           "datasets": [
             {
               "idx": 1,
@@ -9873,6 +9995,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "**论文 + 代码 + 数据集 三者联动**。",
+          "landmark": "**Benchmark (SOTA tracking)**：遥感方向 SOTA 表自动同步；**数据集 (Zenodo/HuggingFace) 链接**：与 HF/Zenodo 数据集卡片深度打通；**任务/数据集/方法 关联**：构建 paper–code–dataset 三元组，是 AI/ML 时代寻找\"代数据集 + 代码\"最权威入口",
           "datasets": [
             {
               "idx": 1,
@@ -9954,6 +10077,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "**GitHub 是越来越多论文数据集的\"原始仓库\"**；常配合 Zenodo / Figshare 给 DOI。",
+          "landmark": "**chrieke/awesome-satellite-imagery-datasets**：被引用最广的卫星影像数据集清单；**satellite-image-deep-learning/satellite-image-deep-learning**：配套数据集目录；**awesomeremote/awesome-remote-sensing**：Awesome 系列遥感总目",
           "datasets": [
             {
               "idx": 1,
@@ -10035,6 +10159,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "**ML for Earth Observation 公益联盟**；与 Microsoft AI for Earth / WRI 合作，**非洲为重点**。",
+          "landmark": "**Radiant Earth 非洲土地覆被 (Sentinel-2)**：非洲 ML4EO 基准；**Radiant Earth 多源融合 (Sentinel-1/2/Landsat)**：多传感器融合基准；**Radiant Earth 农业 (作物 / 长势 / 收获)**：非洲农业遥感代表性数据集",
           "datasets": [
             {
               "idx": 1,
@@ -10112,6 +10237,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "**大模型时代的\"基础模型\"**；核心权威入口是 NASA + IBM 联合的 Prithvi 系列（HuggingFace `ibm-nasa-geospatial` 组织），其它代表性 FM 包括 DeepMind AlphaEarth Foundations、Microsoft SatCLIP、Meta SatMAE++、Microsoft Aurora、Nvidia Earth-2、Google ClimaX 等。",
+          "landmark": "**NASA + IBM HLS Geospatial FM**（Harmonized Landsat Sentinel基础数据集）：Prithvi-100M/600M 预训练数据；**Google DeepMind AlphaEarth Foundations (2024)**：64×64 嵌入年度场；**NASA + IBM Prithvi-100M/600M (HLS 数据)**：HuggingFace `ibm-nasa-geospatial` 组织核心模型权重",
           "datasets": [
             {
               "idx": 1,
@@ -10205,6 +10331,7 @@ window.SITE_DATA = {
           "operator": "Google",
           "intro": "",
           "features": "**全球最主流的云原生地球观测平台**;内置 1000+ PB 数据目录(Landsat/Sentinel/MODIS/ERA5/DEM/夜间灯光/SAR 等),无需下载即可在云端调用 + 算力处理;**免费注册**(非商用),提供 JavaScript / Python API;支持 `ee.Image`、`ee.ImageCollection`、`ee.Reducer` 等高级数据立方体操作;**与 TensorFlow / Vertex AI 集成**,可直接训练遥感深度学习模型。",
+          "landmark": "**Landsat 全系列 (1972-至今, L1-L9)**：50 年最完整连续对地观测；**Sentinel-1 SAR / Sentinel-2 MSI / Sentinel-3 OLCI/SLSTR**：哥白尼计划三大主星；**ERA5 气候再分析 (小时级, 1940-至今)**：ECMWF 第五代全球再分析数据",
           "datasets": [
             {
               "idx": 1,
@@ -10294,6 +10421,7 @@ window.SITE_DATA = {
           "operator": "Samapriya Roy 等开源社区维护者",
           "intro": "",
           "features": "**GEE 平台上最大的\"非官方\"社区数据集目录**,由全球用户贡献 `ee.ImageCollection` 形式的资产(已托管为 GEE Asset);**避开数据下载 + 预处理**,在 GEE 中一行代码即可调用;包含 OpenStreetMap、Microsoft Building Footprints、Google Open Buildings、WorldPop、JRC Global Surface Water、ESA WorldCover 等 200+ 数据集;**与 EE Data Catalog 互补**(官方主目录 + 社区衍生目录)。",
+          "landmark": "**OpenStreetMap 全要素矢量化 (roads/buildings/landuse)**：社区衍生 OSM 矢量化集；**Microsoft Building Footprints (全球 9 亿+ 建筑)**：GEE Asset 形式直接调用；**ESA WorldCover 10m 全球土地覆被 (2020/2021)**：10m 分辨率全球土地覆被基准",
           "datasets": [
             {
               "idx": 1,
@@ -10386,6 +10514,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "数据入口：<https://www.openatcs.org/>、<https://data.casearth.cn/>（CASEarth）",
           "features": "**整合原中科院遥感与数字地球研究所 + 光电研究院 + 对地观测中心**，是中国对地观测核心单位。",
+          "landmark": "**Hi-GLASS 全球 30m/40 年多参量产品族**（2022 起）：地表覆盖/水体/积雪/冻融长时序；**中国不透气层 30m 时序**（1985-2020）：Impervious Surface 全球最大区域不透水面数据集之一",
           "datasets": [
             {
               "idx": 1,
@@ -10463,6 +10592,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "数据入口：<https://www.resdc.cn/>（已部分收录在第 39 节）+ <https://www.geodata.cn/>（已部分在第 22 节）",
           "features": "",
+          "landmark": "**中国 1:100 万土地利用/土壤/植被/地貌四大基础图集**：全国最早、最权威的百万比例尺自然资源本底；**中国县域社会经济综合数据库 (1985-至今)**：覆盖全国 2400+ 县的长时序社会经济统计",
           "datasets": [
             {
               "idx": 1,
@@ -10540,6 +10670,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "重点数据：TPDC 已收录大部分（见 21 节）",
           "features": "",
+          "landmark": "**第二次青藏科考成果 (2017-2024)**：九大科考专题、地球系统多圈层综合数据集；**青藏高原 MODIS LST/NDVI 15 年时序产品**：高原地表过程区域品牌数据集",
           "datasets": [
             {
               "idx": 1,
@@ -10617,6 +10748,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "重点数据：**湖泊 + 流域 + 城市化** 三位一体。",
           "features": "",
+          "landmark": "**中国 1km 湖泊分布/面积/水位/水质长时序**:近 30 年中国主要湖泊遥感监测权威数据集;**长江中下游湖泊遥感 (1990-至今)**：太湖/巢湖/洪泽湖长期生态环境监测旗舰数据",
           "datasets": [
             {
               "idx": 1,
@@ -10694,6 +10826,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "重点数据：东北黑土地 + 湿地 + 农业。",
           "features": "",
+          "landmark": "**东北黑土地 30m 土壤侵蚀/有机质/养分数据集**：RUSLE 框架下中国黑土地本底与变化最权威数据;**三江平原/松嫩平原农业遥感**：东北玉米/大豆/水稻面积与产量样区监测",
           "datasets": [
             {
               "idx": 1,
@@ -10771,6 +10904,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "重点数据：青藏 + 西北 + 高山。",
           "features": "",
+          "landmark": "**中国 1:100 万冰川编目 (第二次)**：祁连山/天山/昆仑山/阿尔泰山冰川矢量边界;**黑河/塔里木河流域水文-生态综合数据集** (Heihe Basin): 内陆河流域生态-水文耦合旗舰数据",
           "datasets": [
             {
               "idx": 1,
@@ -10848,6 +10982,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "重点数据：南亚热带 + 热带 植被。",
           "features": "",
+          "landmark": "**中国植物数字标本馆 (CVH)**：最大南亚热带/热带植物分布与分类权威库;**中国红树林 30m 分布图**: 华南海岸带红树林本底动态权威产品",
           "datasets": [
             {
               "idx": 1,
@@ -10925,6 +11060,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "数据入口：<https://www.iap.cas.cn/kyjyyj/>",
           "features": "",
+          "landmark": "**中国地面气候资料日值数据集 V3.0** (与气象局共享): 全国 2000+ 台站长时序气温降水基准;**CMIP6 中国区域降尺度数据集**: 区域气候模式权威产品",
           "datasets": [
             {
               "idx": 1,
@@ -11002,6 +11138,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "数据入口：<https://www.scholat.com/lmars>、<https://github.com/whu-luojun>",
           "features": "",
+          "landmark": "**DOTA 目标检测系列 (2017+)**：航拍图像大规模基准数据集,业界标杆;**WHU Building/WHU-SCD/WHU-MVS 摄影测量与变化检测数据集**:建筑物提取与变化检测国际权威基准",
           "datasets": [
             {
               "idx": 1,
@@ -11079,6 +11216,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "重点数据：地球系统 + 土地利用 + 碳循环。",
           "features": "",
+          "landmark": "**Tsinghua CLCD 中国 30m 长时序土地覆被** (1990-2023): 中国土地利用动态权威年度产品;**FROM-GLC 全球 10m/30m 土地覆被**: 全球精细土地覆被旗舰产品",
           "datasets": [
             {
               "idx": 1,
@@ -11156,6 +11294,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "重点数据：地表通量 + 黑河 + 祁连山 + 灾害。",
           "features": "",
+          "landmark": "**祁连山 76 个数据集 (HiWATER)**:黑河流域生态-水文耦合综合观测试验旗舰数据;**中国 1km 蒸散发 ETWatch 1982-至今**:全国陆表实际蒸散权威时序产品",
           "datasets": [
             {
               "idx": 1,
@@ -11233,6 +11372,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "重点数据：导航定位 + 极地 + 城市。",
           "features": "",
+          "landmark": "**GNSS 全球大气水汽 PWV 监测网产品**:高精度对流层水汽长时序;**中国区域 InSAR 30m 沉降产品**: 区域地面沉降与城市安全监测旗舰",
           "datasets": [
             {
               "idx": 1,
@@ -11310,6 +11450,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "重点数据：热带亚热带 + 海岸带 + 城市化。",
           "features": "",
+          "landmark": "**珠江三角洲城市群 30m 扩张时序产品**:南方海岸带城市化权威动态产品;**南海岛礁 SAR 监测数据集**: 岛礁环境与人类活动识别重要数据",
           "datasets": [
             {
               "idx": 1,
@@ -11387,6 +11528,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "重点数据：地质遥感 + 灾害 + 资源。",
           "features": "",
+          "landmark": "**三峡库区 30m 滑坡编目 (2000-至今)**:大型工程区滑坡长期监测权威数据;**中国 1:50 万地质图集成数据**:全国基础地质权威产品",
           "datasets": [
             {
               "idx": 1,
@@ -11464,6 +11606,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "重点数据：河口海岸 + 长江 + 城市 + 全球变化。",
           "features": "",
+          "landmark": "**长江河口 30m 演变数据集 (1990-至今)**:长江口三角洲地貌与岸线权威产品;**崇明岛/长三角盐沼湿地数据集**:华东沿海典型湿地长时序生态监测",
           "datasets": [
             {
               "idx": 1,
@@ -11541,6 +11684,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "重点数据：气候 + 气象 + GIS。",
           "features": "",
+          "landmark": "**中国 PM2.5/O3 1km 长时序数据集** (南信大): 大气成分高分辨率反演权威产品;**东亚夏季风指数 (EAMI) 长时序** (南大):东亚气候动力学重要参考序列",
           "datasets": [
             {
               "idx": 1,
@@ -11622,6 +11766,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "重点数据：丝绸之路 + 西部 + 测绘。",
           "features": "",
+          "landmark": "**黄土高原 30m 土壤侵蚀数据集**:黄土地貌区水土保持研究权威本底;**丝绸之路沿线生态环境数据集**:丝路文化与生态研究重要数据",
           "datasets": [
             {
               "idx": 1,
@@ -11707,6 +11852,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "重点数据：矿山 + 农业 + 海洋。",
           "features": "",
+          "landmark": "**中国农田 30m CLCD 长时序** (农大):全国精细耕地格局权威年度产品;**中国近海 1km SST/海色长时序** (海大):近海海洋环境基础数据集",
           "datasets": [
             {
               "idx": 1,
@@ -11792,6 +11938,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "重点数据：极地 + 微波 + SAR + 军事。",
           "features": "",
+          "landmark": "**国产高分 SAR 影像样本库** (哈工大):国产 SAR 卫星舰船/飞机检测权威样本;**国产 SAR 仿真数据集** (国防科大): 国产雷达卫星仿真与算法训练基准",
           "datasets": [
             {
               "idx": 1,
@@ -11877,6 +12024,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "重点数据：城市 + 生态 + 地质。",
           "features": "",
+          "landmark": "**中国城市群 1km 长时序数据集 (京津冀/长三角/珠三角)** (北大):城市群动态权威监测;**中国森林生物量/碳储量数据集** (北林):全国森林碳汇本底估计权威产品",
           "datasets": [
             {
               "idx": 1,
@@ -11969,6 +12117,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "水利 + 水文 + 防洪 + 生态。",
+          "landmark": "**全国水利一张图**（2015+）：整合全国江河湖泊/水库/堤防/水电站实时监测；**国家水资源公报系列**（1998+）：年度水资源评价数据；**中国洪涝灾害风险 1km**（CSLE 模型衍生）：全国洪涝风险评估",
           "datasets": [
             {
               "idx": 1,
@@ -12054,6 +12203,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "海洋环境监测 / 海洋预报 / 海岛海岸带。",
+          "landmark": "**中国近海海洋站时序**（1950+，温盐/浪/流/潮）：长期海洋环境观测基础数据；**中国近海 Argo 浮标网**（200+ 站）：全球海洋观测网中国部分；**中国海岛海岸带 30m 时序**（11000+ 海岛 / 1980+）：海岛变迁与海岸带动态监测",
           "datasets": [
             {
               "idx": 1,
@@ -12151,6 +12301,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "**空气质量 / 地表水 / 污染源 / 排污许可 / 生态保护红线**。",
+          "landmark": "**全国 1500+ 城市空气质量实时监测**（2013+）：国家空气质量监测平台实时数据；**全国 3600+ 地表水监测断面**（实时）：国家地表水自动监测综合管理平台数据；**中国生态保护红线**（1:100万）：全国生态保护红线划定成果",
           "datasets": [
             {
               "idx": 1,
@@ -12244,6 +12395,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "**农业 + 土壤 + 农村 + 渔业**。",
+          "landmark": "**第三次全国土壤普查数据集**（2022-2025，全国全覆盖）：国务院部署的全国土壤普查最新成果；**中国 30m 农田分布**（与 CLCD 互补）：全国农田精细分类产品；**中国县域农业统计**（1949-至今）：年度农业统计历史时序",
           "datasets": [
             {
               "idx": 1,
@@ -12333,6 +12485,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "**气象监测 + 预报 + 服务**。",
+          "landmark": "**中国地面气象站时序**（2400+ 站，1950-至今）：长序列地面观测基础数据；**CMA-GFS 全球同化预报**（10km）：中国全球数值预报模式；**中国天气雷达组网 L 波段雷达**（200+ 部）：全国雷达拼图与短临预报产品",
           "datasets": [
             {
               "idx": 1,
@@ -12422,6 +12575,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "**地震 / InSAR / GPS / 地磁**。",
+          "landmark": "**CSNCD 中国测震台网完备目录**（1980-至今，1000+ 站）：中国地震台网中心权威地震目录；**CMONOC 中国大陆构造环境监测网络**（260+ GPS 站）：陆态网络 GNSS 连续观测；**国家强震动台网**（1800+ 站）：地震动强度记录基础数据",
           "datasets": [
             {
               "idx": 1,
@@ -12515,6 +12669,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "**地质 + 矿产 + 物探 + 化探 + 水文 + 环境 + 灾害**。",
+          "landmark": "**全国地质资料馆 1:20万 / 1:5万 区域地质图**：覆盖全国的基础地质图件；**全国 1:20万 区域地球化学**（76 元素）：多目标区域地球化学调查成果；**全国地质钻孔数据库**（50万+ 钻孔）：全国重要地质钻孔资料",
           "datasets": [
             {
               "idx": 1,
@@ -12612,6 +12767,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "**森林 / 草原 / 湿地 / 荒漠 / 国家公园**。",
+          "landmark": "**中国森林资源连续清查**（8 次，1978-至今）：一类清查权威林草资源数据；**中国国家公园体系**（5 首批 + 49 候选）：国家公园本底资源调查数据；**中国荒漠化 30m**（三北/西南/沿海）：荒漠化土地监测产品",
           "datasets": [
             {
               "idx": 1,
@@ -12697,6 +12853,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "**能源 + 行业 + 关键基础设施**。",
+          "landmark": "**中国煤炭资源 / 矿区 1:5万**：全国煤炭资源分布与勘查数据；**中国油气盆地 / 油气藏 / 管道**：油气资源与管网基础数据；**中国电网（特高压 / 跨省）**：国家电网骨干网架基础数据；**中国碳排放 1km（CEADs）**：中国碳核算数据库权威排放数据",
           "datasets": [
             {
               "idx": 1,
@@ -12782,6 +12939,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "城市群是中国遥感应用最大试验场；**数据多源自国家平台 + 高校 + 各部委专项**。",
+          "landmark": "**京津冀 30m 不透水面**（北师大 + 北大）：京津冀城市群典型数据集；**中国 19 个城市群 30m 边界**（发展研究中心）：全国城市群范围划定；**中国 31 省市 / 333 地级市 1km 经济社会**（RESDC）：城市群经济社会基础统计",
           "datasets": [
             {
               "idx": 1,
@@ -12866,6 +13024,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "学术计划 (Education & Research)：<https://www.planet.com/markets/education-and-research/>",
           "features": "**PlanetScope 3-5m 全球每日覆盖**；**SkySat 0.5m 视频 + 立体**；**学术计划可申请 5000-20000 km²/月**。",
+          "landmark": "**PlanetScope 全球 3-5m 影像**（2015+, Dove200+ 颗）：每日全球覆盖的高频次对地观测数据集；**SkySat 0.5m 视频卫星**（2014+）：亚米级视频重访能力；**Planet 国际灾害即时数据**（OSO / 洪涝 / 火灾）：灾后数小时内全球开放样本",
           "datasets": [
             {
               "idx": 1,
@@ -12943,6 +13102,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "学术计划 (Open Data Program)：<https://www.maxar.com/open-data>",
           "features": "**WorldView Legion / WorldView-3 / WorldView-2 / GeoEye-1** 提供 0.3-0.5m 全球最高分辨率商业影像；**国际灾害 (Maxar Open Data) 灾后立刻开放样本**。",
+          "landmark": "**WorldView Legion 30cm 影像**（2024+, 6 颗）：当前商业最高分辨率光学影像；**Maxar Open Data 灾害影像库**（2017-至今, 250+ 事件）：灾后即时公开样本，是全球最权威的灾害影像基准",
           "datasets": [
             {
               "idx": 1,
@@ -13020,6 +13180,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "数据入口：<https://www.iceye.com/data/datasets>",
           "features": "**X-频段 SAR 星座** (20+ 颗)；0.25-1m 商业 SAR。",
+          "landmark": "**ICEYE X-频段 SAR 全球星座**（20+ 颗, 0.25-1m）：全球最大商业 SAR 星座影像；**ICEYE SAR 灾害公开样本**（洪涝 / 地震 / 火山）：高频次全天时全天候应急观测；**ICEYE InSAR 形变数据集**：毫米级地表形变监测",
           "datasets": [
             {
               "idx": 1,
@@ -13097,6 +13258,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "学术计划：<https://www.capellaspace.com/community/>",
           "features": "**X-频段 SAR** 商业 (12+ 颗)；0.5m Spot / 1.2m Strip / 1.4m ScanSAR。",
+          "landmark": "**Capella X-频段 SAR 公开样本**（60+ 场景, 0.5m Spot）：高分辨率商业 SAR 影像代表数据集；**Capella SAR 灾害公开影像**（地震 / 火山）：应急响应高频 SAR；**Capella SAR InSAR 数据集**：面向基础设施形变监测",
           "datasets": [
             {
               "idx": 1,
@@ -13174,6 +13336,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "**光学 + 视频 + SAR** 多源；0.5-1m 商业；**1h 重访**。",
+          "landmark": "**BlackSky Spectra 多源影像**（光学 + 视频 + SAR）：1 小时重访能力下的高频次多模态数据集；**BlackSky 灾害即时影像**（Hurricane / 火灾 / 洪涝）：1小时内交付的近实时商业样本",
           "datasets": [
             {
               "idx": 1,
@@ -13251,6 +13414,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "学术计划：<https://satellogic.com/news-events/news/>",
           "features": "阿根廷 + 西班牙 商业 + 高光谱 (1m, 26 波段)。",
+          "landmark": "**Satellogic Newsat 高光谱影像**（1m, 26 波段）：商业米级高光谱影像代表；**Satellogic 视频卫星影像**（1m, 60s）：亚米级视频对地观测；**Satellogic农业 / 林业 / 海洋 应用影像库**",
           "datasets": [
             {
               "idx": 1,
@@ -13328,6 +13492,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "数据入口：<https://www.jl1mall.com/>",
           "features": "**全球最大亚米级商业光学星座** (108+ 颗)；0.5-0.75m 全色 / 2-3m 多光谱 / 视频 / 高光谱。",
+          "landmark": "**吉林一号 0.75m/0.5m 亚米级影像**（中国全境 + 主要城市, 108+ 颗）：全球最大亚米级商业光学星座数据；**吉林一号 0.92m 视频卫星**（30-120s）：国产对地观测视频数据代表；**吉林一号5m /25 波段高光谱影像**：国产商业高光谱星座主力",
           "datasets": [
             {
               "idx": 1,
@@ -13405,6 +13570,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "**珠海一号 12+ 颗高光谱 (10m, 32 波段)**；**国内高光谱星座主力**。",
+          "landmark": "**珠海一号 OHS 高光谱影像**（10m, 32 波段）：国内最大商业高光谱星座；**珠海一号 OHS-G 高光谱**（5m）：国产亚10 米级高光谱影像代表；**珠海一号 OV 视频卫星影像**（0.9m, 30s）：国产商业视频对地观测",
           "datasets": [
             {
               "idx": 1,
@@ -13482,6 +13648,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "**国内最早商业遥感**；高分系列代理 + 自主小卫星。",
+          "landmark": "**世纪一号 / 自主星 1m 全色 + 4m 多光谱影像**：国内最早商业光学遥感影像；**21 世纪空间技术 + 国内外商业数据融合集**：高分系列代理与自主卫星融合数据产品；**OS-V 高分系列商业代理数据集**",
           "datasets": [
             {
               "idx": 1,
@@ -13559,6 +13726,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "**新兴民营商业卫星**；SAR / 高光谱 / 互联网星座均有。",
+          "landmark": "**微纳星空 0.5-1m 光学影像**（星空 1/2/3/4）：民营商业光学对地观测代表；**国星宇航 AI 星 AI 卫星影像**（ADASAT）：全球首个商业 AI 卫星在轨处理数据；**银河航天 SAR 星座影像**（2024-）：互联网 + SAR 一体化新势力数据",
           "datasets": [
             {
               "idx": 1,
@@ -13648,6 +13816,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "**国内新兴商业 SAR**；与商业光学互补。",
+          "landmark": "**海丝一号 C-频段 SAR 影像**（1-3m, 2020-至今）：国内首颗 C 波段商业 SAR 数据集；**巢湖一号 L-频段 SAR 影像**（1-3m, 2022-至今）：国产 L 波段商业 SAR 代表；**宏图一号 X-频段 SAR 影像**（0.5-3m）：国产亚米级 X 波段商业 SAR",
           "datasets": [
             {
               "idx": 1,
@@ -13733,6 +13902,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "**矢量地图 + 历史影像 + 商业化**。",
+          "landmark": "**OSM 全要素全球矢量数据**（8B+ node, 700M+ way）：全球最大开源地理信息数据集；**Mapbox 全球矢量瓦片**（800M+ 道路）：商业化全球矢量地图代表；**Google Earth 全球历史影像**（0.5-1m, 1984-至今）：覆盖近 40 年的全球历史光学影像库",
           "datasets": [
             {
               "idx": 1,
@@ -13822,6 +13992,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "学术计划 (OneAtlas)：<https://oneatlas.airbus.com/>",
           "features": "**Pleiades 0.5m 商业**；**SPOT 1.5m**；**Vision-1 0.9m**；**TerraSAR-X 商业 / DLR 联合**。",
+          "landmark": "**Pleiades / Pleiades Neo 0.5m/0.3m 影像**（全球, 学术可申请）：欧洲最高分辨率商业光学影像代表；**SPOT 1.5m 历史影像**（1986-至今, 30+ 年）：欧洲最长时序商业光学对地观测数据；**Airbus OneAtlas 商业 API 影像库**：覆盖全球 0.3-1.5m 多分辨率商业影像",
           "datasets": [
             {
               "idx": 1,
@@ -13899,6 +14070,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "**X-频段 SAR 新势力**；0.25-1m。",
+          "landmark": "**Umbra 0.25m SAR 影像**：当前商业最高分辨率 SAR 影像；**Umbra Open Data 灾害 / 城市公开样本**：免费开放的高分 SAR 应急影像库；**Synspective StriX 0.5m SAR 样本**（日本）与 **iQPS QPS-SAR 0.7m 样本**：日方新势力商业 SAR 代表数据",
           "datasets": [
             {
               "idx": 1,
@@ -13984,6 +14156,7 @@ window.SITE_DATA = {
           "operator": "",
           "intro": "",
           "features": "**新兴高光谱 + 温室气体**。",
+          "landmark": "**GHGSat 甲烷柱浓度影像**（30m, 全球）：全球商业温室气体监测标杆数据集；**GHGSat 二氧化碳 / 氧化亚氮样本**（与 NASA Carbon Mapper 合作）：全球碳排放源识别数据集；**Pixxel 高光谱影像**（5m, 200+ 波段）：商业高光谱新势力代表数据",
           "datasets": [
             {
               "idx": 1,
