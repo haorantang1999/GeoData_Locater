@@ -1,0 +1,3593 @@
+{
+  "total": 772,
+  "ok": [
+    {
+      "url": "http://gpcv.whu.edu.cn/data/building_dataset.html",
+      "status": 200,
+      "final": "http://gpcv.whu.edu.cn/data/building_dataset.html"
+    },
+    {
+      "url": "http://mds.nmdis.org.cn/",
+      "status": 200,
+      "final": "https://mds.nmdis.org.cn/"
+    },
+    {
+      "url": "http://www.bom.gov.au/",
+      "status": 200,
+      "final": "https://www.bom.gov.au/"
+    },
+    {
+      "url": "http://www.charmingglobe.com/",
+      "status": 200,
+      "final": "http://www.jl1.cn"
+    },
+    {
+      "url": "http://www.chinageoss.cn/",
+      "status": 200,
+      "final": "http://www.chinageoss.cn/"
+    },
+    {
+      "url": "http://www.cigem.cgs.gov.cn/",
+      "status": 200,
+      "final": "http://www.cigem.cgs.gov.cn/"
+    },
+    {
+      "url": "http://www.chinageoss.org/dsp/home/index.jsp",
+      "status": 200,
+      "final": "http://www.chinageoss.org/dsp/home/index.jsp"
+    },
+    {
+      "url": "http://www.cma.gov.cn/",
+      "status": 200,
+      "final": "https://www.cma.gov.cn/"
+    },
+    {
+      "url": "http://www.cnemc.cn/",
+      "status": 200,
+      "final": "https://www.cnemc.cn/"
+    },
+    {
+      "url": "http://queimadas.dgi.inpe.br/",
+      "status": 200,
+      "final": "https://terrabrasilis.dpi.inpe.br/queimadas/portal/"
+    },
+    {
+      "url": "http://www.fio.org.cn/",
+      "status": 200,
+      "final": "https://www.fio.org.cn/"
+    },
+    {
+      "url": "http://www.forestry.gov.cn/",
+      "status": 200,
+      "final": "https://www.forestry.gov.cn/"
+    },
+    {
+      "url": "http://www.geodata.cn/",
+      "status": 200,
+      "final": "http://www.geodata.cn/"
+    },
+    {
+      "url": "http://www.iap.cas.cn/",
+      "status": 200,
+      "final": "http://www.iap.cas.cn/"
+    },
+    {
+      "url": "http://www.dsr.inpe.br/",
+      "status": 200,
+      "final": "http://www.dsr.inpe.br/"
+    },
+    {
+      "url": "http://www.gscloud.cn/",
+      "status": 200,
+      "final": "https://www.gscloud.cn/"
+    },
+    {
+      "url": "http://www.iga.ac.cn/",
+      "status": 200,
+      "final": "https://www.iga.ac.cn/"
+    },
+    {
+      "url": "http://www.lamost.org/dr9/",
+      "status": 200,
+      "final": "http://www.lamost.org/dr9/"
+    },
+    {
+      "url": "http://www.mnr.gov.cn/",
+      "status": 200,
+      "final": "https://www.mnr.gov.cn/"
+    },
+    {
+      "url": "http://www.mwr.gov.cn/",
+      "status": 200,
+      "final": "http://www.mwr.gov.cn/"
+    },
+    {
+      "url": "http://www.mwr.gov.cn/sljsxm/202106/t20210615_1528063.html",
+      "status": 200,
+      "final": "http://www.mwr.gov.cn/error.html"
+    },
+    {
+      "url": "http://www.moa.gov.cn/",
+      "status": 200,
+      "final": "https://www.moa.gov.cn/"
+    },
+    {
+      "url": "http://www.libradtran.org/",
+      "status": 200,
+      "final": "http://www.libradtran.org/doku.php?id=start"
+    },
+    {
+      "url": "http://www.nea.gov.cn/",
+      "status": 200,
+      "final": "http://www.nea.gov.cn/"
+    },
+    {
+      "url": "http://www.myorbita.net/",
+      "status": 200,
+      "final": "https://www.myorbita.net/"
+    },
+    {
+      "url": "http://www.ngac.cn/",
+      "status": 200,
+      "final": "https://www.ngac.cn/125cms/c/qggnew/index.htm"
+    },
+    {
+      "url": "http://www.nieer.cas.cn/",
+      "status": 200,
+      "final": "http://www.nieer.cas.cn/"
+    },
+    {
+      "url": "http://www.ncdc.ac.cn/portal/",
+      "status": 200,
+      "final": "https://www.ncdc.ac.cn/portal/"
+    },
+    {
+      "url": "http://www.niglas.cas.cn/",
+      "status": 200,
+      "final": "http://www.niglas.cas.cn/"
+    },
+    {
+      "url": "http://www.nmemc.org.cn/",
+      "status": 200,
+      "final": "http://www.nmemc.org.cn/"
+    },
+    {
+      "url": "http://www.ncdc.ac.cn/",
+      "status": 200,
+      "final": "https://www.ncdc.ac.cn/portal/"
+    },
+    {
+      "url": "http://www.nmdis.org.cn/",
+      "status": 200,
+      "final": "https://www.nmdis.org.cn/"
+    },
+    {
+      "url": "http://www.nsii.org.cn/",
+      "status": 200,
+      "final": "https://www.nsii.org.cn/"
+    },
+    {
+      "url": "http://www.nsdata.cn/",
+      "status": 200,
+      "final": "https://www.nbsdc.cn/"
+    },
+    {
+      "url": "http://www.shao.cas.cn/",
+      "status": 200,
+      "final": "http://www.shao.cas.cn/"
+    },
+    {
+      "url": "http://www.sio.org.cn/",
+      "status": 200,
+      "final": "http://www.sio.org.cn/"
+    },
+    {
+      "url": "http://www.ntsc.ac.cn/",
+      "status": 200,
+      "final": "https://www.ntsc.ac.cn/"
+    },
+    {
+      "url": "http://xxfb.mwr.cn/",
+      "status": 200,
+      "final": "http://xxfb.mwr.cn/"
+    },
+    {
+      "url": "http://www.szbg.org/",
+      "status": 200,
+      "final": "http://www.szbg.org/"
+    },
+    {
+      "url": "https://air.cnemc.cn:18007/",
+      "status": 200,
+      "final": "https://air.cnemc.cn:18007/"
+    },
+    {
+      "url": "https://52north.org/",
+      "status": 200,
+      "final": "https://52north.org/"
+    },
+    {
+      "url": "https://agra.org/",
+      "status": 200,
+      "final": "https://agra.org/"
+    },
+    {
+      "url": "http://www.sepc.ac.cn/",
+      "status": 200,
+      "final": "http://www.sepc.ac.cn/"
+    },
+    {
+      "url": "https://apscheduler.readthedocs.io/",
+      "status": 200,
+      "final": "https://apscheduler.readthedocs.io/en/3.x/"
+    },
+    {
+      "url": "https://arrow.apache.org/",
+      "status": 200,
+      "final": "https://arrow.apache.org/"
+    },
+    {
+      "url": "https://arxiv.org/",
+      "status": 200,
+      "final": "https://arxiv.org/"
+    },
+    {
+      "url": "https://ait.ac.th/",
+      "status": 200,
+      "final": "https://ait.ac.th/"
+    },
+    {
+      "url": "https://aws.amazon.com/cli/",
+      "status": 200,
+      "final": "https://aws.amazon.com/cli/"
+    },
+    {
+      "url": "https://aviris.jpl.nasa.gov/",
+      "status": 200,
+      "final": "https://aviris.jpl.nasa.gov/"
+    },
+    {
+      "url": "https://apps.sentinel-hub.com/eo-browser/",
+      "status": 200,
+      "final": "https://apps.sentinel-hub.com/eo-browser/"
+    },
+    {
+      "url": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/data-sharing-citation.html",
+      "status": 200,
+      "final": "https://authors.wiley.com/author-resources/Journal-Authors/open-access/data-sharing-citation.html"
+    },
+    {
+      "url": "https://atmosphere.copernicus.eu/",
+      "status": 200,
+      "final": "https://atmosphere.copernicus.eu/"
+    },
+    {
+      "url": "https://captain-whu.github.io/DOTA/dataset.html",
+      "status": 200,
+      "final": "https://captain-whu.github.io/DOTA/dataset.html"
+    },
+    {
+      "url": "https://captain-whu.github.io/DOTA/",
+      "status": 200,
+      "final": "https://captain-whu.github.io/DOTA/"
+    },
+    {
+      "url": "https://bien.nceas.ucsb.edu/bien/",
+      "status": 200,
+      "final": "https://bien.nceas.ucsb.edu/bien/"
+    },
+    {
+      "url": "https://browser.dataspace.copernicus.eu/",
+      "status": 200,
+      "final": "https://browser.dataspace.copernicus.eu/"
+    },
+    {
+      "url": "https://celiang.tongji.edu.cn/",
+      "status": 200,
+      "final": "https://celiang.tongji.edu.cn/"
+    },
+    {
+      "url": "https://app.dimensions.ai/",
+      "status": 202,
+      "final": "https://app.dimensions.ai/auth/landing?redirect=%2Fdiscover"
+    },
+    {
+      "url": "https://ceos.org/",
+      "status": 200,
+      "final": "https://ceos.org/"
+    },
+    {
+      "url": "https://click.palletsprojects.com/",
+      "status": 200,
+      "final": "https://click.palletsprojects.com/en/stable/"
+    },
+    {
+      "url": "https://cds.climate.copernicus.eu/",
+      "status": 200,
+      "final": "https://cds.climate.copernicus.eu/"
+    },
+    {
+      "url": "https://catalogue.ceda.ac.uk/",
+      "status": 200,
+      "final": "https://catalogue.ceda.ac.uk/"
+    },
+    {
+      "url": "https://bhuvan.nrsc.gov.in/",
+      "status": 200,
+      "final": "https://bhuvan.nrsc.gov.in/ngmaps"
+    },
+    {
+      "url": "https://clinicaltrials.gov/",
+      "status": 200,
+      "final": "https://clinicaltrials.gov/"
+    },
+    {
+      "url": "https://climate.esa.int/",
+      "status": 200,
+      "final": "https://climate.esa.int/en/"
+    },
+    {
+      "url": "https://cloud.google.com/public-datasets",
+      "status": 200,
+      "final": "https://cloud.google.com/datasets"
+    },
+    {
+      "url": "https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset",
+      "status": 200,
+      "final": "https://www.earthdata.nasa.gov/data/projects/arset"
+    },
+    {
+      "url": "https://cloud.google.com/storage/docs/gsutil",
+      "status": 200,
+      "final": "https://docs.cloud.google.com/storage/docs/gsutil"
+    },
+    {
+      "url": "https://cnes.fr/en",
+      "status": 200,
+      "final": "https://cnes.fr/en"
+    },
+    {
+      "url": "https://corteva.github.io/rioxarray/",
+      "status": 200,
+      "final": "https://corteva.github.io/rioxarray/"
+    },
+    {
+      "url": "https://code.earthengine.google.com/",
+      "status": 200,
+      "final": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fuc.appengine.google.com%2F_ah%2Fconflogin%3Fstate%3D~AJKiYcGYbqaB4dgYArljhA1KbPQ2lKB-U-iRk0vegths2Fm7uJyV2HHrxvsvsplOCcKpM6uQ1qXkf_ZYRfDDIeY75HlUDrbeGpcOKsDPnTwD2zBMPlI6O3SrpR_6OPCtH4gkepK-SovV1Ia67hPQuNqBh4qKhcrL6NS_LBKo53IiFfSBCJZ-09YY8XS5IcatkyfprZjqaM9s&dsh=S-450368297%3A1786415229167886&passive=true&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=Ac50bxuOOI-Dm8Lvsy8OHBRANZhKzHm_c-qj-GFfWABySNv_eIiGf-XeieoWqZR4C-iiVAFd6vNA_Q"
+    },
+    {
+      "url": "https://cp.copernicus.org/",
+      "status": 200,
+      "final": "https://cp.copernicus.org/"
+    },
+    {
+      "url": "https://data.casearth.cn/",
+      "status": 200,
+      "final": "https://data.casearth.cn/"
+    },
+    {
+      "url": "https://community.wmo.int/activity-areas/gaw",
+      "status": 200,
+      "final": "https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/global-atmosphere-watch-gaw-programme"
+    },
+    {
+      "url": "https://data.cma.cn/",
+      "status": 200,
+      "final": "https://data.cma.cn/"
+    },
+    {
+      "url": "https://dask-geopandas.readthedocs.io/",
+      "status": 200,
+      "final": "https://dask-geopandas.readthedocs.io/en/stable/"
+    },
+    {
+      "url": "https://creodias.eu/",
+      "status": 200,
+      "final": "https://creodias.eu/"
+    },
+    {
+      "url": "https://data.earthquake.cn/",
+      "status": 200,
+      "final": "https://data.earthquake.cn/"
+    },
+    {
+      "url": "https://data.earthquake.cn/datashare/report.shtml?PAGEID=earthquake_zhongxin",
+      "status": 200,
+      "final": "https://data.earthquake.cn/datashare/report.shtml?PAGEID=earthquake_zhongxin"
+    },
+    {
+      "url": "https://data.cresda.cn/",
+      "status": 200,
+      "final": "https://data.cresda.cn/"
+    },
+    {
+      "url": "https://data.nasa.gov/",
+      "status": 200,
+      "final": "https://data.nasa.gov/"
+    },
+    {
+      "url": "https://data.eumetsat.int/",
+      "status": 200,
+      "final": "https://data.eumetsat.int/"
+    },
+    {
+      "url": "https://data.nsmc.org.cn/",
+      "status": 200,
+      "final": "https://data.nsmc.org.cn/"
+    },
+    {
+      "url": "https://data.tpdc.ac.cn/",
+      "status": 200,
+      "final": "https://data.tpdc.ac.cn/"
+    },
+    {
+      "url": "https://data.tpdc.ac.cn/zh-hans/",
+      "status": 200,
+      "final": "https://data.tpdc.ac.cn/zh-hans/"
+    },
+    {
+      "url": "https://data.tpdc.ac.cn/zh-hans/data/02ee6fee-a320-4af0-b199-4790c37101f2/",
+      "status": 200,
+      "final": "https://data.tpdc.ac.cn/zh-hans/data/02ee6fee-a320-4af0-b199-4790c37101f2/"
+    },
+    {
+      "url": "https://data.tpdc.ac.cn/zh-hans/data/35ffff9f-8e1b-4296-801f-d8231e4f8dc3/",
+      "status": 200,
+      "final": "https://data.tpdc.ac.cn/zh-hans/data/35ffff9f-8e1b-4296-801f-d8231e4f8dc3/"
+    },
+    {
+      "url": "https://data.tpdc.ac.cn/zh-hans/data/4264fa57-3b66-4977-876c-6e49d777fc81/",
+      "status": 200,
+      "final": "https://data.tpdc.ac.cn/zh-hans/data/4264fa57-3b66-4977-876c-6e49d777fc81/"
+    },
+    {
+      "url": "https://data.tpdc.ac.cn/zh-hans/data/445aa263-723e-46de-92ca-a4bc8e553d4d/",
+      "status": 200,
+      "final": "https://data.tpdc.ac.cn/zh-hans/data/445aa263-723e-46de-92ca-a4bc8e553d4d/"
+    },
+    {
+      "url": "https://data.tpdc.ac.cn/zh-hans/data/490df302-cd60-4ebb-a56a-1263a3c1a9df/",
+      "status": 200,
+      "final": "https://data.tpdc.ac.cn/zh-hans/data/490df302-cd60-4ebb-a56a-1263a3c1a9df/"
+    },
+    {
+      "url": "https://data.tpdc.ac.cn/zh-hans/data/8d61e737-0c31-4d70-b545-94d2987eaa17/",
+      "status": 200,
+      "final": "https://data.tpdc.ac.cn/zh-hans/data/8d61e737-0c31-4d70-b545-94d2987eaa17/"
+    },
+    {
+      "url": "https://data.tpdc.ac.cn/zh-hans/data/8e9dcc9f-bc1f-4f44-bc8b-9a2a6e3a7f1c",
+      "status": 200,
+      "final": "https://data.tpdc.ac.cn/zh-hans/data/8e9dcc9f-bc1f-4f44-bc8b-9a2a6e3a7f1c"
+    },
+    {
+      "url": "https://data.tpdc.ac.cn/zh-hans/data/c26201fc-526c-465d-bae7-5f02fa49d738/",
+      "status": 200,
+      "final": "https://data.tpdc.ac.cn/zh-hans/data/c26201fc-526c-465d-bae7-5f02fa49d738/"
+    },
+    {
+      "url": "https://data.tpdc.ac.cn/zh-hans/data/f3bae344-9d4b-4df6-82a0-81499c0f90f7",
+      "status": 200,
+      "final": "https://data.tpdc.ac.cn/zh-hans/data/f3bae344-9d4b-4df6-82a0-81499c0f90f7"
+    },
+    {
+      "url": "https://data.worldbank.org/",
+      "status": 200,
+      "final": "https://data.worldbank.org/"
+    },
+    {
+      "url": "https://dataspace.copernicus.eu/",
+      "status": 200,
+      "final": "https://dataspace.copernicus.eu/"
+    },
+    {
+      "url": "https://dataverse.harvard.edu/",
+      "status": 202,
+      "final": "https://dataverse.harvard.edu/"
+    },
+    {
+      "url": "https://developers.arcgis.com/",
+      "status": 200,
+      "final": "https://developers.arcgis.com/"
+    },
+    {
+      "url": "https://datasetsearch.research.google.com/",
+      "status": 200,
+      "final": "https://datasetsearch.research.google.com/"
+    },
+    {
+      "url": "https://datadryad.org/",
+      "status": 200,
+      "final": "https://datadryad.org/"
+    },
+    {
+      "url": "https://developers.google.com/earth-engine/tutorials/community/intro-to-python-api",
+      "status": 200,
+      "final": "https://developers.google.com/earth-engine/tutorials/community/intro-to-python-api"
+    },
+    {
+      "url": "https://developer.tomtom.com/",
+      "status": 200,
+      "final": "https://docs.tomtom.com/"
+    },
+    {
+      "url": "https://developer.here.com/",
+      "status": 200,
+      "final": "https://www.here.com/developer"
+    },
+    {
+      "url": "https://developers.zenodo.org/",
+      "status": 200,
+      "final": "https://developers.zenodo.org/"
+    },
+    {
+      "url": "https://datacite.org/",
+      "status": 200,
+      "final": "https://datacite.org/"
+    },
+    {
+      "url": "https://docs.aiohttp.org/",
+      "status": 200,
+      "final": "https://docs.aiohttp.org/en/stable/"
+    },
+    {
+      "url": "https://developers.google.com/maps",
+      "status": 200,
+      "final": "https://developers.google.com/maps"
+    },
+    {
+      "url": "https://disc.gsfc.nasa.gov/datasets?keywords=GLDAS",
+      "status": 200,
+      "final": "https://disc.gsfc.nasa.gov/datasets?keywords=GLDAS"
+    },
+    {
+      "url": "https://disc.gsfc.nasa.gov/datasets?keywords=MERRA-2",
+      "status": 200,
+      "final": "https://disc.gsfc.nasa.gov/datasets?keywords=MERRA-2"
+    },
+    {
+      "url": "https://docs.mapbox.com/",
+      "status": 200,
+      "final": "https://docs.mapbox.com/"
+    },
+    {
+      "url": "https://developers.planet.com/",
+      "status": 200,
+      "final": "https://docs.planet.com/"
+    },
+    {
+      "url": "https://docs.figshare.com/",
+      "status": 200,
+      "final": "https://docs.figshare.com/"
+    },
+    {
+      "url": "https://docs.celeryproject.org/",
+      "status": 200,
+      "final": "https://docs.celeryq.dev/en/stable/"
+    },
+    {
+      "url": "https://doi.org/10.12199/nesdc.ecodb.2021YFF0703900.hbg.2025.4",
+      "status": 200,
+      "final": "https://www.nesdc.org.cn/sdo/detail?id=67c57e817e28176b9b45277c"
+    },
+    {
+      "url": "https://doi.org/10.1594/PANGAEA.926957",
+      "status": 200,
+      "final": "https://doi.pangaea.de/10.1594/PANGAEA.926957"
+    },
+    {
+      "url": "https://doi.org/10.1594/PANGAEA.931336",
+      "status": 200,
+      "final": "https://doi.pangaea.de/10.1594/PANGAEA.931336"
+    },
+    {
+      "url": "https://duckdb.org/",
+      "status": 200,
+      "final": "https://duckdb.org/"
+    },
+    {
+      "url": "https://dssat.net/",
+      "status": 200,
+      "final": "https://dssat.net/"
+    },
+    {
+      "url": "https://earth.esa.int/eogateway",
+      "status": 200,
+      "final": "https://earth.esa.int/eogateway"
+    },
+    {
+      "url": "https://earth.esa.int/eogateway/catalog",
+      "status": 200,
+      "final": "https://earth.esa.int/eogateway/catalog"
+    },
+    {
+      "url": "https://eartharxiv.org/",
+      "status": 200,
+      "final": "https://eartharxiv.org/"
+    },
+    {
+      "url": "https://earthcode.esa.int/",
+      "status": 200,
+      "final": "https://earthcode.esa.int/"
+    },
+    {
+      "url": "https://earthexplorer.usgs.gov/",
+      "status": 200,
+      "final": "https://earthexplorer.usgs.gov/"
+    },
+    {
+      "url": "https://edgar.jrc.ec.europa.eu/",
+      "status": 200,
+      "final": "https://edgar.jrc.ec.europa.eu/"
+    },
+    {
+      "url": "https://element84.com/earth-search/",
+      "status": 200,
+      "final": "https://element84.com/earth-search/"
+    },
+    {
+      "url": "https://eoreader.readthedocs.io/",
+      "status": 200,
+      "final": "https://eoreader.readthedocs.io/stable/"
+    },
+    {
+      "url": "https://fairsharing.org/",
+      "status": 200,
+      "final": "https://fairsharing.org/"
+    },
+    {
+      "url": "https://fast.bao.ac.cn/cms/article/",
+      "status": 200,
+      "final": "https://fast.bao.ac.cn/cms/article/"
+    },
+    {
+      "url": "https://essd.copernicus.org/",
+      "status": 200,
+      "final": "https://essd.copernicus.org/"
+    },
+    {
+      "url": "https://eosc.eu/",
+      "status": 200,
+      "final": "https://eosc.eu/"
+    },
+    {
+      "url": "https://eoweb.dlr.de/",
+      "status": 200,
+      "final": "https://eoweb.dlr.de/egp/"
+    },
+    {
+      "url": "https://figshare.com/",
+      "status": 202,
+      "final": "https://figshare.com/"
+    },
+    {
+      "url": "https://explore.openaire.eu/",
+      "status": 200,
+      "final": "https://explore.openaire.eu/"
+    },
+    {
+      "url": "https://fiona.readthedocs.io/",
+      "status": 200,
+      "final": "https://fiona.readthedocs.io/en/stable/"
+    },
+    {
+      "url": "https://figshare.com/articles/dataset/NWPU-RESISC45/13374249",
+      "status": 202,
+      "final": "https://figshare.com/articles/dataset/NWPU-RESISC45/13374249"
+    },
+    {
+      "url": "https://figshare.com/articles/dataset/AID/16461554",
+      "status": 202,
+      "final": "https://figshare.com/articles/dataset/AID/16461554"
+    },
+    {
+      "url": "https://figshare.com/articles/dataset/GID/13123112",
+      "status": 202,
+      "final": "https://figshare.com/articles/dataset/GID/13123112"
+    },
+    {
+      "url": "https://figshare.com/articles/dataset/SEN12MS/15519376",
+      "status": 202,
+      "final": "https://figshare.com/articles/dataset/SEN12MS/15519376"
+    },
+    {
+      "url": "https://figshare.com/articles/dataset/RSOD/16461572",
+      "status": 202,
+      "final": "https://figshare.com/articles/dataset/RSOD/16461572"
+    },
+    {
+      "url": "https://figshare.com/articles/dataset/spaceNet/16461560",
+      "status": 202,
+      "final": "https://figshare.com/articles/dataset/spaceNet/16461560"
+    },
+    {
+      "url": "https://figshare.com/articles/dataset/UCAS-AOD/14464379",
+      "status": 202,
+      "final": "https://figshare.com/articles/dataset/UCAS-AOD/14464379"
+    },
+    {
+      "url": "https://filezilla-project.org/",
+      "status": 200,
+      "final": "https://filezilla-project.org/"
+    },
+    {
+      "url": "https://fluxnet.org/",
+      "status": 200,
+      "final": "https://fluxnet.org/"
+    },
+    {
+      "url": "https://fsspec.github.io/kerchunk/",
+      "status": 200,
+      "final": "https://fsspec.github.io/kerchunk/"
+    },
+    {
+      "url": "https://gadm.org/",
+      "status": 200,
+      "final": "https://gadm.org/"
+    },
+    {
+      "url": "https://gdal.org/programs/gdal2tiles.html",
+      "status": 200,
+      "final": "https://gdal.org/en/stable/programs/gdal2tiles.html"
+    },
+    {
+      "url": "https://gdal.org/",
+      "status": 200,
+      "final": "https://gdal.org/en/stable/"
+    },
+    {
+      "url": "https://gcsfs.readthedocs.io/",
+      "status": 200,
+      "final": "https://gcsfs.readthedocs.io/en/latest/"
+    },
+    {
+      "url": "https://geo.bnu.edu.cn/",
+      "status": 200,
+      "final": "https://geo.bnu.edu.cn/"
+    },
+    {
+      "url": "https://gbank.gsj.jp/",
+      "status": 200,
+      "final": "https://www.gsj.jp:443/researches/geodb/index.html"
+    },
+    {
+      "url": "https://gea.esac.esa.int/archive/",
+      "status": 200,
+      "final": "https://gea.esac.esa.int/archive/"
+    },
+    {
+      "url": "https://geocoder.readthedocs.io/",
+      "status": 200,
+      "final": "https://geocoder.readthedocs.io/"
+    },
+    {
+      "url": "https://geoalchemy-2.readthedocs.io/",
+      "status": 200,
+      "final": "https://geoalchemy-2.readthedocs.io/en/stable/"
+    },
+    {
+      "url": "https://geo.ecnu.edu.cn/",
+      "status": 200,
+      "final": "https://geo.ecnu.edu.cn/"
+    },
+    {
+      "url": "https://geopandas.org/",
+      "status": 200,
+      "final": "https://geopandas.org/en/stable/"
+    },
+    {
+      "url": "https://gemstat.org/",
+      "status": 200,
+      "final": "https://gemstat.org/"
+    },
+    {
+      "url": "https://geopy.readthedocs.io/",
+      "status": 200,
+      "final": "https://geopy.readthedocs.io/en/stable/"
+    },
+    {
+      "url": "https://github.com/",
+      "status": 200,
+      "final": "https://github.com/"
+    },
+    {
+      "url": "https://geostat-framework.readthedocs.io/",
+      "status": 200,
+      "final": "https://geostat-framework.readthedocs.io/en/latest/"
+    },
+    {
+      "url": "https://geoservice.dlr.de/",
+      "status": 200,
+      "final": "https://geoservice.dlr.de/web/"
+    },
+    {
+      "url": "https://geoservice.dlr.de/web/maps/wsf",
+      "status": 200,
+      "final": "https://geoservice.dlr.de/web/maps"
+    },
+    {
+      "url": "https://github.com/ArchiveTeam",
+      "status": 200,
+      "final": "https://github.com/ArchiveTeam"
+    },
+    {
+      "url": "https://github.com/CAESAR-Radi/SAR-Ship-Dataset",
+      "status": 200,
+      "final": "https://github.com/CAESAR-Radi/SAR-Ship-Dataset"
+    },
+    {
+      "url": "https://github.com/GeospatialPython/pyshp",
+      "status": 200,
+      "final": "https://github.com/GeospatialPython/pyshp"
+    },
+    {
+      "url": "https://github.com/NCAR/noahmp",
+      "status": 200,
+      "final": "https://github.com/NCAR/noahmp"
+    },
+    {
+      "url": "https://github.com/UU-Hydro/PCR-GLOBWB_model",
+      "status": 200,
+      "final": "https://github.com/UU-Hydro/PCR-GLOBWB_model"
+    },
+    {
+      "url": "https://github.com/UW-Hydro/VIC",
+      "status": 200,
+      "final": "https://github.com/UW-Hydro/VIC"
+    },
+    {
+      "url": "https://github.com/VisDrone/visdrone-dataset",
+      "status": 200,
+      "final": "https://github.com/VisDrone/visdrone-dataset"
+    },
+    {
+      "url": "https://github.com/corteva/rioxarray",
+      "status": 200,
+      "final": "https://github.com/corteva/rioxarray"
+    },
+    {
+      "url": "https://github.com/dask/fastparquet",
+      "status": 200,
+      "final": "https://github.com/dask/fastparquet"
+    },
+    {
+      "url": "https://github.com/element84",
+      "status": 200,
+      "final": "https://github.com/element84"
+    },
+    {
+      "url": "https://github.com/facebookresearch/segment-anything",
+      "status": 200,
+      "final": "https://github.com/facebookresearch/segment-anything"
+    },
+    {
+      "url": "https://github.com/fsspec/adlfs",
+      "status": 200,
+      "final": "https://github.com/fsspec/adlfs"
+    },
+    {
+      "url": "https://github.com/gippy",
+      "status": 200,
+      "final": "https://github.com/gippy"
+    },
+    {
+      "url": "https://github.com/insarlab/MintPy",
+      "status": 200,
+      "final": "https://github.com/insarlab/MintPy"
+    },
+    {
+      "url": "https://github.com/isce-framework/isce2",
+      "status": 200,
+      "final": "https://github.com/isce-framework/isce2"
+    },
+    {
+      "url": "https://github.com/microsoft/satclip",
+      "status": 200,
+      "final": "https://github.com/microsoft/satclip"
+    },
+    {
+      "url": "https://github.com/mapbox/mbtiles-spec",
+      "status": 200,
+      "final": "https://github.com/mapbox/mbtiles-spec"
+    },
+    {
+      "url": "https://github.com/mit-han-lab/torchsparse",
+      "status": 200,
+      "final": "https://github.com/mit-han-lab/torchsparse"
+    },
+    {
+      "url": "https://github.com/nsidc/earthaccess",
+      "status": 200,
+      "final": "https://github.com/earthaccess-dev/earthaccess"
+    },
+    {
+      "url": "https://github.com/open-mmlab/mmsegmentation",
+      "status": 200,
+      "final": "https://github.com/open-mmlab/mmsegmentation"
+    },
+    {
+      "url": "https://github.com/samteam",
+      "status": 200,
+      "final": "https://github.com/samteam"
+    },
+    {
+      "url": "https://github.com/openpiv/openpiv-python",
+      "status": 200,
+      "final": "https://github.com/openpiv/openpiv-python"
+    },
+    {
+      "url": "https://github.com/radiantearth/stac-browser",
+      "status": 200,
+      "final": "https://github.com/radiantearth/stac-browser"
+    },
+    {
+      "url": "https://github.com/sat-utils/sat-api",
+      "status": 200,
+      "final": "https://github.com/sat-utils/sat-api"
+    },
+    {
+      "url": "https://github.com/sentinelsat/sentinelsat",
+      "status": 200,
+      "final": "https://github.com/sentinelsat/sentinelsat"
+    },
+    {
+      "url": "https://github.com/sindresorhus/awesome",
+      "status": 200,
+      "final": "https://github.com/sindresorhus/awesome"
+    },
+    {
+      "url": "https://github.com/stac-utils/stac-fastapi",
+      "status": 200,
+      "final": "https://github.com/stac-utils/stac-fastapi"
+    },
+    {
+      "url": "https://glovis.usgs.gov/",
+      "status": 200,
+      "final": "https://glovis.usgs.gov/"
+    },
+    {
+      "url": "https://gotm.net/",
+      "status": 200,
+      "final": "https://gotm.net/"
+    },
+    {
+      "url": "https://gportal.jaxa.jp/",
+      "status": 200,
+      "final": "https://gportal.jaxa.jp/"
+    },
+    {
+      "url": "https://gportal.jaxa.jp/gpr/?lang=en",
+      "status": 200,
+      "final": "https://gportal.jaxa.jp/gpr/?lang=en"
+    },
+    {
+      "url": "https://hdfeos.org/software/h2g.php",
+      "status": 200,
+      "final": "https://hdfeos.org/software/heg.php"
+    },
+    {
+      "url": "https://huiyan.baidu.com/",
+      "status": 200,
+      "final": "https://huiyan.baidu.com/"
+    },
+    {
+      "url": "https://human-settlement.emergency.copernicus.eu/",
+      "status": 200,
+      "final": "https://human-settlement.emergency.copernicus.eu/"
+    },
+    {
+      "url": "https://i-qps.net/",
+      "status": 200,
+      "final": "https://i-qps.net/"
+    },
+    {
+      "url": "https://intake-stac.readthedocs.io/",
+      "status": 200,
+      "final": "https://intake-stac.readthedocs.io/en/latest/"
+    },
+    {
+      "url": "https://hypeweb.smhi.se/",
+      "status": 200,
+      "final": "https://hypeweb.smhi.se/"
+    },
+    {
+      "url": "https://iss.jaxa.jp/en/",
+      "status": 200,
+      "final": "https://humans-in-space.jaxa.jp/en/"
+    },
+    {
+      "url": "https://ioc.unesco.org/",
+      "status": 200,
+      "final": "https://www.ioc.unesco.org/en"
+    },
+    {
+      "url": "https://ladsweb.modaps.eosdis.nasa.gov/",
+      "status": 200,
+      "final": "https://ladsweb.modaps.eosdis.nasa.gov/"
+    },
+    {
+      "url": "https://landscan.ornl.gov/",
+      "status": 200,
+      "final": "https://landscan.ornl.gov/"
+    },
+    {
+      "url": "https://landcarbon.org/",
+      "status": 200,
+      "final": "https://www.landcarbon.org/"
+    },
+    {
+      "url": "https://land.copernicus.eu/",
+      "status": 200,
+      "final": "https://land.copernicus.eu/"
+    },
+    {
+      "url": "https://lternet.edu/",
+      "status": 200,
+      "final": "https://lternet.edu/"
+    },
+    {
+      "url": "https://luigi.readthedocs.io/",
+      "status": 200,
+      "final": "https://luigi.readthedocs.io/en/stable/"
+    },
+    {
+      "url": "https://lis.gsfc.nasa.gov/",
+      "status": 200,
+      "final": "https://lis.gsfc.nasa.gov/"
+    },
+    {
+      "url": "https://marine.copernicus.eu/",
+      "status": 200,
+      "final": "https://marine.copernicus.eu/"
+    },
+    {
+      "url": "https://nadc.china-vo.org/",
+      "status": 200,
+      "final": "https://nadc.china-vo.org/"
+    },
+    {
+      "url": "https://mpas-dev.github.io/",
+      "status": 200,
+      "final": "https://mpas-dev.github.io/"
+    },
+    {
+      "url": "https://ncas.ac.uk/",
+      "status": 200,
+      "final": "https://ncas.ac.uk/"
+    },
+    {
+      "url": "https://neo.gsfc.nasa.gov/",
+      "status": 200,
+      "final": "https://neo.gsfc.nasa.gov/"
+    },
+    {
+      "url": "https://nsidc.org/",
+      "status": 200,
+      "final": "https://nsidc.org/home"
+    },
+    {
+      "url": "https://nerc.ukri.org/",
+      "status": 200,
+      "final": "https://www.ukri.org/councils/nerc/"
+    },
+    {
+      "url": "https://nominatim.org/",
+      "status": 200,
+      "final": "https://nominatim.org/"
+    },
+    {
+      "url": "https://nsidc.org/data",
+      "status": 200,
+      "final": "https://nsidc.org/data"
+    },
+    {
+      "url": "https://obis.org/",
+      "status": 200,
+      "final": "https://obis.org/"
+    },
+    {
+      "url": "https://open.geovisearth.com/",
+      "status": 200,
+      "final": "https://open.geovisearth.com/"
+    },
+    {
+      "url": "https://open.canada.ca/",
+      "status": 200,
+      "final": "https://open.canada.ca/en"
+    },
+    {
+      "url": "https://openeo.org/",
+      "status": 200,
+      "final": "https://openeo.org/"
+    },
+    {
+      "url": "https://opendatahub.io/",
+      "status": 200,
+      "final": "https://opendatahub.io/"
+    },
+    {
+      "url": "https://openneuro.org/",
+      "status": 200,
+      "final": "https://openneuro.org/"
+    },
+    {
+      "url": "https://orcid.org/",
+      "status": 200,
+      "final": "https://orcid.org/"
+    },
+    {
+      "url": "https://osf.io/",
+      "status": 200,
+      "final": "https://osf.io/"
+    },
+    {
+      "url": "https://osf.io/2ynsc/",
+      "status": 200,
+      "final": "https://osf.io/2ynsc/"
+    },
+    {
+      "url": "https://osf.io/8buvz/",
+      "status": 200,
+      "final": "https://osf.io/8buvz/"
+    },
+    {
+      "url": "https://openrouteservice.org/",
+      "status": 200,
+      "final": "https://openrouteservice.org/"
+    },
+    {
+      "url": "https://osf.io/8fzah/",
+      "status": 200,
+      "final": "https://osf.io/8fzah/"
+    },
+    {
+      "url": "https://osf.io/9f5we/",
+      "status": 200,
+      "final": "https://osf.io/9f5we/"
+    },
+    {
+      "url": "https://osf.io/ezcuj",
+      "status": 200,
+      "final": "https://osf.io/ezcuj"
+    },
+    {
+      "url": "https://osf.io/e81xl",
+      "status": 200,
+      "final": "https://osf.io/e81xl"
+    },
+    {
+      "url": "https://osf.io/pct9z/",
+      "status": 200,
+      "final": "https://osf.io/pct9z/"
+    },
+    {
+      "url": "https://osf.io/preprints/earthaarxiv/",
+      "status": 200,
+      "final": "https://osf.io/preprints/earthaarxiv/"
+    },
+    {
+      "url": "https://osmnx.readthedocs.io/",
+      "status": 200,
+      "final": "https://osmnx.readthedocs.io/en/stable/"
+    },
+    {
+      "url": "https://ourworldindata.org/",
+      "status": 200,
+      "final": "https://ourworldindata.org/"
+    },
+    {
+      "url": "https://pandas.pydata.org/",
+      "status": 200,
+      "final": "https://pandas.pydata.org/"
+    },
+    {
+      "url": "https://owslib.readthedocs.io/",
+      "status": 200,
+      "final": "https://owslib.readthedocs.io/en/latest/"
+    },
+    {
+      "url": "https://pangeo.io/",
+      "status": 200,
+      "final": "https://pangeo.io/"
+    },
+    {
+      "url": "https://paperswithcode.com/",
+      "status": 200,
+      "final": "https://huggingface.co/papers/trending"
+    },
+    {
+      "url": "https://planetarycomputer.microsoft.com/",
+      "status": 200,
+      "final": "https://planetarycomputer.microsoft.com/"
+    },
+    {
+      "url": "https://parflow.org/",
+      "status": 200,
+      "final": "https://parflow.org/"
+    },
+    {
+      "url": "https://playwright.dev/python/",
+      "status": 200,
+      "final": "https://playwright.dev/python/"
+    },
+    {
+      "url": "https://pola.rs/",
+      "status": 200,
+      "final": "https://pola.rs/"
+    },
+    {
+      "url": "https://portal.csdi.gov.hk/csdi-webpage/",
+      "status": 200,
+      "final": "https://portal.csdi.gov.hk/csdi-webpage/"
+    },
+    {
+      "url": "https://ppbc.iplant.cn/",
+      "status": 200,
+      "final": "https://ppbc.iplant.cn/"
+    },
+    {
+      "url": "https://psl.noaa.gov/data/gridded/data.ncep.reanalysis.html",
+      "status": 200,
+      "final": "https://psl.noaa.gov/data/gridded/data.ncep.reanalysis.html"
+    },
+    {
+      "url": "https://pypi.org/project/planetary-computer/",
+      "status": 200,
+      "final": "https://pypi.org/project/planetary-computer/"
+    },
+    {
+      "url": "https://pypi.org/project/geotiepoints/",
+      "status": 200,
+      "final": "https://pypi.org/project/geotiepoints/"
+    },
+    {
+      "url": "https://peps.cnes.fr/rocket/",
+      "status": 200,
+      "final": "https://geodes.cnes.fr/"
+    },
+    {
+      "url": "https://peps.cnes.fr/",
+      "status": 200,
+      "final": "https://geodes.cnes.fr/"
+    },
+    {
+      "url": "https://pyresample.readthedocs.io/",
+      "status": 200,
+      "final": "https://pyresample.readthedocs.io/en/latest/"
+    },
+    {
+      "url": "https://pyspectral.readthedocs.io/",
+      "status": 200,
+      "final": "https://pyspectral.readthedocs.io/en/latest/"
+    },
+    {
+      "url": "https://public.wmo.int/",
+      "status": 200,
+      "final": "https://wmo.int"
+    },
+    {
+      "url": "https://pytorch.org/",
+      "status": 200,
+      "final": "https://pytorch.org/"
+    },
+    {
+      "url": "https://pystac.readthedocs.io/",
+      "status": 200,
+      "final": "https://pystac.readthedocs.io/en/stable/"
+    },
+    {
+      "url": "https://pystac-client.readthedocs.io/",
+      "status": 200,
+      "final": "https://pystac-client.readthedocs.io/en/stable/"
+    },
+    {
+      "url": "https://r-spatial.org/",
+      "status": 200,
+      "final": "https://r-spatial.org/"
+    },
+    {
+      "url": "https://qgis.org/",
+      "status": 200,
+      "final": "https://qgis.org/"
+    },
+    {
+      "url": "https://registry.opendata.aws/",
+      "status": 200,
+      "final": "https://registry.opendata.aws/"
+    },
+    {
+      "url": "https://rapidrefresh.noaa.gov/hrrr/",
+      "status": 200,
+      "final": "https://rapidrefresh.noaa.gov/hrrr/"
+    },
+    {
+      "url": "https://rasterio.readthedocs.io/",
+      "status": 200,
+      "final": "https://rasterio.readthedocs.io/en/stable/"
+    },
+    {
+      "url": "https://requests.readthedocs.io/",
+      "status": 200,
+      "final": "https://requests.readthedocs.io/en/latest/"
+    },
+    {
+      "url": "https://rich.readthedocs.io/",
+      "status": 200,
+      "final": "https://rich.readthedocs.io/en/stable/"
+    },
+    {
+      "url": "https://s3fs.readthedocs.io/",
+      "status": 200,
+      "final": "https://s3fs.readthedocs.io/en/latest/"
+    },
+    {
+      "url": "https://satellite.nsmc.org.cn/PortalSite/Default.aspx",
+      "status": 200,
+      "final": "https://satellite.nsmc.org.cn/PortalSite/Default.aspx"
+    },
+    {
+      "url": "https://satellite.nsmc.org.cn/PortalSite/Data/Satellite.aspx",
+      "status": 200,
+      "final": "https://satellite.nsmc.org.cn/PortalSite/Data/Satellite.aspx"
+    },
+    {
+      "url": "https://satpy.readthedocs.io/",
+      "status": 200,
+      "final": "https://satpy.readthedocs.io/en/stable/"
+    },
+    {
+      "url": "https://schedule.readthedocs.io/",
+      "status": 200,
+      "final": "https://schedule.readthedocs.io/en/stable/"
+    },
+    {
+      "url": "https://satellogic.com/",
+      "status": 200,
+      "final": "https://satellogic.com/"
+    },
+    {
+      "url": "https://satellogic.com/news-events/news/",
+      "status": 200,
+      "final": "https://satellogic.com/news/"
+    },
+    {
+      "url": "https://r-project.org/",
+      "status": 200,
+      "final": "https://www.r-project.org/"
+    },
+    {
+      "url": "https://scholar.google.com/",
+      "status": 200,
+      "final": "https://scholar.google.com/"
+    },
+    {
+      "url": "https://scikit-learn.org/",
+      "status": 200,
+      "final": "https://scikit-learn.org/"
+    },
+    {
+      "url": "https://scite.ai/",
+      "status": 200,
+      "final": "https://scite.ai/"
+    },
+    {
+      "url": "https://search.dataone.org/",
+      "status": 200,
+      "final": "https://search.dataone.org/"
+    },
+    {
+      "url": "https://scrapy.org/",
+      "status": 200,
+      "final": "https://www.scrapy.org/"
+    },
+    {
+      "url": "https://search.earthdata.nasa.gov/",
+      "status": 200,
+      "final": "https://search.earthdata.nasa.gov/"
+    },
+    {
+      "url": "https://sentinelhub-py.readthedocs.io/",
+      "status": 200,
+      "final": "https://sentinelhub-py.readthedocs.io/en/latest/"
+    },
+    {
+      "url": "https://seadas.gsfc.nasa.gov/",
+      "status": 200,
+      "final": "https://www.earthdata.nasa.gov/data/tools/seadas"
+    },
+    {
+      "url": "https://shapely.readthedocs.io/",
+      "status": 200,
+      "final": "https://shapely.readthedocs.io/en/stable/"
+    },
+    {
+      "url": "https://selenium.dev/",
+      "status": 200,
+      "final": "https://www.selenium.dev/"
+    },
+    {
+      "url": "https://sharaku.eorc.jaxa.jp/",
+      "status": 200,
+      "final": "https://sharaku.eorc.jaxa.jp/"
+    },
+    {
+      "url": "https://stackstac.readthedocs.io/",
+      "status": 200,
+      "final": "https://stackstac.readthedocs.io/en/latest/"
+    },
+    {
+      "url": "https://stacspec.org/",
+      "status": 200,
+      "final": "https://stacspec.org/"
+    },
+    {
+      "url": "https://start.org/",
+      "status": 200,
+      "final": "https://start.org/"
+    },
+    {
+      "url": "https://servirglobal.net/",
+      "status": 200,
+      "final": "https://www.servirglobal.net/"
+    },
+    {
+      "url": "https://synspective.com/",
+      "status": 200,
+      "final": "https://synspective.com/"
+    },
+    {
+      "url": "https://swat.tamu.edu/",
+      "status": 200,
+      "final": "https://swat.tamu.edu/"
+    },
+    {
+      "url": "https://tc.copernicus.org/",
+      "status": 200,
+      "final": "https://tc.copernicus.org/"
+    },
+    {
+      "url": "https://tolnet.larc.nasa.gov/",
+      "status": 200,
+      "final": "https://tolnet.larc.nasa.gov/"
+    },
+    {
+      "url": "https://sky.esa.int/",
+      "status": 200,
+      "final": "https://sky.esa.int/esasky/"
+    },
+    {
+      "url": "https://tccondata.org/",
+      "status": 200,
+      "final": "https://tccondata.org/"
+    },
+    {
+      "url": "https://tqdm.github.io/",
+      "status": 200,
+      "final": "https://tqdm.github.io/"
+    },
+    {
+      "url": "https://tough.lbl.gov/",
+      "status": 200,
+      "final": "https://tough.lbl.gov/"
+    },
+    {
+      "url": "https://stats.oecd.org/",
+      "status": 200,
+      "final": "https://data-explorer.oecd.org"
+    },
+    {
+      "url": "https://typer.tiangolo.com/",
+      "status": 200,
+      "final": "https://typer.tiangolo.com/"
+    },
+    {
+      "url": "https://trollimage.readthedocs.io/",
+      "status": 200,
+      "final": "https://trollimage.readthedocs.io/en/latest/"
+    },
+    {
+      "url": "https://unidata.github.io/netcdf4-python/",
+      "status": 200,
+      "final": "https://unidata.github.io/netcdf4-python/"
+    },
+    {
+      "url": "https://up42.com/",
+      "status": 200,
+      "final": "https://up42.com/"
+    },
+    {
+      "url": "https://urban.pku.edu.cn/",
+      "status": 200,
+      "final": "https://urban.pku.edu.cn/"
+    },
+    {
+      "url": "https://umbra.space/",
+      "status": 200,
+      "final": "https://umbra.space/"
+    },
+    {
+      "url": "https://ukdataservice.ac.uk/",
+      "status": 200,
+      "final": "https://ukdataservice.ac.uk/"
+    },
+    {
+      "url": "https://unstats.un.org/",
+      "status": 200,
+      "final": "https://unstats.un.org/UNSDWebsite/"
+    },
+    {
+      "url": "https://waterdata.usgs.gov/nwis",
+      "status": 200,
+      "final": "https://waterdata.usgs.gov/"
+    },
+    {
+      "url": "https://www.21at.com.cn/",
+      "status": 200,
+      "final": "https://www.21at.com.cn/"
+    },
+    {
+      "url": "https://worldfair-project.eu/",
+      "status": 200,
+      "final": "https://worldfair-project.eu/"
+    },
+    {
+      "url": "https://vitalsigns.org/",
+      "status": 200,
+      "final": "https://www.conservation.org/projects/vital-signs"
+    },
+    {
+      "url": "https://wiki.openstreetmap.org/wiki/Overpass_API",
+      "status": 200,
+      "final": "https://wiki.openstreetmap.org/wiki/Overpass_API"
+    },
+    {
+      "url": "https://web.nateko.lu.se/lpj-guess/",
+      "status": 200,
+      "final": "https://web.nateko.lu.se/lpj-guess/"
+    },
+    {
+      "url": "https://wise2.ipac.caltech.edu/docs/release/neowise/",
+      "status": 200,
+      "final": "https://irsa.ipac.caltech.edu/data/WISE/docs/release/NEOWISE/"
+    },
+    {
+      "url": "https://www.aircas.ac.cn/",
+      "status": 200,
+      "final": "https://www.aircas.ac.cn/"
+    },
+    {
+      "url": "https://www.agridata.cn/",
+      "status": 200,
+      "final": "https://www.agridata.cn/"
+    },
+    {
+      "url": "https://www.apsim.info/",
+      "status": 200,
+      "final": "https://www.apsim.info/"
+    },
+    {
+      "url": "https://www.asi.it/",
+      "status": 200,
+      "final": "https://www.asi.it/"
+    },
+    {
+      "url": "https://www.bas.ac.uk/",
+      "status": 200,
+      "final": "https://www.bas.ac.uk/"
+    },
+    {
+      "url": "https://www.actris.eu/",
+      "status": 200,
+      "final": "https://www.actris.eu/"
+    },
+    {
+      "url": "https://www.bjfu.edu.cn/",
+      "status": 200,
+      "final": "https://www.bjfu.edu.cn/"
+    },
+    {
+      "url": "https://www.bas.ac.uk/data/uk-pdc/",
+      "status": 200,
+      "final": "https://www.bas.ac.uk/data/polar-data-centre/"
+    },
+    {
+      "url": "https://www.bjp.org.cn/",
+      "status": 200,
+      "final": "https://www.bjp.org.cn/"
+    },
+    {
+      "url": "https://www.biomedcentral.com/getpublished/editorial-policies#data+availability",
+      "status": 200,
+      "final": "https://link.springer.com/brands/bmc/editorial-policies#data+availability"
+    },
+    {
+      "url": "https://www.bgs.ac.uk/",
+      "status": 200,
+      "final": "https://www.bgs.ac.uk/"
+    },
+    {
+      "url": "https://www.caas.cn/",
+      "status": 200,
+      "final": "https://www.caas.cn/"
+    },
+    {
+      "url": "https://www.brockmann-consult.de/beam/",
+      "status": 200,
+      "final": "https://bcdev.github.io/beam/"
+    },
+    {
+      "url": "https://www.blacksky.com/",
+      "status": 200,
+      "final": "https://blacksky.com/"
+    },
+    {
+      "url": "https://www.caf.ac.cn/",
+      "status": 200,
+      "final": "https://www.caf.ac.cn/"
+    },
+    {
+      "url": "https://www.capellaspace.com/",
+      "status": 200,
+      "final": "https://www.capellaspace.com/"
+    },
+    {
+      "url": "https://www.cau.edu.cn/",
+      "status": 200,
+      "final": "https://www.cau.edu.cn/"
+    },
+    {
+      "url": "https://www.cea.gov.cn/",
+      "status": 200,
+      "final": "https://www.cea.gov.cn/"
+    },
+    {
+      "url": "https://www.carbonbrief.org/",
+      "status": 200,
+      "final": "https://www.carbonbrief.org/"
+    },
+    {
+      "url": "https://www.capellaspace.com/community/",
+      "status": 200,
+      "final": "https://www.capellaspace.com/"
+    },
+    {
+      "url": "https://www.ceic.ac.cn/",
+      "status": 200,
+      "final": "https://www.ceic.ac.cn/"
+    },
+    {
+      "url": "https://www.cesm.ucar.edu/",
+      "status": 200,
+      "final": "https://www.cesm.ucar.edu/"
+    },
+    {
+      "url": "https://www.cesm.ucar.edu/models/clm",
+      "status": 200,
+      "final": "https://www.cesm.ucar.edu/models/clm"
+    },
+    {
+      "url": "https://www.ceh.ac.uk/",
+      "status": 200,
+      "final": "https://www.ceh.ac.uk/"
+    },
+    {
+      "url": "https://www.chd.edu.cn/",
+      "status": 200,
+      "final": "https://www.chd.edu.cn/"
+    },
+    {
+      "url": "https://www.chinare.org.cn/",
+      "status": 200,
+      "final": "https://www.chinare.org.cn/"
+    },
+    {
+      "url": "https://www.chinare.org.cn/pole-data",
+      "status": 200,
+      "final": "https://www.chinare.org.cn/pole-data"
+    },
+    {
+      "url": "https://www.bafg.de/GRDC",
+      "status": 200,
+      "final": "https://grdc.bafg.de/"
+    },
+    {
+      "url": "https://www.cma.gov.cn/",
+      "status": 200,
+      "final": "https://www.cma.gov.cn/"
+    },
+    {
+      "url": "https://www.cnemc.cn/",
+      "status": 200,
+      "final": "https://www.cnemc.cn/"
+    },
+    {
+      "url": "https://www.climatewatchdata.org/",
+      "status": 200,
+      "final": "https://www.climatewatchdata.org/"
+    },
+    {
+      "url": "https://www.cpeos.org.cn/",
+      "status": 200,
+      "final": "https://www.cpeos.org.cn/"
+    },
+    {
+      "url": "https://www.connectedpapers.com/",
+      "status": 200,
+      "final": "https://www.connectedpapers.com/"
+    },
+    {
+      "url": "https://www.cqvip.com/",
+      "status": 200,
+      "final": "https://www.cqvip.com/"
+    },
+    {
+      "url": "https://www.altmetric.com/",
+      "status": 200,
+      "final": "https://www.altmetric.com/"
+    },
+    {
+      "url": "https://www.cnki.net/",
+      "status": 200,
+      "final": "https://www.cnki.net/"
+    },
+    {
+      "url": "https://www.cug.edu.cn/",
+      "status": 200,
+      "final": "https://www.cug.edu.cn/"
+    },
+    {
+      "url": "https://www.cugb.edu.cn/",
+      "status": 200,
+      "final": "https://www.cugb.edu.cn/"
+    },
+    {
+      "url": "https://www.crossref.org/",
+      "status": 200,
+      "final": "https://www.crossref.org/"
+    },
+    {
+      "url": "https://www.cumt.edu.cn/",
+      "status": 200,
+      "final": "https://www.cumt.edu.cn/"
+    },
+    {
+      "url": "https://www.croco-ocean.org/",
+      "status": 200,
+      "final": "https://www.croco-ocean.org/"
+    },
+    {
+      "url": "https://www.dask.org/",
+      "status": 200,
+      "final": "https://www.dask.org/"
+    },
+    {
+      "url": "https://www.data.jma.go.jp/",
+      "status": 200,
+      "final": "https://www.data.jma.go.jp/"
+    },
+    {
+      "url": "https://www.dataone.org/",
+      "status": 200,
+      "final": "https://www.dataone.org/"
+    },
+    {
+      "url": "https://www.descarteslabs.com/",
+      "status": 200,
+      "final": "https://www.descarteslabs.com/"
+    },
+    {
+      "url": "https://www.data.jma.go.jp/gmd/risk/obsdl/index.php",
+      "status": 200,
+      "final": "https://www.data.jma.go.jp/risk/obsdl/index.php"
+    },
+    {
+      "url": "https://www.dropbox.com/s/2v5xiv",
+      "status": 200,
+      "final": "https://www.dropbox.com/s/2v5xiv"
+    },
+    {
+      "url": "https://www.dgi.inpe.br/catalogo/",
+      "status": 200,
+      "final": "https://www.dgi.inpe.br/catalogo/"
+    },
+    {
+      "url": "https://www.dwd.de/EN/ourservices/opendata/opendata.html",
+      "status": 200,
+      "final": "https://www.dwd.de/EN/ourservices/opendata/opendata.html"
+    },
+    {
+      "url": "https://www.dea.ga.gov.au/",
+      "status": 200,
+      "final": "https://www.ga.gov.au/scientific-topics/dea"
+    },
+    {
+      "url": "https://www.ebi.ac.uk/biostudies/",
+      "status": 200,
+      "final": "https://www.ebi.ac.uk/biostudies/"
+    },
+    {
+      "url": "https://www.eorc.jaxa.jp/",
+      "status": 200,
+      "final": "https://www.eorc.jaxa.jp/"
+    },
+    {
+      "url": "https://www.ecmwf.int/",
+      "status": 200,
+      "final": "https://www.ecmwf.int/"
+    },
+    {
+      "url": "https://www.earthobservations.org/",
+      "status": 200,
+      "final": "https://earthobservations.org/"
+    },
+    {
+      "url": "https://www.eorc.jaxa.jp/ALOS/en/dataset/dataset_index.htm",
+      "status": 200,
+      "final": "https://www.eorc.jaxa.jp/ALOS/en/url_change_info_e.htm"
+    },
+    {
+      "url": "https://www.digitalearthafrica.org/",
+      "status": 200,
+      "final": "https://digitalearthafrica.org/en_za/"
+    },
+    {
+      "url": "https://www.eorc.jaxa.jp/ptree/index.html",
+      "status": 200,
+      "final": "https://www.eorc.jaxa.jp/ptree/index.html"
+    },
+    {
+      "url": "https://www.esri.com/",
+      "status": 200,
+      "final": "https://www.esri.com/en-us/home"
+    },
+    {
+      "url": "https://www.f-uji.net/",
+      "status": 200,
+      "final": "https://www.f-uji.net/"
+    },
+    {
+      "url": "https://www.fao.org/faostat/",
+      "status": 200,
+      "final": "https://www.fao.org/faostat/"
+    },
+    {
+      "url": "https://www.fao.org/aquastat/",
+      "status": 200,
+      "final": "https://www.fao.org/aquastat/"
+    },
+    {
+      "url": "https://www.eudat.eu/",
+      "status": 200,
+      "final": "https://www.eudat.eu/"
+    },
+    {
+      "url": "https://www.fao.org/gleam/en/",
+      "status": 200,
+      "final": "https://www.fao.org/gleam/en/"
+    },
+    {
+      "url": "https://www.forestdata.cn/",
+      "status": 200,
+      "final": "https://www.forestdata.cn/"
+    },
+    {
+      "url": "https://www.forestry.gov.cn/",
+      "status": 200,
+      "final": "https://www.forestry.gov.cn/"
+    },
+    {
+      "url": "https://www.fao.org/soils-portal/data-hub/soil-maps-and-databases/harmonized-world-soil-database-v12/",
+      "status": 200,
+      "final": "https://www.fao.org/soils-portal/data-hub/soil-maps-and-databases/harmonized-world-soil-database-v12/en/"
+    },
+    {
+      "url": "https://www.ga.gov.au/",
+      "status": 200,
+      "final": "https://www.ga.gov.au/"
+    },
+    {
+      "url": "https://www.geespace.com/",
+      "status": 200,
+      "final": "https://www.geespace.com/"
+    },
+    {
+      "url": "https://www.geodata.cn/",
+      "status": 200,
+      "final": "https://www.geodata.cn/"
+    },
+    {
+      "url": "https://www.gamma-rs.ch/",
+      "status": 200,
+      "final": "https://www.gamma-rs.ch/"
+    },
+    {
+      "url": "https://www.ghgsat.com/",
+      "status": 200,
+      "final": "https://www.ghgsat.com/"
+    },
+    {
+      "url": "https://www.gleam.eu/",
+      "status": 200,
+      "final": "https://www.gleam.eu/"
+    },
+    {
+      "url": "https://www.globalcarbonproject.org/",
+      "status": 200,
+      "final": "https://www.globalcarbonproject.org/"
+    },
+    {
+      "url": "https://www.gleon.org/",
+      "status": 200,
+      "final": "https://gleon.org/"
+    },
+    {
+      "url": "https://www.gosat.nies.go.jp/en/",
+      "status": 200,
+      "final": "https://www.gosat.nies.go.jp/en/"
+    },
+    {
+      "url": "https://www.globalforestwatch.org/",
+      "status": 200,
+      "final": "https://globalnaturewatch.org/"
+    },
+    {
+      "url": "https://www.go-fair.org/",
+      "status": 200,
+      "final": "https://www.go-fair.org/"
+    },
+    {
+      "url": "https://www.google.com/earth/",
+      "status": 200,
+      "final": "https://earth.google.com/web/"
+    },
+    {
+      "url": "https://www.gsj.jp/en/",
+      "status": 200,
+      "final": "https://www.gsj.jp/en/"
+    },
+    {
+      "url": "https://www.h5py.org/",
+      "status": 200,
+      "final": "https://www.h5py.org/"
+    },
+    {
+      "url": "https://www.here.com/",
+      "status": 200,
+      "final": "https://www.here.com/"
+    },
+    {
+      "url": "https://www.hec.usace.army.mil/",
+      "status": 200,
+      "final": "https://www.hec.usace.army.mil/"
+    },
+    {
+      "url": "https://www.hexagongeospatial.com/",
+      "status": 200,
+      "final": "https://www.octave.com/?utm_easyredir=www.hexagongeospatial.com"
+    },
+    {
+      "url": "https://www.hko.gov.hk/",
+      "status": 200,
+      "final": "https://www.hko.gov.hk/"
+    },
+    {
+      "url": "https://www.hko.gov.hk/tc/cis/normal.htm",
+      "status": 200,
+      "final": "https://www.hko.gov.hk/tc/cis/normal.htm"
+    },
+    {
+      "url": "https://www.hko.gov.hk/tc/cis/dailyExtract.htm",
+      "status": 200,
+      "final": "https://www.hko.gov.hk/tc/cis/dailyExtract.htm"
+    },
+    {
+      "url": "https://www.hit.edu.cn/",
+      "status": 200,
+      "final": "https://www.hit.edu.cn/"
+    },
+    {
+      "url": "https://www.hko.gov.hk/tc/cis/climat.htm",
+      "status": 200,
+      "final": "https://www.hko.gov.hk/tc/cis/climat.htm"
+    },
+    {
+      "url": "https://www.hko.gov.hk/tc/abouthko/opendata_intro.htm",
+      "status": 200,
+      "final": "https://www.hko.gov.hk/tc/abouthko/opendata_intro.htm"
+    },
+    {
+      "url": "https://www.hydrosheds.org/",
+      "status": 200,
+      "final": "https://www.hydrosheds.org/"
+    },
+    {
+      "url": "https://www.iceye.com/",
+      "status": 200,
+      "final": "https://www.iceye.com/"
+    },
+    {
+      "url": "https://www.iagos.org/",
+      "status": 200,
+      "final": "https://www.iagos.org/"
+    },
+    {
+      "url": "https://www.ief.ac.cn/",
+      "status": 200,
+      "final": "https://www.ief.ac.cn/"
+    },
+    {
+      "url": "https://www.icos-cp.eu/",
+      "status": 200,
+      "final": "https://www.icos-cp.eu/"
+    },
+    {
+      "url": "https://www.iplant.cn/",
+      "status": 200,
+      "final": "https://www.iplant.cn/"
+    },
+    {
+      "url": "https://www.inaturalist.org/",
+      "status": 200,
+      "final": "https://www.inaturalist.org/"
+    },
+    {
+      "url": "https://www.isas.jaxa.jp/en/",
+      "status": 200,
+      "final": "https://www.isas.jaxa.jp/en/"
+    },
+    {
+      "url": "https://www.irena.org/",
+      "status": 200,
+      "final": "https://www.irena.org/"
+    },
+    {
+      "url": "https://www.jl1mall.com/",
+      "status": 200,
+      "final": "https://www.jl1mall.com/"
+    },
+    {
+      "url": "https://www.jma.go.jp/jma/indexe.html",
+      "status": 200,
+      "final": "https://www.jma.go.jp/jma/indexe.html"
+    },
+    {
+      "url": "https://www.isric.org/explore/wosis",
+      "status": 200,
+      "final": "https://isric.org/explore/wosis"
+    },
+    {
+      "url": "https://www.isric.org/",
+      "status": 200,
+      "final": "https://isric.org/"
+    },
+    {
+      "url": "https://www.kaggle.com/competitions",
+      "status": 200,
+      "final": "https://www.kaggle.com/competitions"
+    },
+    {
+      "url": "https://www.kaggle.com/datasets",
+      "status": 200,
+      "final": "https://www.kaggle.com/datasets"
+    },
+    {
+      "url": "https://www.kaggle.com/datasets/guofengma/hrsc2016",
+      "status": 200,
+      "final": "https://www.kaggle.com/datasets/guofengma/hrsc2016"
+    },
+    {
+      "url": "https://www.kaggle.com/models",
+      "status": 200,
+      "final": "https://www.kaggle.com/models"
+    },
+    {
+      "url": "https://www.kma.go.kr/eng/",
+      "status": 200,
+      "final": "https://www.kma.go.kr/neng/index.do"
+    },
+    {
+      "url": "https://www.kari.re.kr/eng/",
+      "status": 200,
+      "final": "https://www.kari.re.kr/eng/"
+    },
+    {
+      "url": "https://www.kma.go.kr/eng/index.jsp",
+      "status": 200,
+      "final": "https://www.kma.go.kr/neng/index.do"
+    },
+    {
+      "url": "https://www.kma.go.kr/eng/weather/forecast/forecast_02.jsp",
+      "status": 200,
+      "final": "https://www.kma.go.kr/eng/weather/forecast/forecast_02.jsp"
+    },
+    {
+      "url": "https://www.litmaps.com/",
+      "status": 200,
+      "final": "https://www.litmaps.com/"
+    },
+    {
+      "url": "https://www.mapbox.com/",
+      "status": 200,
+      "final": "https://www.mapbox.com/"
+    },
+    {
+      "url": "https://www.mee.gov.cn/",
+      "status": 200,
+      "final": "https://www.mee.gov.cn/"
+    },
+    {
+      "url": "https://www.maxar.com/",
+      "status": 200,
+      "final": "https://vantor.com"
+    },
+    {
+      "url": "https://www.maxar.com/open-data",
+      "status": 200,
+      "final": "https://vantor.com/company/open-data-program/"
+    },
+    {
+      "url": "https://www.metoffice.gov.uk/",
+      "status": 200,
+      "final": "https://www.metoffice.gov.uk/"
+    },
+    {
+      "url": "https://www.mnr.gov.cn/",
+      "status": 200,
+      "final": "https://www.mnr.gov.cn/"
+    },
+    {
+      "url": "https://www.mohurd.gov.cn/",
+      "status": 200,
+      "final": "https://www.mohurd.gov.cn/"
+    },
+    {
+      "url": "https://www.minospace.cn/",
+      "status": 200,
+      "final": "https://www.minospace.cn/"
+    },
+    {
+      "url": "https://www.moa.gov.cn/",
+      "status": 200,
+      "final": "https://www.moa.gov.cn/"
+    },
+    {
+      "url": "https://www.meteorf.gov.ru/",
+      "status": 200,
+      "final": "https://www.meteorf.gov.ru/"
+    },
+    {
+      "url": "https://www.nao.cas.cn/",
+      "status": 200,
+      "final": "https://www.nao.cas.cn/"
+    },
+    {
+      "url": "https://www.mikepoweredbydhi.com/",
+      "status": 200,
+      "final": "https://www.dhigroup.com/technologies/mikepoweredbydhi"
+    },
+    {
+      "url": "https://www.mikepoweredbydhi.com/products/feflow",
+      "status": 200,
+      "final": "https://www.dhigroup.com/technologies/mikepoweredbydhi"
+    },
+    {
+      "url": "https://www.naoj.org/",
+      "status": 200,
+      "final": "https://www.naoj.org/"
+    },
+    {
+      "url": "https://www.ncdc.ac.cn/",
+      "status": 200,
+      "final": "https://www.ncdc.ac.cn/portal/"
+    },
+    {
+      "url": "https://www.ncbi.nlm.nih.gov/geo/",
+      "status": 200,
+      "final": "https://www.ncbi.nlm.nih.gov/geo/"
+    },
+    {
+      "url": "https://www.nature.com/articles/s41597-020-00580-5",
+      "status": 200,
+      "final": "https://www.nature.com/articles/s41597-020-00580-5"
+    },
+    {
+      "url": "https://www.nature.com/sdata/",
+      "status": 200,
+      "final": "https://www.nature.com/sdata/"
+    },
+    {
+      "url": "https://www.nature.com/sdata/policies/repositories",
+      "status": 200,
+      "final": "https://www.nature.com/sdata/policies/repositories"
+    },
+    {
+      "url": "https://www.nesdc.org.cn/",
+      "status": 200,
+      "final": "https://www.nesdc.org.cn/"
+    },
+    {
+      "url": "https://www.neonscience.org/",
+      "status": 200,
+      "final": "https://www.neonscience.org/"
+    },
+    {
+      "url": "https://www.nict.go.jp/en/",
+      "status": 200,
+      "final": "https://www.nict.go.jp/en/"
+    },
+    {
+      "url": "https://www.nies.go.jp/",
+      "status": 200,
+      "final": "https://www.nies.go.jp/"
+    },
+    {
+      "url": "https://www.nii.ac.jp/en/",
+      "status": 200,
+      "final": "https://www.nii.ac.jp/en/"
+    },
+    {
+      "url": "https://www.nmc.cn/",
+      "status": 200,
+      "final": "https://www.nmc.cn/"
+    },
+    {
+      "url": "https://www.nmefc.cn/",
+      "status": 200,
+      "final": "https://www.nmefc.cn/"
+    },
+    {
+      "url": "https://www.nmefc.cn/forecast/index.html",
+      "status": 200,
+      "final": "https://www.nmefc.cn/forecast/index.html"
+    },
+    {
+      "url": "https://www.nmefc.cn/ice/index.html",
+      "status": 200,
+      "final": "https://www.nmefc.cn/ice/index.html"
+    },
+    {
+      "url": "https://www.nemo-ocean.eu/",
+      "status": 200,
+      "final": "https://nemo-ocean.eu/"
+    },
+    {
+      "url": "https://www.noaa.gov/",
+      "status": 200,
+      "final": "https://www.noaa.gov/"
+    },
+    {
+      "url": "https://www.nsmc.org.cn/",
+      "status": 200,
+      "final": "https://www.nsmc.org.cn/"
+    },
+    {
+      "url": "https://www.nudt.edu.cn/",
+      "status": 200,
+      "final": "https://www.nudt.edu.cn/"
+    },
+    {
+      "url": "https://www.nuist.edu.cn/",
+      "status": 200,
+      "final": "https://www.nuist.edu.cn/"
+    },
+    {
+      "url": "https://www.oclc.org/en/oaister.html",
+      "status": 200,
+      "final": "https://www.oclc.org/en/oaister.html"
+    },
+    {
+      "url": "https://www.opendatacube.org/",
+      "status": 200,
+      "final": "https://www.opendatacube.org/"
+    },
+    {
+      "url": "https://www.ogc.org/",
+      "status": 200,
+      "final": "https://www.ogc.org/"
+    },
+    {
+      "url": "https://www.osgeo.org/",
+      "status": 200,
+      "final": "https://www.osgeo.org/"
+    },
+    {
+      "url": "https://www.pangaea.de/",
+      "status": 200,
+      "final": "https://www.pangaea.de/"
+    },
+    {
+      "url": "https://www.pixxel.space/",
+      "status": 200,
+      "final": "https://www.pixxel.space/"
+    },
+    {
+      "url": "https://www.ouc.edu.cn/",
+      "status": 200,
+      "final": "https://www.ouc.edu.cn/"
+    },
+    {
+      "url": "https://www.openstreetmap.org/",
+      "status": 200,
+      "final": "https://www.openstreetmap.org/"
+    },
+    {
+      "url": "https://www.pric.org.cn/",
+      "status": 200,
+      "final": "https://www.pric.org.cn/"
+    },
+    {
+      "url": "https://www.prefect.io/",
+      "status": 200,
+      "final": "https://www.prefect.io/"
+    },
+    {
+      "url": "https://www.python-httpx.org/",
+      "status": 200,
+      "final": "https://www.python-httpx.org/"
+    },
+    {
+      "url": "https://www.openaire.eu/",
+      "status": 200,
+      "final": "https://www.openaire.eu/"
+    },
+    {
+      "url": "https://www.resdc.cn/",
+      "status": 200,
+      "final": "https://www.resdc.cn/"
+    },
+    {
+      "url": "https://www.resdc.cn/DOI/",
+      "status": 200,
+      "final": "https://www.resdc.cn/DOI/"
+    },
+    {
+      "url": "https://www.resdc.cn/DOI/DOI.aspx?DOIID=106",
+      "status": 200,
+      "final": "https://www.resdc.cn/DOI/DOI.aspx?DOIID=106"
+    },
+    {
+      "url": "https://www.nrcan.gc.ca/earth-sciences/geomatics",
+      "status": 200,
+      "final": "https://natural-resources.canada.ca/science-data/science-research/geomatics/geomatics"
+    },
+    {
+      "url": "https://www.radiant.earth/",
+      "status": 200,
+      "final": "https://radiant.earth/"
+    },
+    {
+      "url": "https://www.resdc.cn/DOI/DOI.aspx?DOIID=111",
+      "status": 200,
+      "final": "https://www.resdc.cn/DOI/DOI.aspx?DOIID=111"
+    },
+    {
+      "url": "https://www.re3data.org/",
+      "status": 200,
+      "final": "https://www.re3data.org/"
+    },
+    {
+      "url": "https://www.resdc.cn/DOI/DOI.aspx?DOIID=123",
+      "status": 200,
+      "final": "https://www.resdc.cn/DOI/DOI.aspx?DOIID=123"
+    },
+    {
+      "url": "https://www.resdc.cn/DOI/DOI.aspx?DOIID=121",
+      "status": 200,
+      "final": "https://www.resdc.cn/DOI/DOI.aspx?DOIID=121"
+    },
+    {
+      "url": "https://www.resdc.cn/DOI/DOI.aspx?DOIid=40",
+      "status": 200,
+      "final": "https://www.resdc.cn/DOI/DOI.aspx?DOIid=40"
+    },
+    {
+      "url": "https://www.scholat.com/lmars",
+      "status": 200,
+      "final": "https://www.scholat.com/lmars"
+    },
+    {
+      "url": "https://www.scidb.cn/",
+      "status": 200,
+      "final": "https://www.scidb.cn/"
+    },
+    {
+      "url": "https://www.semanticscholar.org/",
+      "status": 200,
+      "final": "https://www.semanticscholar.org/"
+    },
+    {
+      "url": "https://www.sasclouds.com/",
+      "status": 200,
+      "final": "https://www.sasclouds.com/"
+    },
+    {
+      "url": "https://www.sdss.org/dr18/",
+      "status": 200,
+      "final": "https://www.sdss.org/dr18/"
+    },
+    {
+      "url": "https://www.sentinel-hub.com/",
+      "status": 200,
+      "final": "https://www.sentinel-hub.com/"
+    },
+    {
+      "url": "https://www.smg.gov.mo/",
+      "status": 200,
+      "final": "https://www.smg.gov.mo/"
+    },
+    {
+      "url": "https://www.spectral.com/",
+      "status": 200,
+      "final": "https://www.spectral.com/"
+    },
+    {
+      "url": "https://www.springernature.com/gp/authors/research-data-policy/recommended-repositories",
+      "status": 200,
+      "final": "https://www.springernature.com/gp/authors/research-data-policy/recommended-repositories"
+    },
+    {
+      "url": "https://www.tianditu.gov.cn/",
+      "status": 200,
+      "final": "https://www.tianditu.gov.cn/"
+    },
+    {
+      "url": "https://www.tio.org.cn/",
+      "status": 200,
+      "final": "https://www.tio.org.cn/"
+    },
+    {
+      "url": "https://www.wanfangdata.com.cn/",
+      "status": 200,
+      "final": "https://www.wanfangdata.com.cn/"
+    },
+    {
+      "url": "https://www.tomtom.com/",
+      "status": 200,
+      "final": "https://www.tomtom.com/"
+    },
+    {
+      "url": "https://www.umr-cnrm.fr/",
+      "status": 200,
+      "final": "https://www.umr-cnrm.fr/"
+    },
+    {
+      "url": "https://www.theia-land.fr/",
+      "status": 200,
+      "final": "https://www.theia-land.fr/"
+    },
+    {
+      "url": "https://www.weather.gov/",
+      "status": 200,
+      "final": "https://www.weather.gov/"
+    },
+    {
+      "url": "https://www.webofscience.com/",
+      "status": 200,
+      "final": "https://access.clarivate.com/login?app=wos&alternative=true&goto=https%3A%2F%2Fwww.webofknowledge.com&shibShireURL=https%3A%2F%2Fwww.webofknowledge.com%2F%3Fauth%3DShibboleth&shibReturnURL=https%3A%2F%2Fwww.webofknowledge.com%2F&roaming=true"
+    },
+    {
+      "url": "https://www.wri.org/aqueduct/",
+      "status": 200,
+      "final": "https://www.wri.org/aqueduct"
+    },
+    {
+      "url": "https://www.worldpop.org/",
+      "status": 200,
+      "final": "https://www.worldpop.org/"
+    },
+    {
+      "url": "https://www.yinhehangtian.cn/",
+      "status": 200,
+      "final": "https://www.yinhehangtian.cn/"
+    },
+    {
+      "url": "https://www.zotero.org/",
+      "status": 200,
+      "final": "https://www.zotero.org/"
+    },
+    {
+      "url": "https://zarr.readthedocs.io/",
+      "status": 200,
+      "final": "https://zarr.readthedocs.io/en/stable/"
+    },
+    {
+      "url": "https://zenodo.org/",
+      "status": 200,
+      "final": "https://zenodo.org/"
+    },
+    {
+      "url": "https://xarray.dev/",
+      "status": 200,
+      "final": "https://xarray.dev/"
+    },
+    {
+      "url": "https://www.wekeo.eu/",
+      "status": 200,
+      "final": "https://wekeo.copernicus.eu/"
+    },
+    {
+      "url": "https://www2.mmm.ucar.edu/wrf/users/",
+      "status": 200,
+      "final": "https://www2.mmm.ucar.edu/wrf/users/"
+    },
+    {
+      "url": "https://zenodo.org/records/12784475",
+      "status": 200,
+      "final": "https://zenodo.org/records/12784476"
+    }
+  ],
+  "redirect": [],
+  "client_error": [
+    {
+      "url": "http://data.cma.cn/data/cdcdetail/dataCode/SURF_CLI_CHN_MUL_DAY_V3.0.html",
+      "status": 404,
+      "final": "http://data.cma.cn/data/cdcdetail/dataCode/SURF_CLI_CHN_MUL_DAY_V3.0.html"
+    },
+    {
+      "url": "http://www.cgs.gov.cn/",
+      "status": 403,
+      "final": "https://www.cgs.gov.cn/"
+    },
+    {
+      "url": "http://www.cgs.gov.cn/xwl/ddyw/202405/t20240520_756789.html",
+      "status": 403,
+      "final": "https://www.cgs.gov.cn/xwl/ddyw/202405/t20240520_756789.html"
+    },
+    {
+      "url": "http://www.forestry.gov.cn/ggg.html",
+      "status": 404,
+      "final": "https://www.forestry.gov.cn/ggg.html"
+    },
+    {
+      "url": "http://www.iwhr.com/",
+      "status": 412,
+      "final": "http://www.iwhr.com/"
+    },
+    {
+      "url": "https://cogeotiff.github.io/",
+      "status": 404,
+      "final": "https://cogeotiff.github.io/"
+    },
+    {
+      "url": "https://community.wmo.int/wis",
+      "status": 404,
+      "final": "https://community.wmo.int/wis"
+    },
+    {
+      "url": "https://data.cma.cn/data/cdcdetail/dataCode/SEVP_CLI_CHN_MERGE_FRT.html",
+      "status": 404,
+      "final": "https://data.cma.cn/data/cdcdetail/dataCode/SEVP_CLI_CHN_MERGE_FRT.html"
+    },
+    {
+      "url": "https://data.cma.cn/data/cdcdetail/dataCode/SURF_CLI_CHN_MUL_DAY.html",
+      "status": 404,
+      "final": "https://data.cma.cn/data/cdcdetail/dataCode/SURF_CLI_CHN_MUL_DAY.html"
+    },
+    {
+      "url": "https://data.cma.cn/data/cdcdetail/dataCode/SURF_CLI_CHN_MUL_MON.html",
+      "status": 404,
+      "final": "https://data.cma.cn/data/cdcdetail/dataCode/SURF_CLI_CHN_MUL_MON.html"
+    },
+    {
+      "url": "https://data.mendeley.com/",
+      "status": 403,
+      "final": "https://data.mendeley.com/"
+    },
+    {
+      "url": "https://doi.org/10.1080/01431160801897788",
+      "status": 404,
+      "final": "https://doi.org/10.1080/01431160801897788"
+    },
+    {
+      "url": "https://doi.org/10.11888/Terre.tpdc.XXXXX",
+      "status": 404,
+      "final": "https://doi.org/10.11888/Terre.tpdc.XXXXX"
+    },
+    {
+      "url": "https://doi.org/10.1594/PANGAEA.118582",
+      "status": 404,
+      "final": "https://doi.org/10.1594/PANGAEA.118582"
+    },
+    {
+      "url": "https://doi.org/10.12078/XXXXX",
+      "status": 404,
+      "final": "https://doi.org/10.12078/XXXXX"
+    },
+    {
+      "url": "https://doi.org/10.1594/PANGAEA.XXXXXX",
+      "status": 404,
+      "final": "https://doi.org/10.1594/PANGAEA.XXXXXX"
+    },
+    {
+      "url": "https://doi.org/10.17605/OSF.IO/XXXXX`）。",
+      "status": 404,
+      "final": "https://doi.org/10.17605/OSF.IO/XXXXX%60%EF%BC%89%E3%80%82"
+    },
+    {
+      "url": "https://doi.org/10.5061/dryad.0q05g",
+      "status": 404,
+      "final": "https://doi.org/10.5061/dryad.0q05g"
+    },
+    {
+      "url": "https://doi.org/10.5061/dryad.4xgxd325",
+      "status": 404,
+      "final": "https://doi.org/10.5061/dryad.4xgxd325"
+    },
+    {
+      "url": "https://doi.org/10.5061/dryad.66p7c1k",
+      "status": 404,
+      "final": "https://doi.org/10.5061/dryad.66p7c1k"
+    },
+    {
+      "url": "https://doi.org/10.5061/dryad.XXXXX",
+      "status": 404,
+      "final": "https://doi.org/10.5061/dryad.XXXXX"
+    },
+    {
+      "url": "https://doi.org/10.5281/zenodo.1290183",
+      "status": 404,
+      "final": "https://doi.org/10.5281/zenodo.1290183"
+    },
+    {
+      "url": "https://doi.org/10.5281/zenodo.7718440",
+      "status": 404,
+      "final": "https://doi.org/10.5281/zenodo.7718440"
+    },
+    {
+      "url": "https://doi.org/10.5281/zenodo.XXXXXXX",
+      "status": 404,
+      "final": "https://doi.org/10.5281/zenodo.XXXXXXX"
+    },
+    {
+      "url": "https://doi.org/10.6084/m9.figshare.13920831",
+      "status": 404,
+      "final": "https://doi.org/10.6084/m9.figshare.13920831"
+    },
+    {
+      "url": "https://doi.org/10.6084/m9.figshare.14464433",
+      "status": 404,
+      "final": "https://doi.org/10.6084/m9.figshare.14464433"
+    },
+    {
+      "url": "https://doi.org/10.6084/m9.figshare.XXXXXXX",
+      "status": 404,
+      "final": "https://doi.org/10.6084/m9.figshare.XXXXXXX"
+    },
+    {
+      "url": "https://earth.google.com/\n- **特点**：**矢量地图 + 历史影像 + 商业化**。\n\n**10 个代表性开放/商用数据集**：\n\n1. **OSM 全要素全球 (8B+ node, 700M+ way)**。\n2. **Mapbox 全球矢量瓦片 (800M+ 道路)**。\n3. **HERE 全球 / 中国导航**。\n4. **TomTom 全球 / 中国导航**。\n5. **Google Earth 全球历史影像 (0.5-1m, 1984-至今)**。\n6. **Google Earth Engine (GEE) 全球 PB 级数据**。\n7. **Baidu 百度地图 (中国全覆盖, 实时)**。\n8. **Gaode 高德地图 (中国全覆盖, 实时)**。\n9. **Tencent 腾讯地图 (中国全覆盖, 实时)**。\n10. **Microsoft Bing Maps (全球 + Bird's Eye)**。\n\n### 163. 商业卫星 / 国外 / Airbus (Pleiades, SPOT)\n\n- **网址**：<https://www.airbus.com/en/products-services/space",
+      "status": 404,
+      "final": "https://earth.google.com/%0A-%20**%E7%89%B9%E7%82%B9**%EF%BC%9A**%E7%9F%A2%E9%87%8F%E5%9C%B0%E5%9B%BE%20+%20%E5%8E%86%E5%8F%B2%E5%BD%B1%E5%83%8F%20+%20%E5%95%86%E4%B8%9A%E5%8C%96**%E3%80%82%0A%0A**10%20%E4%B8%AA%E4%BB%A3%E8%A1%A8%E6%80%A7%E5%BC%80%E6%94%BE/%E5%95%86%E7%94%A8%E6%95%B0%E6%8D%AE%E9%9B%86**%EF%BC%9A%0A%0A1.%20**OSM%20%E5%85%A8%E8%A6%81%E7%B4%A0%E5%85%A8%E7%90%83%20(8B+%20node,%20700M+%20way)**%E3%80%82%0A2.%20**Mapbox%20%E5%85%A8%E7%90%83%E7%9F%A2%E9%87%8F%E7%93%A6%E7%89%87%20(800M+%20%E9%81%93%E8%B7%AF)**%E3%80%82%0A3.%20**HERE%20%E5%85%A8%E7%90%83%20/%20%E4%B8%AD%E5%9B%BD%E5%AF%BC%E8%88%AA**%E3%80%82%0A4.%20**TomTom%20%E5%85%A8%E7%90%83%20/%20%E4%B8%AD%E5%9B%BD%E5%AF%BC%E8%88%AA**%E3%80%82%0A5.%20**Google%20Earth%20%E5%85%A8%E7%90%83%E5%8E%86%E5%8F%B2%E5%BD%B1%E5%83%8F%20(0.5-1m,%201984-%E8%87%B3%E4%BB%8A)**%E3%80%82%0A6.%20**Google%20Earth%20Engine%20(GEE)%20%E5%85%A8%E7%90%83%20PB%20%E7%BA%A7%E6%95%B0%E6%8D%AE**%E3%80%82%0A7.%20**Baidu%20%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BE%20(%E4%B8%AD%E5%9B%BD%E5%85%A8%E8%A6%86%E7%9B%96,%20%E5%AE%9E%E6%97%B6)**%E3%80%82%0A8.%20**Gaode%20%E9%AB%98%E5%BE%B7%E5%9C%B0%E5%9B%BE%20(%E4%B8%AD%E5%9B%BD%E5%85%A8%E8%A6%86%E7%9B%96,%20%E5%AE%9E%E6%97%B6)**%E3%80%82%0A9.%20**Tencent%20%E8%85%BE%E8%AE%AF%E5%9C%B0%E5%9B%BE%20(%E4%B8%AD%E5%9B%BD%E5%85%A8%E8%A6%86%E7%9B%96,%20%E5%AE%9E%E6%97%B6)**%E3%80%82%0A10.%20**Microsoft%20Bing%20Maps%20(%E5%85%A8%E7%90%83%20+%20Bird's%20Eye)**%E3%80%82%0A%0A#%23%23%20163.%20%E5%95%86%E4%B8%9A%E5%8D%AB%E6%98%9F%20/%20%E5%9B%BD%E5%A4%96%20/%20Airbus%20(Pleiades,%20SPOT)%0A%0A-%20**%E7%BD%91%E5%9D%80**%EF%BC%9A%3Chttps://www.airbus.com/en/products-services/space"
+    },
+    {
+      "url": "https://endnote.com/",
+      "status": 403,
+      "final": "https://endnote.com/"
+    },
+    {
+      "url": "https://geemap.org/",
+      "status": 403,
+      "final": "https://geemap.org/"
+    },
+    {
+      "url": "https://github.com/CAESAR-Radi/SAR-AIRcraft-1.0",
+      "status": 404,
+      "final": "https://github.com/CAESAR-Radi/SAR-AIRcraft-1.0"
+    },
+    {
+      "url": "https://github.com/ChristiaanVerhoef/4SAIL",
+      "status": 404,
+      "final": "https://github.com/ChristiaanVerhoef/4SAIL"
+    },
+    {
+      "url": "https://github.com/ChristiaanVerhoef/scope",
+      "status": 404,
+      "final": "https://github.com/ChristiaanVerhoef/scope"
+    },
+    {
+      "url": "https://github.com/FAIR1M/FAIR1M",
+      "status": 404,
+      "final": "https://github.com/FAIR1M/FAIR1M"
+    },
+    {
+      "url": "https://github.com/HustZJX/AID_dataset",
+      "status": 404,
+      "final": "https://github.com/HustZJX/AID_dataset"
+    },
+    {
+      "url": "https://github.com/Peirong/PML",
+      "status": 404,
+      "final": "https://github.com/Peirong/PML"
+    },
+    {
+      "url": "https://github.com/Skyyann/NWPU_TASD",
+      "status": 404,
+      "final": "https://github.com/Skyyann/NWPU_TASD"
+    },
+    {
+      "url": "https://github.com/asset/asset",
+      "status": 404,
+      "final": "https://github.com/asset/asset"
+    },
+    {
+      "url": "https://github.com/bramjanssen/sail",
+      "status": 404,
+      "final": "https://github.com/bramjanssen/sail"
+    },
+    {
+      "url": "https://github.com/c-qq/NWPU-RESISC45",
+      "status": 404,
+      "final": "https://github.com/c-qq/NWPU-RESISC45"
+    },
+    {
+      "url": "https://github.com/cedadev/stac-server",
+      "status": 404,
+      "final": "https://github.com/cedadev/stac-server"
+    },
+    {
+      "url": "https://github.com/chaozhong2010/VHR-10_dataset_nwpu",
+      "status": 404,
+      "final": "https://github.com/chaozhong2010/VHR-10_dataset_nwpu"
+    },
+    {
+      "url": "https://github.com/cwpdmc/NWPU-MOC",
+      "status": 404,
+      "final": "https://github.com/cwpdmc/NWPU-MOC"
+    },
+    {
+      "url": "https://github.com/cyh1118/NWPU-Crowd-Sample-Code",
+      "status": 404,
+      "final": "https://github.com/cyh1118/NWPU-Crowd-Sample-Code"
+    },
+    {
+      "url": "https://github.com/global-hydrodynamics/CaMa-Flood",
+      "status": 404,
+      "final": "https://github.com/global-hydrodynamics/CaMa-Flood"
+    },
+    {
+      "url": "https://github.com/google-deepmind/alphaearth-foundations",
+      "status": 404,
+      "final": "https://github.com/google-deepmind/alphaearth-foundations"
+    },
+    {
+      "url": "https://github.com/holmescao/DIOR",
+      "status": 404,
+      "final": "https://github.com/holmescao/DIOR"
+    },
+    {
+      "url": "https://github.com/jbarrere/prospect",
+      "status": 404,
+      "final": "https://github.com/jbarrere/prospect"
+    },
+    {
+      "url": "https://github.com/roipac",
+      "status": 404,
+      "final": "https://github.com/roipac"
+    },
+    {
+      "url": "https://github.com/rs-dl/MUA-SD",
+      "status": 404,
+      "final": "https://github.com/rs-dl/MUA-SD"
+    },
+    {
+      "url": "https://github.com/sdrabb/GRIST",
+      "status": 404,
+      "final": "https://github.com/sdrabb/GRIST"
+    },
+    {
+      "url": "https://github.com/search?q=dataset&type=repositories",
+      "status": 429,
+      "final": "https://github.com/search?q=dataset&type=repositories"
+    },
+    {
+      "url": "https://github.com/whu-luojun",
+      "status": 404,
+      "final": "https://github.com/whu-luojun"
+    },
+    {
+      "url": "https://github.com/xxx/xxx",
+      "status": 404,
+      "final": "https://github.com/xxx/xxx"
+    },
+    {
+      "url": "https://github.com/zmokaassa/LEVIR-CD-plus",
+      "status": 404,
+      "final": "https://github.com/zmokaassa/LEVIR-CD-plus"
+    },
+    {
+      "url": "https://idn.ceos.org/",
+      "status": 403,
+      "final": "https://ceos.org:443/idn"
+    },
+    {
+      "url": "https://leafmap.org/",
+      "status": 403,
+      "final": "https://leafmap.org/"
+    },
+    {
+      "url": "https://openalex.org/",
+      "status": 403,
+      "final": "https://openalex.org/"
+    },
+    {
+      "url": "https://pangeo.io/cloud.html",
+      "status": 404,
+      "final": "https://pangeo.io/cloud.html"
+    },
+    {
+      "url": "https://plos.org/data-availability/",
+      "status": 404,
+      "final": "https://plos.org/data-availability/"
+    },
+    {
+      "url": "https://portal.csdi.gov.hk/csdi-webpage/api",
+      "status": 404,
+      "final": "https://portal.csdi.gov.hk/csdi-webpage/api"
+    },
+    {
+      "url": "https://portal.csdi.gov.hk/csdi-webpage/dataset",
+      "status": 404,
+      "final": "https://portal.csdi.gov.hk/csdi-webpage/dataset"
+    },
+    {
+      "url": "https://publications.copernicus.org/\n  - ESSD: <https://essd.copernicus.org/",
+      "status": 404,
+      "final": "https://publications.copernicus.org/%0A%20%20-%20ESSD:%20%3Chttps://essd.copernicus.org/"
+    },
+    {
+      "url": "https://rmets.onlinelibrary.wiley.com/journal/20496060",
+      "status": 403,
+      "final": "https://rmets.onlinelibrary.wiley.com/journal/20496060"
+    },
+    {
+      "url": "https://search.datacite.org/",
+      "status": 429,
+      "final": "https://commons.datacite.org:443/"
+    },
+    {
+      "url": "https://search.datacite.org/works?query=remote+sensing",
+      "status": 429,
+      "final": "https://commons.datacite.org:443/"
+    },
+    {
+      "url": "https://universe.roboflow.com/",
+      "status": 403,
+      "final": "https://universe.roboflow.com/"
+    },
+    {
+      "url": "https://torchgeo.readthedocs.io/",
+      "status": 403,
+      "final": "https://docs.torchgeo.org/"
+    },
+    {
+      "url": "https://www.academia.edu/",
+      "status": 403,
+      "final": "https://www.academia.edu/"
+    },
+    {
+      "url": "https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-for-Authors",
+      "status": 403,
+      "final": "https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-for-Authors"
+    },
+    {
+      "url": "https://www.base-search.net/",
+      "status": 403,
+      "final": "https://www.base-search.net/"
+    },
+    {
+      "url": "https://www.brockmann-consult.de/sst/",
+      "status": 404,
+      "final": "https://www.brockmann-consult.de/sst/"
+    },
+    {
+      "url": "https://www.brockmann-consult.de/visat/",
+      "status": 404,
+      "final": "https://www.brockmann-consult.de/visat/"
+    },
+    {
+      "url": "https://www.cell.com/data-sharing",
+      "status": 403,
+      "final": "https://www.cell.com/data-sharing"
+    },
+    {
+      "url": "https://www.cgs.gov.cn/",
+      "status": 403,
+      "final": "https://www.cgs.gov.cn/"
+    },
+    {
+      "url": "https://www.ecmwf.int/en/forecasts/dataset/ecmwf-reanalysis-v5",
+      "status": 401,
+      "final": "https://www.ecmwf.int/en/forecasts/dataset/ecmwf-reanalysis-v5"
+    },
+    {
+      "url": "https://www.elsevier.com/authors/tools-and-resources/data-availability",
+      "status": 404,
+      "final": "https://www.elsevier.com/researcher/author/tools-and-resources/data-availability"
+    },
+    {
+      "url": "https://www.forestdata.cn/data/forest",
+      "status": 404,
+      "final": "https://www.forestdata.cn/data/forest"
+    },
+    {
+      "url": "https://www.gbif.org/",
+      "status": 403,
+      "final": "https://www.gbif.org/"
+    },
+    {
+      "url": "https://www.ga.gov.au/scientific-topics/national-location-information/dimensions/3d-data",
+      "status": 404,
+      "final": "https://www.ga.gov.au/scientific-topics/national-location-information/dimensions/3d-data"
+    },
+    {
+      "url": "https://www.geodata.cn/english",
+      "status": 404,
+      "final": "https://www.geodata.cn/english"
+    },
+    {
+      "url": "https://www.hko.gov.hk/tc/cis/solar.htm",
+      "status": 404,
+      "final": "https://www.hko.gov.hk/tc/cis/solar.htm"
+    },
+    {
+      "url": "https://www.hko.gov.hk/tc/cis/tide.htm",
+      "status": 404,
+      "final": "https://www.hko.gov.hk/tc/cis/tide.htm"
+    },
+    {
+      "url": "https://www.hko.gov.hk/tc/informtc/tcTrack/tcHistory.htm",
+      "status": 404,
+      "final": "https://www.hko.gov.hk/tc/informtc/tcTrack/tcHistory.htm"
+    },
+    {
+      "url": "https://www.hko.gov.hk/tc/display.htm",
+      "status": 404,
+      "final": "https://www.hko.gov.hk/tc/display.htm"
+    },
+    {
+      "url": "https://www.hko.gov.hk/tc/wxinfo/llis/index.htm",
+      "status": 404,
+      "final": "https://www.hko.gov.hk/tc/wxinfo/llis/index.htm"
+    },
+    {
+      "url": "https://www.hko.gov.hk/tc/wxinfo/uvindex/uvic.htm",
+      "status": 404,
+      "final": "https://www.hko.gov.hk/tc/wxinfo/uvindex/uvic.htm"
+    },
+    {
+      "url": "https://www.iceye.com/data/datasets",
+      "status": 404,
+      "final": "https://www.iceye.com/data/datasets"
+    },
+    {
+      "url": "https://www.iucnredlist.org/",
+      "status": 403,
+      "final": "https://www.iucnredlist.org/"
+    },
+    {
+      "url": "https://www.jma.go.jp/bosai/himawari/",
+      "status": 404,
+      "final": "https://www.jma.go.jp/bosai/himawari/"
+    },
+    {
+      "url": "https://www.jma.go.jp/jma/jma-eng/jma-center/data-utilization.html",
+      "status": 404,
+      "final": "https://www.jma.go.jp/jma/jma-eng/jma-center/data-utilization.html"
+    },
+    {
+      "url": "https://www.journals.elsevier.com/data-in-brief",
+      "status": 403,
+      "final": "https://www.sciencedirect.com/journal/data-in-brief"
+    },
+    {
+      "url": "https://www.lens.org/",
+      "status": 403,
+      "final": "https://www.lens.org/"
+    },
+    {
+      "url": "https://www.mdpi.com/ethics#_bookmark18",
+      "status": 403,
+      "final": "https://www.mdpi.com/ethics#_bookmark18"
+    },
+    {
+      "url": "https://www.mdpi.com/journal/remotesensing",
+      "status": 403,
+      "final": "https://www.mdpi.com/journal/remotesensing"
+    },
+    {
+      "url": "https://www.mdpi.com/journal/data",
+      "status": 403,
+      "final": "https://www.mdpi.com/journal/data"
+    },
+    {
+      "url": "https://www.mendeley.com/",
+      "status": 403,
+      "final": "https://www.mendeley.com/"
+    },
+    {
+      "url": "https://www.mohurd.gov.cn/gongkai/zhengce/zhengcefilelib/202205/20220525_765702.html",
+      "status": 404,
+      "final": "https://www.mohurd.gov.cn/gongkai/zhengce/zhengcefilelib/202205/20220525_765702.html"
+    },
+    {
+      "url": "https://www.metoffice.gov.uk/hadleycentre/data",
+      "status": 404,
+      "final": "https://www.metoffice.gov.uk/hadleycentre/data"
+    },
+    {
+      "url": "https://www.nasa.gov/missions/mars-2020-perseverance/ai4mars/",
+      "status": 404,
+      "final": "https://www.nasa.gov/missions/mars-2020-perseverance/ai4mars/"
+    },
+    {
+      "url": "https://www.ncei.noaa.gov/access/world-data-services",
+      "status": 404,
+      "final": "https://www.ncei.noaa.gov/access/world-data-services"
+    },
+    {
+      "url": "https://www.nature.com/articles/s41597-022-01315-2",
+      "status": 404,
+      "final": "https://www.nature.com/articles/s41597-022-01315-2"
+    },
+    {
+      "url": "https://www.researchgate.net/",
+      "status": 403,
+      "final": "https://www.researchgate.net/"
+    },
+    {
+      "url": "https://www.science.org/page/science-data-deposition",
+      "status": 403,
+      "final": "https://www.science.org/page/science-data-deposition"
+    },
+    {
+      "url": "https://www.roscosmos.ru/",
+      "status": 403,
+      "final": "https://www.roscosmos.ru/"
+    },
+    {
+      "url": "https://www.smg.gov.mo/smg/openData",
+      "status": 404,
+      "final": "https://www.smg.gov.mo/smg/openData"
+    },
+    {
+      "url": "https://www.smg.gov.mo/smg/climateTrack/climateTrack",
+      "status": 404,
+      "final": "https://www.smg.gov.mo/smg/climateTrack/climateTrack"
+    },
+    {
+      "url": "https://www.usgs.gov/software/modflow-6-usgs-three-dimensional-groundwater-flow-model",
+      "status": 404,
+      "final": "https://www.usgs.gov/software/modflow-6-usgs-three-dimensional-groundwater-flow-model"
+    },
+    {
+      "url": "https://www.worldcat.org/",
+      "status": 403,
+      "final": "https://search.worldcat.org/"
+    }
+  ],
+  "server_error": [
+    {
+      "url": "http://english.tpdc.ac.cn/",
+      "status": 502,
+      "final": "http://english.tpdc.ac.cn/"
+    },
+    {
+      "url": "http://geodata.cgs.gov.cn/GeoData",
+      "status": 502,
+      "final": "http://geodata.cgs.gov.cn/GeoData"
+    },
+    {
+      "url": "http://www.c21st.com.cn/",
+      "status": 502,
+      "final": "http://www.c21st.com.cn/"
+    },
+    {
+      "url": "http://www.cgsdr.com.cn/",
+      "status": 502,
+      "final": "http://www.cgsdr.com.cn/"
+    },
+    {
+      "url": "http://www.chaohu-1.cn/",
+      "status": 502,
+      "final": "http://www.chaohu-1.cn/"
+    },
+    {
+      "url": "http://www.cvh.org.cn/",
+      "status": 502,
+      "final": "http://www.cvh.org.cn/"
+    },
+    {
+      "url": "http://www.deas.ac.cn/",
+      "status": 502,
+      "final": "http://www.deas.ac.cn/"
+    },
+    {
+      "url": "http://www.cnsageo.com/",
+      "status": 503,
+      "final": "http://www.cnsageo.com/"
+    },
+    {
+      "url": "http://www.haistarsat.com.cn/",
+      "status": 502,
+      "final": "http://www.haistarsat.com.cn/"
+    },
+    {
+      "url": "http://www.hydrodata.gov.cn/",
+      "status": 502,
+      "final": "http://www.hydrodata.gov.cn/"
+    },
+    {
+      "url": "http://www.rscloudmart.com/",
+      "status": 502,
+      "final": "http://www.rscloudmart.com/"
+    },
+    {
+      "url": "http://www.nwibcas.ac.cn/",
+      "status": 502,
+      "final": "http://www.nwibcas.ac.cn/"
+    },
+    {
+      "url": "http://218.247.138.119:7777/DSSPlatform/productSearch.html",
+      "status": 502,
+      "final": "http://218.247.138.119:7777/DSSPlatform/productSearch.html"
+    },
+    {
+      "url": "http://36.112.130.153:7777/DSSPlatform/productSearch.html",
+      "status": 502,
+      "final": "http://36.112.130.153:7777/DSSPlatform/productSearch.html"
+    },
+    {
+      "url": "http://geocloud.cgs.gov.cn/",
+      "status": 502,
+      "final": "http://geocloud.cgs.gov.cn/"
+    },
+    {
+      "url": "http://www.stee.moa.gov.cn/",
+      "status": 502,
+      "final": "http://www.stee.moa.gov.cn/"
+    },
+    {
+      "url": "http://www.ngac.org.cn/",
+      "status": 502,
+      "final": "http://www.ngac.org.cn/"
+    },
+    {
+      "url": "https://cdiac.ess-dive.lbl.gov/",
+      "status": 530,
+      "final": "https://cdiac.ess-dive.lbl.gov/"
+    },
+    {
+      "url": "https://www.eso.org/",
+      "status": 500,
+      "final": "https://www.eso.org/public/"
+    }
+  ],
+  "timeout": [
+    {
+      "url": "http://fvcom.smast.umassd.edu/"
+    },
+    {
+      "url": "http://rs.cern.ac.cn/"
+    },
+    {
+      "url": "http://www.cnern.org.cn/"
+    },
+    {
+      "url": "https://azure.microsoft.com/en-us/products/ai-services/open-datasets"
+    },
+    {
+      "url": "https://gmd.copernicus.org/"
+    },
+    {
+      "url": "https://hess.copernicus.org/"
+    },
+    {
+      "url": "https://iasc.info/"
+    },
+    {
+      "url": "https://intake.readthedocs.io/"
+    },
+    {
+      "url": "https://jules.jchmr.org/"
+    },
+    {
+      "url": "https://meteofrance.com/"
+    },
+    {
+      "url": "https://mitgcm.org/"
+    },
+    {
+      "url": "https://sedac.ciesin.columbia.edu/"
+    },
+    {
+      "url": "https://step.esa.int/main/toolboxes/snap/"
+    },
+    {
+      "url": "https://www.avl.class.noaa.gov/saa/products/welcome"
+    },
+    {
+      "url": "https://www.antarctica.gov.au/"
+    },
+    {
+      "url": "https://www.canada.ca/en/environment-climate-change.html"
+    },
+    {
+      "url": "https://www.eumetsat.int/"
+    },
+    {
+      "url": "https://www.kasi.re.kr/eng/"
+    },
+    {
+      "url": "https://www.planet.com/"
+    },
+    {
+      "url": "https://www.planet.com/markets/education-and-research/"
+    }
+  ],
+  "connection_error": [
+    {
+      "url": "http://6s.ltdri.org/"
+    },
+    {
+      "url": "http://www.inpe.br/"
+    },
+    {
+      "url": "https://aarse-africa.org/"
+    },
+    {
+      "url": "http://xarray.pydata.org/"
+    },
+    {
+      "url": "https://airflow.apache.org/"
+    },
+    {
+      "url": "https://air.cnemc.cn:8066/"
+    },
+    {
+      "url": "https://bcc.cma.gov.cn/"
+    },
+    {
+      "url": "https://data-starcloud.tpdc.ac.cn/"
+    },
+    {
+      "url": "https://data.wri.org/"
+    },
+    {
+      "url": "https://earthdata.nasa.gov/eosdis/daacs/nsidc"
+    },
+    {
+      "url": "https://doi.org/10.5281/zenodo.3939038"
+    },
+    {
+      "url": "https://earthdata.nasa.gov/"
+    },
+    {
+      "url": "https://doi.org/10.5281/zenodo.7609994"
+    },
+    {
+      "url": "https://downloads.greyc.fr/vedai/"
+    },
+    {
+      "url": "https://doi.org/10.5281/zenodo.14009546"
+    },
+    {
+      "url": "https://doi.org/10.5281/zenodo.7512467"
+    },
+    {
+      "url": "https://doi.org/10.5281/zenodo.7711810"
+    },
+    {
+      "url": "https://doi.org/10.5067/MEASURES/NASADEM/NASADEM_HGT.001"
+    },
+    {
+      "url": "https://ese.sysu.edu.cn/"
+    },
+    {
+      "url": "https://geo.nwu.edu.cn/"
+    },
+    {
+      "url": "https://geography.nju.edu.cn/"
+    },
+    {
+      "url": "https://gaw.kishou.go.jp/"
+    },
+    {
+      "url": "https://giovanni.gsfc.nasa.gov/"
+    },
+    {
+      "url": "https://gml.noaa.gov/"
+    },
+    {
+      "url": "https://global-surface-water.appspot.com/"
+    },
+    {
+      "url": "https://huggingface.co/datasets"
+    },
+    {
+      "url": "https://huggingface.co/ibm-nasa-geospatial"
+    },
+    {
+      "url": "https://ieee-dataport.org/"
+    },
+    {
+      "url": "https://kosc.kiost.ac.kr/eng/"
+    },
+    {
+      "url": "https://jra.kishou.go.jp/"
+    },
+    {
+      "url": "https://ksat.kari.re.kr/"
+    },
+    {
+      "url": "https://opendata.cwa.gov.tw/"
+    },
+    {
+      "url": "https://opendata.cwa.gov.tw/dataset/observation/O-A0001-001"
+    },
+    {
+      "url": "https://nwpc.nmc.cn/"
+    },
+    {
+      "url": "https://orchidas.lsce.ipsl.fr/"
+    },
+    {
+      "url": "https://oneatlas.airbus.com/"
+    },
+    {
+      "url": "https://planet.iitp.ru/"
+    },
+    {
+      "url": "https://scihub.copernicus.eu/"
+    },
+    {
+      "url": "https://sobloo.eu/"
+    },
+    {
+      "url": "https://water.cnemc.cn:10001/"
+    },
+    {
+      "url": "https://water.cnemc.cn:8068/IWPDW/"
+    },
+    {
+      "url": "https://www.adspacetec.com/"
+    },
+    {
+      "url": "https://www.agrs.cn/"
+    },
+    {
+      "url": "https://www.asc-csa.gc.ca/eng/"
+    },
+    {
+      "url": "https://www.caep.org.cn/"
+    },
+    {
+      "url": "https://www.cea-igp.ac.cn/"
+    },
+    {
+      "url": "https://www.cgswater.cn/"
+    },
+    {
+      "url": "https://www.chinacoal-safety.gov.cn/"
+    },
+    {
+      "url": "https://www.crensed.ac.cn/"
+    },
+    {
+      "url": "https://www.crensed.ac.cn/portal/metadata/"
+    },
+    {
+      "url": "https://www.cresda.com/CN/"
+    },
+    {
+      "url": "https://www.csdata.org/"
+    },
+    {
+      "url": "https://www.cwa.gov.tw/"
+    },
+    {
+      "url": "https://www.cwa.gov.tw/V8/C/C/Statistics.html"
+    },
+    {
+      "url": "https://www.cwa.gov.tw/V8/C/K/FS7.html"
+    },
+    {
+      "url": "https://www.cwa.gov.tw/V8/C/K/aqi.html"
+    },
+    {
+      "url": "https://www.cosmo-skymed.it/"
+    },
+    {
+      "url": "https://www.cwa.gov.tw/V8/C/K/seismic.html"
+    },
+    {
+      "url": "https://www.cwa.gov.tw/V8/C/K/tsunami.html"
+    },
+    {
+      "url": "https://www.cwa.gov.tw/V8/C/K/typhoon.html"
+    },
+    {
+      "url": "https://www.cwa.gov.tw/V8/C/O/R/RAD_Map.html"
+    },
+    {
+      "url": "https://www.cwa.gov.tw/V8/C/OBS.html"
+    },
+    {
+      "url": "https://www.cwa.gov.tw/V8/C/S/satellite.html"
+    },
+    {
+      "url": "https://www.eq-igl.ac.cn/"
+    },
+    {
+      "url": "https://www.ess.tsinghua.edu.cn/"
+    },
+    {
+      "url": "https://www.frontiersin.org/guidelines/policies-and-publication-ethics"
+    },
+    {
+      "url": "https://www.dwd.de/"
+    },
+    {
+      "url": "https://www.globalfiredata.org/"
+    },
+    {
+      "url": "https://www.dlr.de/"
+    },
+    {
+      "url": "https://www.higlass.net.cn/"
+    },
+    {
+      "url": "https://www.higlass.net.cn/data/albedo"
+    },
+    {
+      "url": "https://www.higlass.net.cn/data/et"
+    },
+    {
+      "url": "https://www.higlass.net.cn/data/fire"
+    },
+    {
+      "url": "https://www.higlass.net.cn/data/fpar"
+    },
+    {
+      "url": "https://www.higlass.net.cn/data/gpp"
+    },
+    {
+      "url": "https://www.gns.cri.nz/"
+    },
+    {
+      "url": "https://www.higlass.net.cn/data/lai"
+    },
+    {
+      "url": "https://www.higlass.net.cn/data/lst"
+    },
+    {
+      "url": "https://www.higlass.net.cn/data/radiation"
+    },
+    {
+      "url": "https://www.globallakes.org/"
+    },
+    {
+      "url": "https://www.higlass.net.cn/data/sm"
+    },
+    {
+      "url": "https://www.higlass.net.cn/data/snow"
+    },
+    {
+      "url": "https://www.iap.cas.cn/"
+    },
+    {
+      "url": "https://www.gov.uk/government/organisations/uk-space-agency"
+    },
+    {
+      "url": "https://www.getdbt.com/"
+    },
+    {
+      "url": "https://www.geoportal.org/"
+    },
+    {
+      "url": "https://www.iap.cas.cn/kyjyyj/"
+    },
+    {
+      "url": "https://www.igsnrr.cas.cn/"
+    },
+    {
+      "url": "https://www.iea.org/"
+    },
+    {
+      "url": "https://www.itpcas.cas.cn/"
+    },
+    {
+      "url": "https://www.isro.gov.in/"
+    },
+    {
+      "url": "https://www.icimod.org/"
+    },
+    {
+      "url": "https://www.icon-model.org/"
+    },
+    {
+      "url": "https://www.l3harrisgeospatial.com/"
+    },
+    {
+      "url": "https://www.lasg.iap.cas.cn/"
+    },
+    {
+      "url": "https://www.marswhu.cn/"
+    },
+    {
+      "url": "https://www.lmars.whu.edu.cn/"
+    },
+    {
+      "url": "https://www.lifewatch.eu/"
+    },
+    {
+      "url": "https://www.ncei.noaa.gov/"
+    },
+    {
+      "url": "https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily"
+    },
+    {
+      "url": "https://www.ncei.noaa.gov/products/weather-climate-models/global-forecast"
+    },
+    {
+      "url": "https://www.ncei.noaa.gov/products/weather-climate-models/north-american-mesoscale"
+    },
+    {
+      "url": "https://www.nceo.ca/"
+    },
+    {
+      "url": "https://www.ncep.noaa.gov/"
+    },
+    {
+      "url": "https://www.mosdac.gov.in/"
+    },
+    {
+      "url": "https://www.onda-dias.eu/"
+    },
+    {
+      "url": "https://www.openatcs.org/"
+    },
+    {
+      "url": "https://www.ndaccdemo.org/"
+    },
+    {
+      "url": "https://www.pltzy.edu.cn/"
+    },
+    {
+      "url": "https://www.pmo.cas.cn/"
+    },
+    {
+      "url": "https://www.scib.ac.cn/"
+    },
+    {
+      "url": "https://www.secmep.cn/"
+    },
+    {
+      "url": "https://www.sgcc.com.cn/"
+    },
+    {
+      "url": "https://www.scopus.com/"
+    },
+    {
+      "url": "https://www.rcmrd.org/"
+    },
+    {
+      "url": "https://www.nrcan.gc.ca/earth-sciences/geomatics/satellite-imagery-air-photos/10829"
+    },
+    {
+      "url": "https://www.veda.earthengine.app/"
+    },
+    {
+      "url": "https://www.watergap.de/"
+    },
+    {
+      "url": "https://www.xism.ac.cn/"
+    },
+    {
+      "url": "https://www.wdc-systems.org/"
+    },
+    {
+      "url": "https://www.tern.org.au/"
+    }
+  ],
+  "other": []
+}

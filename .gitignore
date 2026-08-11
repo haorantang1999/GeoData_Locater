@@ -38,3 +38,20 @@ desktop.ini
 
 # 系统 / 部署临时
 website/  # 旧子目录（已移走）
+
+# Mavis 调试残留（下划线前缀 = 临时文件，不入库）
+_*.py
+_*.log
+_*.html
+_*.json
+_*.bat
+_*.txt
+!url_check_result.json
+
+# 临时浏览器截屏 (README 引用 png)
+assets/screenshot-*.jpg
+
+# 一次性运行脚本
+run_check.bat
+url_check.log
+
