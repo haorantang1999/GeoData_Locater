@@ -1,7 +1,7 @@
 // 自动生成于 parse_md.py - 国内外遥感数据网站合集
 window.SITE_DATA = {
   "title": "国内外地理遥感数据网站合集",
-  "subtitle": "173 个平台 · 1730 个数据集 · 13 个主题部分",
+  "subtitle": "181 个平台 · 1810 个数据集 · 14 个主题部分",
   "sections": [
     {
       "key": "第一部分",
@@ -14227,6 +14227,681 @@ window.SITE_DATA = {
             {
               "url": "https://www.pixxel.space/",
               "label": "- Pixxel (印)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "第十四部分",
+      "title": "第十四部分：2026-09 微信截图新增补充",
+      "anchor": "section-第十四部分",
+      "items": [
+        {
+          "num": "173",
+          "title": "国家地理信息公共服务平台（天地图 Tianditu）— 第三部分延伸",
+          "anchor": "item-173",
+          "url": "https://www.tianditu.gov.cn/",
+          "operator": "自然资源部 → 国家基础地理信息中心 → 天地图有限公司",
+          "intro": "",
+          "features": "**中国唯一国家级权威地理信息综合服务平台**,聚合全国 300+ 地级市矢量地图、影像地图、地形图、地名地址;WMTS/WMS/WFS 标准 OGC 接口 + JavaScript SDK 全部免费开放;2011 年起运行,日均 API 调用 10 亿+ 次;**论文制图 / 项目底图的事实标准**。",
+          "landmark": "**中国全境矢量地图（CGCS2000 / Web Mercator）**：包含国界/省界/市界/县界/乡镇界 5 级行政区划;**全国 0.5-2m 分辨率影像地图（DOM）**：亚米级卫星影像镶嵌;**天地图全球矢量瓦片**（含全球国界/主要城市/水系/道路）",
+          "datasets": [
+            {
+              "idx": 1,
+              "name": "全国矢量地图（CGCS2000）",
+              "desc": "— <https://lbs.tianditu.gov.cn/server/map.html>",
+              "url": "https://lbs.tianditu.gov.cn/server/map.html"
+            },
+            {
+              "idx": 2,
+              "name": "全国影像地图（DOM 0.5-2m）",
+              "desc": "— <https://lbs.tianditu.gov.cn/server/map.html>",
+              "url": "https://lbs.tianditu.gov.cn/server/map.html"
+            },
+            {
+              "idx": 3,
+              "name": "全国地形晕渲图",
+              "desc": "— <https://lbs.tianditu.gov.cn/server/map.html>",
+              "url": "https://lbs.tianditu.gov.cn/server/map.html"
+            },
+            {
+              "idx": 4,
+              "name": "全球矢量地图（中英文双语）",
+              "desc": "— <https://lbs.tianditu.gov.cn/>",
+              "url": "https://lbs.tianditu.gov.cn/"
+            },
+            {
+              "idx": 5,
+              "name": "地名地址服务（POI 6000 万+）",
+              "desc": "— <https://lbs.tianditu.gov.cn/>",
+              "url": "https://lbs.tianditu.gov.cn/"
+            },
+            {
+              "idx": 6,
+              "name": "天地图 JavaScript API 4.0（开源）",
+              "desc": "— <https://github.com/TiandituAPI/jsapi-4.0>",
+              "url": "https://github.com/TiandituAPI/jsapi-4.0"
+            },
+            {
+              "idx": 7,
+              "name": "行政区划边界（省/市/县/乡 4 级）",
+              "desc": "— <https://lbs.tianditu.gov.cn/>",
+              "url": "https://lbs.tianditu.gov.cn/"
+            },
+            {
+              "idx": 8,
+              "name": "历史影像（2012-至今逐年快照）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 9,
+              "name": "专题图层：人口/经济/灾害/交通/旅游",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 10,
+              "name": "天地图移动端 SDK（iOS / Android）",
+              "desc": "",
+              "url": ""
+            }
+          ],
+          "sub_links": [
+            {
+              "url": "https://www.tianditu.gov.cn/",
+              "label": "- 主页"
+            },
+            {
+              "url": "https://lbs.tianditu.gov.cn/",
+              "label": "- API/开发者"
+            },
+            {
+              "url": "https://t{0-7}.tianditu.gov.cn/",
+              "label": "- WMTS/WMS/WFS 接口"
+            }
+          ]
+        },
+        {
+          "num": "174",
+          "title": "国家统计局（NBS China）— 第十二部分延伸",
+          "anchor": "item-174",
+          "url": "http://www.stats.gov.cn/",
+          "operator": "中华人民共和国国家统计局",
+          "intro": "",
+          "features": "**中国官方综合统计数据的唯一权威源**,涵盖人口 / GDP / 产业 / 能源 / 环境 / 就业 / 收入 / 教育 / 卫生 70+ 年长时序;`data.stats.gov.cn` 提供 JSON/XML 机器可读 API;**第七次人口普查（2020）** 与 **第五/六次经济普查** 1km 网格化产品是遥感-社会经济耦合论文**首选**。**与 World Bank / UN / OECD 同等地位**的官方数据源。",
+          "landmark": "**中国 70 年统计年鉴数据集（1949-2024）**：全国 / 省 / 市 / 县 4 级行政区 50+ 指标年度数据;**中国人口普查长表/短表数据（1953/1964/1982/1990/2000/2010/2020 共 7 次）**：含人口结构、就业、迁移、教育;**国家统计数据库 1km 网格化产品（GDP/人口）**：与遥感影像像元级耦合",
+          "datasets": [
+            {
+              "idx": 1,
+              "name": "中国统计年鉴（1949-2024）",
+              "desc": "— <https://www.stats.gov.cn/sj/ndsj/>",
+              "url": "https://www.stats.gov.cn/sj/ndsj/"
+            },
+            {
+              "idx": 2,
+              "name": "第七次全国人口普查（2020）",
+              "desc": "— <https://www.stats.gov.cn/sj/pcsj/rkpc/6rp/indexch.htm>",
+              "url": "https://www.stats.gov.cn/sj/pcsj/rkpc/6rp/indexch.htm"
+            },
+            {
+              "idx": 3,
+              "name": "国家统计数据库（data.stats.gov.cn）",
+              "desc": "— <https://data.stats.gov.cn/>",
+              "url": "https://data.stats.gov.cn/"
+            },
+            {
+              "idx": 4,
+              "name": "中国县域社会经济统计数据库（2000+ 县区 50+ 年）",
+              "desc": "— <https://data.stats.gov.cn/>",
+              "url": "https://data.stats.gov.cn/"
+            },
+            {
+              "idx": 5,
+              "name": "中国分省/分市/分县 GDP 1990-2024",
+              "desc": "— <https://data.stats.gov.cn/easyquery.htm?cn=E0102>",
+              "url": "https://data.stats.gov.cn/easyquery.htm?cn=E0102"
+            },
+            {
+              "idx": 6,
+              "name": "中国人口 1km 网格化产品（2020 七普）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 7,
+              "name": "中国能源生产/消费长时序（1949-2024）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 8,
+              "name": "中国环境统计年鉴（2000-2024）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 9,
+              "name": "中国工业 / 农业 / 服务业 50+ 行业 70 年时序",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 10,
+              "name": "中国城市建设统计年鉴（含建成区/绿化/交通/给排水）",
+              "desc": "",
+              "url": ""
+            }
+          ],
+          "sub_links": [
+            {
+              "url": "http://www.stats.gov.cn/",
+              "label": "- 主页"
+            },
+            {
+              "url": "https://data.stats.gov.cn/",
+              "label": "//www.stats.gov.cn/> - 数据查询"
+            },
+            {
+              "url": "https://data.stats.gov.cn/staticreq.htm",
+              "label": "- API"
+            }
+          ]
+        },
+        {
+          "num": "175",
+          "title": "联合国全球地理信息管理专家委员会（UN-GGIM）— 第七部分延伸",
+          "anchor": "item-175",
+          "url": "https://ggim.un.org/",
+          "operator": "联合国经济和社会事务部（UN DESA）→ UN-GGIM 秘书处",
+          "intro": "",
+          "features": "**全球地理信息最高级别政府间协调机构**,2011 年成立,150+ 成员国 + 数十个国际组织;**IGIF（Integrated Geospatial Information Framework）** 是各国国家地理信息基础设施建设的战略指南;**GSGF** 统一了统计与地理信息融合的国际标准;**中国（自然资源部）+ 美国（FGDC）+ 欧盟（INSPIRE）** 等都是其成员。",
+          "landmark": "**IGIF 实施指南 9 大战略路径**（治理/制度/技术/人员/资金等）：各国国家测绘局的战略路线图;**GSGF 全球 5 原则框架**：人/地点/时间/数据/方法学;**UN-GGIM 高层组报告（土地/水/气候/灾害/SDG）**：SDG 指标地理化的权威参考",
+          "datasets": [
+            {
+              "idx": 1,
+              "name": "IGIF Overarching Strategic Framework",
+              "desc": "— <https://ggim.un.org/IGIF/>",
+              "url": "https://ggim.un.org/IGIF/"
+            },
+            {
+              "idx": 2,
+              "name": "IGIF Implementation Guide 9 路径详细说明",
+              "desc": "— <https://ggim.un.org/IGIF/>",
+              "url": "https://ggim.un.org/IGIF/"
+            },
+            {
+              "idx": 3,
+              "name": "GSGF Principle Document 5 原则",
+              "desc": "— <https://ggim.un.org/GSGF/>",
+              "url": "https://ggim.un.org/GSGF/"
+            },
+            {
+              "idx": 4,
+              "name": "UN-GGIM 2019-2030 战略方向",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 5,
+              "name": "Global Fundamental Geospatial Data Themes 14 大主题",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 6,
+              "name": "UN-GGIM 区域委员会报告（亚太/欧洲/美洲/非洲/阿拉伯）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 7,
+              "name": "UN-IGIF-Hydro 水利行业 IGIF 框架",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 8,
+              "name": "UN-IGIF-Disaster 灾害行业 IGIF 框架",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 9,
+              "name": "SDG 指标地理化操作手册",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 10,
+              "name": "UN-GGIM 私营部门 / 学术网络 / 联合国系统协同指南",
+              "desc": "",
+              "url": ""
+            }
+          ],
+          "sub_links": [
+            {
+              "url": "https://ggim.un.org/",
+              "label": "- 主页"
+            },
+            {
+              "url": "https://ggim.un.org/IGIF/",
+              "label": "- IGIF（综合地理信息框架）"
+            },
+            {
+              "url": "https://ggim.un.org/GSGF/",
+              "label": "- GSGF（全球统计地理空间框架）"
+            }
+          ]
+        },
+        {
+          "num": "176",
+          "title": "厦门市大数据安全开放平台 — 第十二部分延伸",
+          "anchor": "item-176",
+          "url": "https://data.xm.gov.cn/",
+          "operator": "厦门市工业和信息化局（厦门市大数据管理局）指导，厦门市信息中心建设运营",
+          "intro": "",
+          "features": "**国内\"政府数据开放平台\"代表**,涵盖人口/企业/信用/交通/医疗/公共安全 50+ 类;部分数据集提供脱敏 JSON / CSV / API 实时访问;**上海 / 北京 / 深圳 / 广州 / 杭州** 均有同类平台,是城市群研究、政务大数据 SCI 论文数据源。",
+          "landmark": "**厦门共享单车 / 地铁 / 公交实时 GPS 数据**：城市级交通 GIS 研究的代表;**厦门企业信用 / 工商注册数据**：城市经济地理学辅助;**厦门气象 / 台风 / 暴雨预警数据**：与 data.cma.cn 互补的城市级高频数据",
+          "datasets": [
+            {
+              "idx": 1,
+              "name": "共享单车实时轨迹数据（厦门）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 2,
+              "name": "地铁 / 公交实时 GPS + 客流数据",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 3,
+              "name": "出租车 GPS 轨迹 + 订单数据",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 4,
+              "name": "公共停车场实时泊位数据",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 5,
+              "name": "空气质量（PM2.5/PM10/NO2/O3/SO2/CO）小时值",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 6,
+              "name": "城市积水点 / 内涝点 GIS 数据",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 7,
+              "name": "企业工商注册 + 信用公示数据",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 8,
+              "name": "旅游景区实时游客密度",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 9,
+              "name": "学校 / 医院 / 公园等公共服务设施 POI",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 10,
+              "name": "市政府公报 / 统计公报 / 重大决策事项",
+              "desc": "",
+              "url": ""
+            }
+          ],
+          "sub_links": [
+            {
+              "url": "https://data.xm.gov.cn/",
+              "label": "- 主页"
+            }
+          ]
+        },
+        {
+          "num": "177",
+          "title": "ArcGIS Online 中国（Esri Living Atlas China）— 第十三部分延伸",
+          "anchor": "item-177",
+          "url": "https://www.arcgisonline.cn/",
+          "operator": "易智瑞（中国）信息技术有限公司（Esri China）",
+          "intro": "",
+          "features": "**Esri 中国官方 ArcGIS Online 服务节点**,含 Living Atlas 中国专题图层（中国边界、行政区划、人口、夜光、土地利用、气象、灾害等）;**含官方高德 / HERE / TomTom 矢量瓦片中国版**;提供 REST API + Python API + ArcGIS Pro / Online 集成;**国内最完整的商业化在线地图与空间分析平台**。",
+          "landmark": "**中国全国行政区划边界（省/市/县/乡 4 级，GeoJSON / SHP）**：年度更新;**中国全国人口 1km / 100m / 30m 网格（来自 WorldPop / 资源公报）**;**Living Atlas 全球影像 / 地形 / 土地覆被图层（中国区域）**",
+          "datasets": [
+            {
+              "idx": 1,
+              "name": "中国行政区划边界（4 级）",
+              "desc": "— <https://www.arcgisonline.cn/>",
+              "url": "https://www.arcgisonline.cn/"
+            },
+            {
+              "idx": 2,
+              "name": "中国影像底图（高德/HERE/TomTok 瓦片）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 3,
+              "name": "中国地形晕渲图 + DEM",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 4,
+              "name": "全国 POI（6000 万+）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 5,
+              "name": "全国实时交通（拥堵/管制/施工）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 6,
+              "name": "全国人口 1km / 100m 网格",
+              "desc": "（来自 WorldPop）",
+              "url": ""
+            },
+            {
+              "idx": 7,
+              "name": "全国土地覆被 30m（FROM-GLC 衍生）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 8,
+              "name": "中国夜光遥感月度合成",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 9,
+              "name": "中国气象（温度/降水/风）实时叠加",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 10,
+              "name": "ArcGIS REST API + Python API（`arcpy` / `arcgis`）",
+              "desc": "",
+              "url": ""
+            }
+          ],
+          "sub_links": [
+            {
+              "url": "https://www.arcgisonline.cn/",
+              "label": "- 主页"
+            },
+            {
+              "url": "https://livingatlas.arcgis.com/China",
+              "label": "- Living Atlas 中国"
+            },
+            {
+              "url": "https://www.webmap.cn/",
+              "label": "- 全国地理信息资源目录服务系统（基础版）"
+            }
+          ]
+        },
+        {
+          "num": "178",
+          "title": "NASA GPM（Global Precipitation Measurement）单独入口 — 第二部分延伸",
+          "anchor": "item-178",
+          "url": "https://gpm.nasa.gov/",
+          "operator": "NASA Goddard Space Flight Center + JAXA（TRMM 后续任务）",
+          "intro": "",
+          "features": "**TRMM 任务的继任者**,2014 年发射 GPM Core Observatory（搭载 DPR 双频降水雷达 + GMI 多通道微波成像仪）;联合 10+ 国际伙伴卫星（NOAA / EUMETSAT / ISRO / CNES / DMSP 等）构建**全球联合降水星座**;提供 **IMERG**（半小时 0.1° 全球降水）、**GPM DPR Ku/Ka**、**GMI**、**CORRA** 等多产品。",
+          "landmark": "**GPM IMERG v07 Late Run（半小时 0.1° 全球降水）**：2000-至今;**GPM IMERG Final Run（每月 0.1° 全球降水）**：精度最高版本;**GPM DPR Ku-band 2D 反射率**：三维降水结构",
+          "datasets": [
+            {
+              "idx": 1,
+              "name": "GPM IMERG V07 Final Run L3 半小时 0.1°",
+              "desc": "— <https://disc.gsfc.nasa.gov/datasets?keywords=IMERG>",
+              "url": "https://disc.gsfc.nasa.gov/datasets?keywords=IMERG"
+            },
+            {
+              "idx": 2,
+              "name": "GPM IMERG V07 Early / Late Run 半小时 0.1° 近实时",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 3,
+              "name": "GPM DPR Ku/Ka 1.5km 雷达反射率",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 4,
+              "name": "GPM GMI 多通道亮温（10-183 GHz）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 5,
+              "name": "GPM CORRA 联合反演（4km/0.1°）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 6,
+              "name": "TRMM 3B42 0.25° 3 小时降水（1998-2020 延续数据）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 7,
+              "name": "GPM 全球 0.1° 1 月 / 1 季 / 1 年降水累计",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 8,
+              "name": "GSMaP（ JAXA 联合产品）0.1° 1 小时",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 9,
+              "name": "CMORPH（NOAA 联合产品）0.07° 30 分钟",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 10,
+              "name": "GPM 全球降水气候态（GPCP 衔接）",
+              "desc": "",
+              "url": ""
+            }
+          ],
+          "sub_links": [
+            {
+              "url": "https://gpm.nasa.gov/",
+              "label": "- 主页"
+            },
+            {
+              "url": "https://gpm.nasa.gov/data/directory",
+              "label": "- 数据目录"
+            },
+            {
+              "url": "https://disc.gsfc.nasa.gov/",
+              "label": "- 数据下载"
+            }
+          ]
+        },
+        {
+          "num": "179",
+          "title": "Awesome Public Datasets — 第十部分延伸",
+          "anchor": "item-179",
+          "url": "https://github.com/awesomedata/awesome-public-datasets",
+          "operator": "AwesomeData 开源社区（GitHub 100k+ stars）",
+          "intro": "",
+          "features": "**GitHub 上最知名的\"公开数据集\"汇总仓库**,按主题分类（农业 / 生物 / 气候 / 地理 / 政府 / 健康 / 图像 / 机器学习 / 社会科学 / 物理 / 体育 / 时间序列等 30+ 主题）,含 **1000+ 公开数据集链接**;**许多数据集带 DOI**;**Remote Sensing 主题下收录 80+ 数据集**（含 MODIS / Landsat / Sentinel / 高分 / NOAA / ESA 等）;与 `awesome-gee-community-datasets` 互补。",
+          "landmark": "**AwesomeData 主题分类树（GitHub 100k+ stars）**：社区维护的高质量数据集索引;**GitHub 数据集 README 配套 API / 镜像 / 论文引用 3 套元数据**;**`transportation` / `climate` / `geospatial` 三大主题的 30+ 地理相关数据集**",
+          "datasets": [
+            {
+              "idx": 1,
+              "name": "awesome-public-datasets Transportation 主题（80+ 数据集）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 2,
+              "name": "awesome-public-datasets Climate 主题（50+ 数据集）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 3,
+              "name": "awesome-public-datasets Geospatial 主题（80+ 数据集）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 4,
+              "name": "awesome-public-datasets Government 主题（200+ 数据集）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 5,
+              "name": "awesome-public-datasets Image Processing 主题（30+ 数据集）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 6,
+              "name": "awesome-public-datasets Machine Learning 主题（150+ 数据集）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 7,
+              "name": "awesome-public-datasets Biology 主题（100+ 数据集）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 8,
+              "name": "awesome-public-datasets Economics 主题（40+ 数据集）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 9,
+              "name": "awesome-public-datasets Sports 主题（20+ 数据集）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 10,
+              "name": "awesome-public-datasets Time Series 主题（40+ 数据集）",
+              "desc": "",
+              "url": ""
+            }
+          ],
+          "sub_links": [
+            {
+              "url": "https://github.com/awesomedata/awesome-public-datasets",
+              "label": "- GitHub"
+            },
+            {
+              "url": "https://awesomedata.io/",
+              "label": "- 镜像站点"
+            }
+          ]
+        },
+        {
+          "num": "180",
+          "title": "Free GIS Data — 第九部分延伸",
+          "anchor": "item-180",
+          "url": "https://freegisdata.org/",
+          "operator": "GIS Stack Exchange 社区",
+          "intro": "",
+          "features": "**全球免费 GIS 数据集汇总门户**（与 awesome 系列互补）,按**国家/地区** + **主题**双维度索引;包含 50+ 国家 1000+ 数据集;**适合按地区快速检索\"某国某主题\"数据集**;**与 `data.gov` / `data.gov.uk` / `data.gov.au` 等国家级门户互补**。",
+          "landmark": "**Free GIS Data 国家级分国索引（150+ 国家）**：一国一行的数据源清单;**Free GIS Data 主题分项索引（20+ 主题）**：DEM / 卫星影像 / 行政边界 / 路网 / 气候 / 生物多样性 / 海洋 / 土壤等;**Free GIS Data 北美 / 欧洲 / 亚洲 / 非洲 / 南美 / 大洋洲 6 大区域汇总**",
+          "datasets": [
+            {
+              "idx": 1,
+              "name": "Free GIS Data 中国专题",
+              "desc": "— <https://freegisdata.org/category/china/>",
+              "url": "https://freegisdata.org/category/china/"
+            },
+            {
+              "idx": 2,
+              "name": "Free GIS Data 美国专题（USGS / Census / EPA / NASA）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 3,
+              "name": "Free GIS Data 欧洲专题（欧盟 + 英国 + 德国 / 法国 / 荷兰 / 北欧）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 4,
+              "name": "Free GIS Data 全球 DEM 专题（SRTM / ASTER GDEM / ETOPO1）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 5,
+              "name": "Free GIS Data 全球卫星影像（Landsat / Sentinel / MODIS）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 6,
+              "name": "Free GIS Data 全球气候（WorldClim / CHIRPS / ERA5）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 7,
+              "name": "Free GIS Data 全球生物多样性（GBIF / IUCN）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 8,
+              "name": "Free GIS Data 全球海洋（GEBCO / EMODnet）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 9,
+              "name": "Free GIS Data 国家开放数据门户（data.gov 系）",
+              "desc": "",
+              "url": ""
+            },
+            {
+              "idx": 10,
+              "name": "Free GIS Data 学术 / 高校实验室专题数据集",
+              "desc": "",
+              "url": ""
+            }
+          ],
+          "sub_links": [
+            {
+              "url": "https://freegisdata.org/",
+              "label": "- **网址**"
             }
           ]
         }

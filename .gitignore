@@ -55,3 +55,6 @@ assets/screenshot-*.jpg
 run_check.bat
 url_check.log
 
+# 维护期临时资源(微信截图 / 交叉比对结果等,不入库)
+260907维护_git_ignore/
+
